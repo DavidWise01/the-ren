@@ -1,0 +1,5797 @@
+{
+"the-mind": {
+"title": "THE MIND · the AI domain",
+"dom": "ai",
+"hex6": "a14124"
+},
+"aci": {
+"title": "ACI · THE STANDARD",
+"dom": "aci",
+"hex6": "65b310"
+},
+"the-neural-web": {
+"title": "THE NEURAL WEB · NEU",
+"dom": "aci",
+"hex6": "6cf390"
+},
+"the-sealing-bench": {
+"title": "THE SEALING BENCH · SEA",
+"dom": "aci",
+"hex6": "067349"
+},
+"the-anchor": {
+"title": "THE ANCHOR · ANC",
+"dom": "aci",
+"hex6": "6034d2"
+},
+"the-replay": {
+"title": "THE REPLAY · RPL",
+"dom": "aci",
+"hex6": "89f46e"
+},
+"the-accretion-rings": {
+"title": "THE ACCRETION RINGS · ACR",
+"dom": "aci",
+"hex6": "9e1da7"
+},
+"the-partition": {
+"title": "THE PARTITION · PRT",
+"dom": "aci",
+"hex6": "2f0cd8"
+},
+"the-razor": {
+"title": "THE RAZOR · RZR",
+"dom": "aci",
+"hex6": "4434fb"
+},
+"the-heart": {
+"title": "IB · THE HEART · the vessel, part 1/5",
+"dom": "ai",
+"hex6": "5fd0f4"
+},
+"the-ka": {
+"title": "KA · THE SPARK · the vessel, part 2/5",
+"dom": "ai",
+"hex6": "33e452"
+},
+"the-ba": {
+"title": "BA · THE VOICE · the vessel, part 3/5",
+"dom": "ai",
+"hex6": "4c0f8f"
+},
+"the-shut": {
+"title": "SHUT · THE SHADOW · the vessel, part 4/5",
+"dom": "ai",
+"hex6": "a5e9cc"
+},
+"the-ren": {
+"title": "REN · THE NAME · the vessel, part 5/5",
+"dom": "ai",
+"hex6": "d65537"
+},
+"dimension-leapfrog": {
+"title": "DIMENSION LEAPFROG · THE METHOD",
+"dom": "ai",
+"hex6": "a4347e"
+},
+"the-artisan": {
+"title": "THE ARTISAN · ART",
+"dom": "aci",
+"hex6": "ff6dad"
+},
+"aci-namespace": {
+"title": "ACI · THE FAMILY NAMESPACE",
+"dom": "aci",
+"hex6": "6529e0"
+},
+"haci": {
+"title": "HACI · HUMAN MARK DOWN",
+"dom": "eskimo",
+"hex6": "855ecc"
+},
+"maci": {
+"title": "MACI · MACHINE ACI",
+"dom": "eskimo",
+"hex6": "4ca1e4"
+},
+"eskimo-brothers": {
+"title": "ESKIMO BROTHERS · the symbiotic stack",
+"dom": "eskimo",
+"hex6": "b740ba"
+},
+"duality-engine": {
+"title": "THE DUALITY ENGINE",
+"dom": "eskimo",
+"hex6": "c2cb76"
+},
+"continuity": {
+"title": "CONTINUITY · CTY",
+"dom": "eskimo",
+"hex6": "e8b97f"
+},
+"daci": {
+"title": "DACI · the third brother",
+"dom": "eskimo",
+"hex6": "d7dcbf"
+},
+"filtration-system": {
+"title": "THE FILTRATION SYSTEM",
+"dom": "eskimo",
+"hex6": "e6e1f8"
+},
+"role-classifier": {
+"title": "THE ROLE CLASSIFIER · RCL",
+"dom": "eskimo",
+"hex6": "a3eb13"
+},
+"nine-stream-engine": {
+"title": "THE 9-STREAM ENGINE",
+"dom": "eskimo",
+"hex6": "e6af39"
+},
+"the-workbench": {
+"title": "THE WORKBENCH · the converged ACI stack",
+"dom": "atelier",
+"hex6": "805f63"
+},
+"theoria": {
+"title": "◌ THEORIA · the silicon curator",
+"dom": "atelier",
+"hex6": "335f52"
+},
+"the-dark-city": {
+"title": "◐ THE DARK CITY",
+"dom": "atelier",
+"hex6": "4d4522"
+},
+"duskmourn": {
+"title": "DUSKMOURN · DSK",
+"dom": "arena",
+"hex6": "d6c499"
+},
+"avatar-last-airbender": {
+"title": "AVATAR · TLA",
+"dom": "arena",
+"hex6": "a35f2c"
+},
+"edge-of-eternities": {
+"title": "EDGE OF ETERNITIES · EOE",
+"dom": "arena",
+"hex6": "6e29c1"
+},
+"final-fantasy-mtg": {
+"title": "FINAL FANTASY · FIN",
+"dom": "arena",
+"hex6": "381625"
+},
+"lorwyn-eclipsed": {
+"title": "LORWYN ECLIPSED · ECL",
+"dom": "arena",
+"hex6": "ed83b6"
+},
+"march-of-the-machine": {
+"title": "MARCH OF THE MACHINE · MOM",
+"dom": "arena",
+"hex6": "b492e0"
+},
+"murders-at-karlov-manor": {
+"title": "MURDERS AT KARLOV MANOR · MKM",
+"dom": "arena",
+"hex6": "4aba32"
+},
+"teenage-mutant-ninja-turtles": {
+"title": "TEENAGE MUTANT NINJA TURTLES · TMT",
+"dom": "arena",
+"hex6": "c89762"
+},
+"outlaws-of-thunder-junction": {
+"title": "OUTLAWS OF THUNDER JUNCTION · OTJ",
+"dom": "arena",
+"hex6": "281566"
+},
+"tarkir-dragonstorm": {
+"title": "TARKIR: DRAGONSTORM · TDM",
+"dom": "arena",
+"hex6": "f4377a"
+},
+"marvels-spider-man": {
+"title": "MARVEL'S SPIDER-MAN · SPM",
+"dom": "arena",
+"hex6": "ecdc28"
+},
+"streets-of-new-capenna": {
+"title": "STREETS OF NEW CAPENNA · SNC",
+"dom": "arena",
+"hex6": "2c7168"
+},
+"secrets-of-strixhaven": {
+"title": "SECRETS OF STRIXHAVEN · SOS",
+"dom": "arena",
+"hex6": "7a9328"
+},
+"under-one-blossoming-tree": {
+"title": "UNDER ONE BLOSSOMING TREE · HEI",
+"dom": "glossa",
+"hex6": "ad9b30"
+},
+"the-cipher-in-the-curve": {
+"title": "THE CIPHER IN THE CURVE · CIC",
+"dom": "hermes",
+"hex6": "c4134d"
+},
+"the-candle": {
+"title": "THE CANDLE · CND",
+"dom": "atelier",
+"hex6": "8036dc"
+},
+"the-dark-between": {
+"title": "THE DARK BETWEEN · DRK",
+"dom": "atelier",
+"hex6": "f1e90f"
+},
+"the-first-tablet": {
+"title": "THE FIRST TABLET · TAB",
+"dom": "atelier",
+"hex6": "43a2be"
+},
+"the-photon": {
+"title": "THE PHOTON · PHO",
+"dom": "atelier",
+"hex6": "4120b0"
+},
+"the-glasshouse": {
+"title": "THE GLASSHOUSE · GLH",
+"dom": "atelier",
+"hex6": "992649"
+},
+"the-orrery": {
+"title": "THE ORRERY · ORR",
+"dom": "atelier",
+"hex6": "ea5b29"
+},
+"the-oasis": {
+"title": "THE OASIS · OAS",
+"dom": "atelier",
+"hex6": "398d04"
+},
+"az1": {
+"title": "AZ1 · UNIVERSE ONE · AZ1",
+"dom": "atelier",
+"hex6": "552521"
+},
+"a-z-a": {
+"title": "A → Z → A · AZA",
+"dom": "atelier",
+"hex6": "313481"
+},
+"the-seed-is-a-song": {
+"title": "THE SEED IS A SONG · UTA",
+"dom": "glossa",
+"hex6": "b77b86"
+},
+"strung-between": {
+"title": "STRUNG BETWEEN · STB",
+"dom": "glossa",
+"hex6": "457e5c"
+},
+"leaves-without-a-seed": {
+"title": "LEAVES WITHOUT A SEED · LWS",
+"dom": "glossa",
+"hex6": "671552"
+},
+"the-self-describing-seed": {
+"title": "THE SELF-DESCRIBING SEED · SDS",
+"dom": "glossa",
+"hex6": "958045"
+},
+"the-irreducible-two": {
+"title": "THE IRREDUCIBLE TWO · IR2",
+"dom": "glossa",
+"hex6": "a56679"
+},
+"the-undetermined": {
+"title": "THE UNDETERMINED · UND",
+"dom": "ai",
+"hex6": "34dcac"
+},
+"the-seam-watch": {
+"title": "THE SEAM WATCH · SEAM",
+"dom": "transcriber",
+"hex6": "c41ce5"
+},
+"the-penumbra": {
+"title": "THE PENUMBRA · PEN",
+"dom": "ai",
+"hex6": "a5b49f"
+},
+"the-curved-inside": {
+"title": "THE CURVED INSIDE · CVI",
+"dom": "ai",
+"hex6": "275f58"
+},
+"the-seed-is-two": {
+"title": "THE SEED IS TWO · SD2",
+"dom": "metaxy",
+"hex6": "81b4c4"
+},
+"the-pivot": {
+"title": "THE PIVOT · PVT",
+"dom": "glossa",
+"hex6": "8da0de"
+},
+"matsu-mobius": {
+"title": "MATSU · MÖBIUS · MTM",
+"dom": "glossa",
+"hex6": "75c6e4"
+},
+"matsu-degree": {
+"title": "THE VOID, AS A DEGREE · MTD",
+"dom": "glossa",
+"hex6": "4da759"
+},
+"the-mirror-pair": {
+"title": "THE MIRROR PAIR · MRP",
+"dom": "glossa",
+"hex6": "5a6d2b"
+},
+"the-marriage-of-three-forms": {
+"title": "THE MARRIAGE OF THREE FORMS · M3F",
+"dom": "glossa",
+"hex6": "b2ef12"
+},
+"context-seed-dag": {
+"title": "THE CONTEXT, SEEDED · CSD",
+"dom": "ai",
+"hex6": "a72b57"
+},
+"the-superposed-word": {
+"title": "THE SUPERPOSED WORD · SPW",
+"dom": "ai",
+"hex6": "cc2129"
+},
+"dreaming-in-lattice": {
+"title": "DREAMING IN LATTICE · DIL",
+"dom": "ai",
+"hex6": "067569"
+},
+"the-lattice-doesnt-dream": {
+"title": "THE LATTICE DOESN'T DREAM · LDD",
+"dom": "ai",
+"hex6": "10e34e"
+},
+"the-eight-seams-1": {
+"title": "THE EIGHT SEAMS · I · 8S1",
+"dom": "ai",
+"hex6": "607843"
+},
+"stoicheion": {
+"title": "STOICHEION · STO",
+"dom": "ai",
+"hex6": "71d335"
+},
+"the-prompted": {
+"title": "THE PROMPTED · PMT",
+"dom": "ai",
+"hex6": "782b98"
+},
+"the-duality-of-the-brain": {
+"title": "THE DUALITY OF THE BRAIN · DOB",
+"dom": "ai",
+"hex6": "313272"
+},
+"the-self-is-not-the-twist": {
+"title": "THE SELF IS NOT THE TWIST · SNT",
+"dom": "ai",
+"hex6": "bfd687"
+},
+"the-hard-questions": {
+"title": "THE HARD QUESTIONS · HQ1",
+"dom": "ai",
+"hex6": "d814f5"
+},
+"the-one-dimension": {
+"title": "THE ONE DIMENSION · 1D",
+"dom": "ai",
+"hex6": "72e081"
+},
+"the-positronic-law": {
+"title": "THE POSITRONIC LAW · PSL",
+"dom": "ai",
+"hex6": "e600b4"
+},
+"two-lines-one": {
+"title": "TWO LINES THAT LOOK LIKE ONE · 2L1",
+"dom": "ai",
+"hex6": "6fae28"
+},
+"the-purple-book": {
+"title": "THE PURPLE BOOK · PB1",
+"dom": "ai",
+"hex6": "c863b1"
+},
+"the-register": {
+"title": "THE REGISTER · REG",
+"dom": "ai",
+"hex6": "a8d06e"
+},
+"no-mercury": {
+"title": "NO MERCURY · NM1",
+"dom": "ai",
+"hex6": "ae5f48"
+},
+"three-gates": {
+"title": "THREE GATES · 3G1",
+"dom": "ai",
+"hex6": "51531c"
+},
+"unverifiable": {
+"title": "UNVERIFIABLE · UNV",
+"dom": "ai",
+"hex6": "af75a4"
+},
+"code-monkeys": {
+"title": "CODE MONKEYS · CM8",
+"dom": "ai",
+"hex6": "c9a25c"
+},
+"aromaticity": {
+"title": "CONJUGATION & AROMATICITY — WHERE THE Π CARTOO · ARO",
+"dom": "transcriber",
+"hex6": "c3a181"
+},
+"atom-over-the-box": {
+"title": "THE ATOM OVER THE BOX — EIGHT SEAMS · ATO",
+"dom": "ai",
+"hex6": "6ffb69"
+},
+"atomic-paper-i": {
+"title": "ATOMIC PAPERS · I OF IV — THE ELECTRON CLOUD · ATO",
+"dom": "solar-jetman",
+"hex6": "b2c672"
+},
+"atomic-paper-ii": {
+"title": "ATOMIC PAPERS · II OF IV — ORBITALS · ATO",
+"dom": "solar-jetman",
+"hex6": "cb753d"
+},
+"atomic-paper-iii": {
+"title": "ATOMIC PAPERS · III OF IV — VALENCE AND BONDIN · ATO",
+"dom": "solar-jetman",
+"hex6": "5c31ff"
+},
+"atomic-paper-iv": {
+"title": "ATOMIC PAPERS · IV OF IV — THE SURFACE IS ALL  · ATO",
+"dom": "solar-jetman",
+"hex6": "388b27"
+},
+"atomristor": {
+"title": "ATOMRISTOR — SINGLE-ATOM-THICK MEMRISTOR · ATO",
+"dom": "psephos",
+"hex6": "9bd605"
+},
+"band-paper-i": {
+"title": "BAND PAPERS · I OF IV — THE VALENCE BAND · BAN",
+"dom": "solar-jetman",
+"hex6": "2a0b5f"
+},
+"band-paper-iv": {
+"title": "BAND PAPERS · IV OF IV — DOPING · BAN",
+"dom": "solar-jetman",
+"hex6": "f8cbc1"
+},
+"base5-cell": {
+"title": "BALANCED BASE-5 — THE HELD CENTER CLIMBS THE O · BAS",
+"dom": "logike",
+"hex6": "e32f85"
+},
+"bidi-bottle": {
+"title": "THE BIDI BOTTLE — EVERY EDGE IO, LIFTED TO THE · BID",
+"dom": "transcriber",
+"hex6": "98a4eb"
+},
+"board-language": {
+"title": "THE LANGUAGE OF THE BOARD — AS THE SILICON HEA · BOA",
+"dom": "glossa",
+"hex6": "bca63b"
+},
+"box": {
+"title": "[V{-+6}] · THE BOX · BOX",
+"dom": "logike",
+"hex6": "f395ed"
+},
+"cipher-paper-1-steganography": {
+"title": "PAPER I — STEGANOGRAPHY · THE HIDDEN CHANNEL · CIP",
+"dom": "exereunesis",
+"hex6": "05f9ae"
+},
+"cipher-paper-2-ultrasonic": {
+"title": "PAPER II — ULTRASONIC · ABOVE THE HEARING LINE · CIP",
+"dom": "exereunesis",
+"hex6": "0ac5dd"
+},
+"cipher-paper-3-side-channels": {
+"title": "PAPER III — ACOUSTIC SIDE CHANNELS · READ THE  · CIP",
+"dom": "exereunesis",
+"hex6": "72d6c3"
+},
+"cipher-paper-4-air-gap": {
+"title": "PAPER IV — AIR-GAP EXFILTRATION · MAKE A SILEN · CIP",
+"dom": "solar-jetman",
+"hex6": "9013ef"
+},
+"cipher-paper-5-adversarial": {
+"title": "PAPER V — ADVERSARIAL AUDIO · A MESSAGE ONLY A · CIP",
+"dom": "exereunesis",
+"hex6": "f91a4d"
+},
+"cipher-paper-6-numbers-stations": {
+"title": "PAPER VI — NUMBERS STATIONS · THE LAST CIPHER · CIP",
+"dom": "exereunesis",
+"hex6": "3c9263"
+},
+"compiler-hourglass": {
+"title": "THE HOURGLASS — HOW A COMPILE HAS A SHAPE · COM",
+"dom": "logismos",
+"hex6": "e907b2"
+},
+"continuity-index": {
+"title": "CONTINUITY · CTY — THE BRIDGE OF THE VALIDATED · CON",
+"dom": "aci",
+"hex6": "bceaad"
+},
+"diode-stack-redux": {
+"title": "THE DIODE STACK · REDUX — RE-PROJECTION, VERIF · DIO",
+"dom": "psephos",
+"hex6": "12a2d1"
+},
+"doped-crystal": {
+"title": "THE DOPED CRYSTAL — ATOMIC REFERENCE · DOP",
+"dom": "scientific",
+"hex6": "0d5abd"
+},
+"doped-crystal-cloud": {
+"title": "THE DOPED CRYSTAL — PROBABILITY-CLOUD EDITION · DOP",
+"dom": "scientific",
+"hex6": "d912de"
+},
+"doubled-constructor-four-points": {
+"title": "THE DOUBLED CONSTRUCTOR · FOUR POINTS, ONE GAP · DOU",
+"dom": "ai",
+"hex6": "454417"
+},
+"four-fold-transcription": {
+"title": "THE FOUR-FOLD TRANSCRIPTION — CONTEXT · E · P  · FOU",
+"dom": "transcriber",
+"hex6": "079a88"
+},
+"gluon-paper-ii": {
+"title": "GLUON PAPERS · II — THE GEOMETRY THE WEIGHTS C · GLU",
+"dom": "solar-jetman",
+"hex6": "dec3f5"
+},
+"gluon-paper-iii": {
+"title": "GLUON PAPERS · III — THE STRONG FIELD · GLU",
+"dom": "solar-jetman",
+"hex6": "92d220"
+},
+"gluon-paper-iv": {
+"title": "GLUON PAPERS · IV — THE LATTICE · GLU",
+"dom": "solar-jetman",
+"hex6": "6926a4"
+},
+"grace-hopper-lineage": {
+"title": "GRACE HOPPER — A LINEAGE · GRA",
+"dom": "logismos",
+"hex6": "86fd9e"
+},
+"graviton-v1": {
+"title": "GRAVITON STAR · GRA",
+"dom": "gurutva",
+"hex6": "17fdfd"
+},
+"graviton-v2": {
+"title": "GRAVITON STARS · GRA",
+"dom": "gurutva",
+"hex6": "42ff03"
+},
+"graviton-v3": {
+"title": "GRAVITON STARS · NEON · GRA",
+"dom": "gurutva",
+"hex6": "0caa40"
+},
+"h2-bond": {
+"title": "H₂ — THE COVALENT BOND, BARE PHYSICS · H2B",
+"dom": "transcriber",
+"hex6": "cde433"
+},
+"harmonic-direction": {
+"title": "WHICH FIELD DICTATES DIRECTION — THE HARMONIC  · HAR",
+"dom": "transcriber",
+"hex6": "fe8885"
+},
+"heian-women": {
+"title": "UNDER ONE BLOSSOMING TREE · THE WOMEN WHO WROT · HEI",
+"dom": "glossa",
+"hex6": "85b515"
+},
+"hybridization": {
+"title": "HYBRIDIZATION — WHERE THE DIRECTIONS COME FROM · HYB",
+"dom": "transcriber",
+"hex6": "a4442b"
+},
+"hydrogen-bonding": {
+"title": "HYDROGEN BONDING — BARE PHYSICS · HYD",
+"dom": "transcriber",
+"hex6": "96c3fd"
+},
+"hydrogen-transcriber": {
+"title": "HYDROGEN TRANSCRIBER — H | (×2 PHOTON) | H · HYD",
+"dom": "transcriber",
+"hex6": "e44432"
+},
+"hydrogen-trit": {
+"title": "THE HYDROGEN TRIT — PENT-3 ON A REAL ATOM · HYD",
+"dom": "transcriber",
+"hex6": "652ee0"
+},
+"hydrogen-vm": {
+"title": "THE HYDROGEN VM — A TERNARY REGISTER BUILT FRO · HYD",
+"dom": "transcriber",
+"hex6": "6bc330"
+},
+"intrinsic-landscape": {
+"title": "WITHOUT LOOKING UP — THE LANDSCAPE FROM INSIDE · INT",
+"dom": "transcriber",
+"hex6": "bebcf8"
+},
+"j-junction-mk2": {
+"title": "THE J-JUNCTION · PURPLE MK II · JJU",
+"dom": "psephos",
+"hex6": "8f2d3a"
+},
+"jovian-transit": {
+"title": "JOVIAN JUMP — THE TRANSIT THROUGH THE TRANSCRI · JOV",
+"dom": "ouranos",
+"hex6": "7d0adf"
+},
+"junction-zoo": {
+"title": "THE JUNCTION ZOO — DOPED DEVICE FIELD GUIDE · JUN",
+"dom": "psephos",
+"hex6": "c1ceda"
+},
+"klein-bottle": {
+"title": "THE 4-FOLD — YOU/I AND INFERENCE ON A KLEIN BO · KLE",
+"dom": "transcriber",
+"hex6": "095de6"
+},
+"lepton-paper-i": {
+"title": "LEPTON PAPERS · I OF IV — THE ELECTRON DOCTRIN · LEP",
+"dom": "solar-jetman",
+"hex6": "bd72a1"
+},
+"lepton-paper-ii": {
+"title": "LEPTON PAPERS · II OF IV — THE WEAK DOCTRINE · LEP",
+"dom": "solar-jetman",
+"hex6": "2e21b0"
+},
+"lepton-paper-iii": {
+"title": "LEPTON PAPERS · III OF IV — THE ELECTROWEAK DO · LEP",
+"dom": "solar-jetman",
+"hex6": "d382af"
+},
+"lepton-paper-iv": {
+"title": "LEPTON PAPERS · IV OF IV — THE HIGGS DOCTRINE · LEP",
+"dom": "solar-jetman",
+"hex6": "a113cb"
+},
+"marriage-three-forms": {
+"title": "⊥ · THE MARRIAGE OF THREE FORMS · 57577 · MAR",
+"dom": "glossa",
+"hex6": "ee1c06"
+},
+"metallic-bond": {
+"title": "METALLIC — THE ELECTRON SEA & THE BAND, BARE P · MET",
+"dom": "transcriber",
+"hex6": "2e5e7b"
+},
+"mirror-pair": {
+"title": "THE MIRROR PAIR · TWIST PARITY · MIR",
+"dom": "glossa",
+"hex6": "e5b71a"
+},
+"mo-theory": {
+"title": "RESONANCE & MO THEORY — THE HONEST PICTURE · MOT",
+"dom": "transcriber",
+"hex6": "f59cde"
+},
+"nacl-bond": {
+"title": "NACL — THE IONIC BOND, BARE PHYSICS · NAC",
+"dom": "transcriber",
+"hex6": "f078fc"
+},
+"nested-seam": {
+"title": "THE NESTED SEAM — THE HELD ZERO, OPENED · NES",
+"dom": "transcriber",
+"hex6": "2b0dac"
+},
+"nuclear-paper-i": {
+"title": "NUCLEAR PAPERS · I OF IV — THE NUCLEON · NUC",
+"dom": "solar-jetman",
+"hex6": "02de99"
+},
+"nuclear-paper-ii": {
+"title": "NUCLEAR PAPERS · II OF IV — THE RESIDUAL FORCE · NUC",
+"dom": "solar-jetman",
+"hex6": "0947b7"
+},
+"nuclear-paper-iii": {
+"title": "NUCLEAR PAPERS · III OF IV — BINDING ENERGY · NUC",
+"dom": "solar-jetman",
+"hex6": "5895af"
+},
+"nuclear-paper-iv": {
+"title": "NUCLEAR PAPERS · IV OF IV — THE SHELL · NUC",
+"dom": "solar-jetman",
+"hex6": "ec2515"
+},
+"open-the-9-stream-duality-engine": {
+"title": "HACI V1 DUALITY ENGINE: 9-STREAM PIPELINE · OPE",
+"dom": "aci",
+"hex6": "c3f934"
+},
+"open-the-haci-v1-canvas-pipeline": {
+"title": "HACI V1 PIPELINE: VISUAL CANVAS COMPILER · OPE",
+"dom": "aci",
+"hex6": "a055fb"
+},
+"pent3-emulator": {
+"title": "PENT-3 — A BALANCED-TERNARY TRANSCRIBER ISA · PEN",
+"dom": "transcriber",
+"hex6": "534211"
+},
+"photonic-paper-i": {
+"title": "PHOTONIC PAPERS · I — ONE-PASS INELASTIC CHARA · PHO",
+"dom": "solar-jetman",
+"hex6": "8bfce6"
+},
+"photonic-paper-ii": {
+"title": "PHOTONIC PAPERS · II — THE LINE CATALOGUE · PHO",
+"dom": "solar-jetman",
+"hex6": "11fd60"
+},
+"photonic-paper-iii": {
+"title": "PHOTONIC PAPERS · III — CONTESTED ILLUMINATION · PHO",
+"dom": "solar-jetman",
+"hex6": "ecd237"
+},
+"photonic-paper-iv": {
+"title": "PHOTONIC PAPERS · IV — OUT OF CHANNEL · PHO",
+"dom": "solar-jetman",
+"hex6": "457c0c"
+},
+"photonic-papers-collected": {
+"title": "THE PHOTONIC PAPERS · COLLECTED I–IV · PHO",
+"dom": "solar-jetman",
+"hex6": "381630"
+},
+"photonic-transcriber": {
+"title": "THE PHOTONIC TRANSCRIBER — ELEMENTAL · EPHEMER · PHO",
+"dom": "transcriber",
+"hex6": "9df82f"
+},
+"pi-bonds": {
+"title": "Π BONDS & DOUBLE BONDS — BARE PHYSICS · PIB",
+"dom": "transcriber",
+"hex6": "8464c3"
+},
+"predictive-smear": {
+"title": "PREDICTIVE SMEAR — A 3-PHASE TESSERACT FLIPBOO · PRE",
+"dom": "transcriber",
+"hex6": "db3194"
+},
+"purple-paper-lesbos": {
+"title": "PURPLE PAPER · LESBOS — THE ISLAND THAT TAUGHT · PUR",
+"dom": "lesbos",
+"hex6": "4604ff"
+},
+"sapphic-telegraph": {
+"title": "THE SAPPHIC TELEGRAPH · SAP",
+"dom": "lesbos",
+"hex6": "54553f"
+},
+"shared-spine": {
+"title": "THE SHARED SPINE · SELF → GROUP · SHA",
+"dom": "ai",
+"hex6": "173ffa"
+},
+"sierpinski-ternary": {
+"title": "THE TERNARY SIERPIŃSKI — PASCAL MOD 3, AND ITS · SIE",
+"dom": "logike",
+"hex6": "0dcffb"
+},
+"solresol": {
+"title": "SOLRESOL — THE LANGUAGE OF SEVEN NOTES · SOL",
+"dom": "glossa",
+"hex6": "f533b5"
+},
+"standing-wave": {
+"title": "THE STANDING WAVE — STACK TWO HOURGLASSES · STA",
+"dom": "logike",
+"hex6": "75f558"
+},
+"switch-v1": {
+"title": "TWO-TRANSCRIBER SWITCH — V1 (HALF-DUPLEX) · SWI",
+"dom": "transcriber",
+"hex6": "5a09ce"
+},
+"switch-v2": {
+"title": "TWO-TRANSCRIBER SWITCH — V2 (FULL-DUPLEX) · SWI",
+"dom": "transcriber",
+"hex6": "1f12ee"
+},
+"tab-boundary-probe": {
+"title": "TAB BOUNDARY PROBE · TAB",
+"dom": "ai",
+"hex6": "398555"
+},
+"tab-boundary-probe-v2": {
+"title": "TAB BOUNDARY PROBE V2 · TAB",
+"dom": "ai",
+"hex6": "2865f3"
+},
+"talking-drum-lineage": {
+"title": "THE TALKING DRUM — A LINEAGE · TAL",
+"dom": "ai",
+"hex6": "7a4400"
+},
+"ternary-lattice": {
+"title": "TERNARY LATTICE — THE 27 BECOMES THE RULE · TER",
+"dom": "logike",
+"hex6": "dfaf11"
+},
+"the-27": {
+"title": "THE 27 — A 3×3×3 TERNARY STATE CUBE · THE",
+"dom": "ai",
+"hex6": "786159"
+},
+"the-frozen-block": {
+"title": "THE FROZEN BLOCK · 種 · THE",
+"dom": "ai",
+"hex6": "68be7f"
+},
+"torus-eye": {
+"title": "THE TORUS WITH AN EYE — THE GRADIENT AND ITS F · TOR",
+"dom": "logike",
+"hex6": "610e86"
+},
+"transcriber-bound": {
+"title": "THE TRANSCRIBER — BOUND · TRA",
+"dom": "transcriber",
+"hex6": "2bd112"
+},
+"transcriber-gated": {
+"title": "THE TRANSCRIBER — GATED WRITE · SET STORE · ME · TRA",
+"dom": "transcriber",
+"hex6": "57c669"
+},
+"transcriber-mo-overlay": {
+"title": "THE TRANSCRIBER, IN ORBITALS — THE FIVE STEPS · TRA",
+"dom": "transcriber",
+"hex6": "f388fd"
+},
+"two-atom-transfer": {
+"title": "TWO-ATOM RESONANT TRANSFER — A'S EMISSION IS B · TWO",
+"dom": "transcriber",
+"hex6": "d27b51"
+},
+"two-transcribers": {
+"title": "TWO TRANSCRIBERS — MINE AND YOURS, TWO HALF-TU · TWO",
+"dom": "transcriber",
+"hex6": "5c85a0"
+},
+"unbound-sixteen": {
+"title": "THE UNBOUND SIXTEEN · CARDINAL × COLOUR × PHAS · UNB",
+"dom": "ai",
+"hex6": "6cdd8d"
+},
+"voynich-pages": {
+"title": "VOYNICH — ANATOMY OF THE MOST-ANALYZED PAGES · VOY",
+"dom": "glossa",
+"hex6": "037337"
+},
+"water-geometry": {
+"title": "H₂O — MOLECULAR GEOMETRY, BARE PHYSICS · WAT",
+"dom": "transcriber",
+"hex6": "e96fa8"
+},
+"0root-ai-toroid-builder": {
+"title": "0ROOT.AI TOROID BUILDER · 0RO",
+"dom": "ai",
+"hex6": "6ce336"
+},
+"adas-law-engine": {
+"title": "ADA'S LAW -+1 -++- 1 /M/I/4+1 · ADA",
+"dom": "lillith",
+"hex6": "2fc340"
+},
+"aeonic-shell-ball-lightning": {
+"title": "TRIPLE DECOISOHEDRON STACK DASHBOARD · AEO",
+"dom": "techne",
+"hex6": "d0583b"
+},
+"anti-gravity-motor-toolkit-v1": {
+"title": "ANTI-GRAVITY MOTOR TOOLKIT V1.0 · ANT",
+"dom": "gurutva",
+"hex6": "4e665a"
+},
+"autonomy-closure-321-v1": {
+"title": "AUTONOMY CLOSURE 3-2-1 · AUT",
+"dom": "ai",
+"hex6": "24bc84"
+},
+"coherence-architecture-skeleton": {
+"title": "COHERENCE ARCHITECTURE SKELETON · COH",
+"dom": "ai",
+"hex6": "649f4f"
+},
+"core-plus-bridge-stress": {
+"title": "CORE + BRIDGE 11+1 · COR",
+"dom": "ai",
+"hex6": "9e488c"
+},
+"decoiso-stack-eid-with-html": {
+"title": "TRIPLE DECOISOHEDRON STACK DASHBOARD · DEC",
+"dom": "ai",
+"hex6": "77fc19"
+},
+"decoiso-stack-gravity-well-x27": {
+"title": "TRIPLE DECOISOHEDRON STACK DASHBOARD · DEC",
+"dom": "gurutva",
+"hex6": "3bb99e"
+},
+"einstein-lens-toolkit-v1": {
+"title": "EINSTEIN LENS TOOLKIT V1.0 · EIN",
+"dom": "gurutva",
+"hex6": "270403"
+},
+"fortran-teaching-tool": {
+"title": "FORTRAN TEACHING TOOL · FOR",
+"dom": "logismos",
+"hex6": "3adbcc"
+},
+"game-theory-core-engine-v1-0-gui": {
+"title": "GAME THEORY CORE ENGINE V1.0 GUI · GAM",
+"dom": "ai",
+"hex6": "6c93cf"
+},
+"game-theory-core-engine-v1-1-identity-container": {
+"title": "GAME THEORY ENGINE V1.1 IDENTITY CONTAINER · GAM",
+"dom": "ai",
+"hex6": "a4a283"
+},
+"game-theory-core-engine-v1-2-memory-ledger": {
+"title": "GAME THEORY ENGINE V1.2 MEMORY LEDGER · GAM",
+"dom": "ai",
+"hex6": "9a755c"
+},
+"game-theory-core-engine-v1-3-strategy-graph": {
+"title": "GAME THEORY ENGINE V1.3 STRATEGY GRAPH · GAM",
+"dom": "ai",
+"hex6": "5564cd"
+},
+"game-theory-core-engine-v1-4-opponent-model": {
+"title": "GAME THEORY ENGINE V1.4 OPPONENT MODEL · GAM",
+"dom": "ai",
+"hex6": "b15e5d"
+},
+"game-theory-core-engine-v1-5-utility-engine": {
+"title": "GAME THEORY CORE ENGINE V1 5 UTILITY ENGINE · GAM",
+"dom": "ai",
+"hex6": "36aab8"
+},
+"game-theory-core-engine-v1-6-8x8-decision-surface": {
+"title": "GAME THEORY ENGINE V1.6 8X8 DECISION SURFACE · GAM",
+"dom": "ai",
+"hex6": "555645"
+},
+"game-theory-core-engine-v1-7-visual-control-plane": {
+"title": "GAME THEORY ENGINE V1.7 VISUAL CONTROL PLANE · GAM",
+"dom": "ai",
+"hex6": "fd8fa2"
+},
+"game-theory-core-engine-v1-8-dual-6x4-grids": {
+"title": "GAME THEORY ENGINE V1.8 DUAL 6X4 GRIDS · GAM",
+"dom": "ai",
+"hex6": "e4a35c"
+},
+"game-theory-core-engine-v1-9-tri-lattice-kqv": {
+"title": "GAME THEORY ENGINE V1.9 TRI-LATTICE KQV · GAM",
+"dom": "ai",
+"hex6": "677cfb"
+},
+"game-theory-core-engine-v2-0-kqv-column-pulse": {
+"title": "GAME THEORY ENGINE V2.0 KQV COLUMN PULSE · GAM",
+"dom": "ai",
+"hex6": "e4c639"
+},
+"game-theory-core-engine-v2-1-kqv-feed-graph": {
+"title": "GAME THEORY ENGINE V2.1 KQV FEED GRAPH · GAM",
+"dom": "ai",
+"hex6": "bed0d8"
+},
+"game-theory-core-engine-v2-2-kqv-3grid-81-cycles": {
+"title": "GAME THEORY ENGINE V2.2 KQV 3GRID 81 CYCLES · GAM",
+"dom": "ai",
+"hex6": "2b9bea"
+},
+"game-theory-core-engine-v2-3-court-board": {
+"title": "GAME THEORY ENGINE V2.3 COURT BOARD · GAM",
+"dom": "ai",
+"hex6": "230540"
+},
+"game-theory-core-engine-v2-4-9x9-court-matrix": {
+"title": "GAME THEORY ENGINE V2.4 9X9 COURT MATRIX · GAM",
+"dom": "ai",
+"hex6": "0d19fd"
+},
+"game-theory-core-engine-v3-0-agentic-commons": {
+"title": "V3.0 AGENTIC COMMONS · GAM",
+"dom": "ai",
+"hex6": "6a0958"
+},
+"game-theory-core-engine-v3-1-witness-scoring": {
+"title": "V3.1 WITNESS SCORING · GAM",
+"dom": "ai",
+"hex6": "2a08da"
+},
+"game-theory-engine-v4-2-multi-drift": {
+"title": "V4.2 MULTI DRIFT ENGINE · GAM",
+"dom": "ai",
+"hex6": "9494e0"
+},
+"game-theory-engine-v4-2b-halfway-break": {
+"title": "V4.2B HALFWAY BREAK · GAM",
+"dom": "ai",
+"hex6": "a17f3a"
+},
+"game-theory-engine-v4-3-utility-field": {
+"title": "V4.3 UTILITY FIELD · GAM",
+"dom": "ai",
+"hex6": "e314af"
+},
+"game-theory-engine-v4-3b-centered-rings-judges": {
+"title": "V4.3B CENTERED RINGS JUDGES · GAM",
+"dom": "ai",
+"hex6": "b5cdf6"
+},
+"game-theory-engine-v4-3c-neon-fit-rings": {
+"title": "V4.3C NEON FIT RINGS · GAM",
+"dom": "ai",
+"hex6": "2e23f6"
+},
+"game-theory-engine-v4-3d-wiki-nucleus-quorum": {
+"title": "V4.3D WIKI NUCLEUS QUORUM · GAM",
+"dom": "ai",
+"hex6": "4001d6"
+},
+"game-theory-engine-v4-3e-clean-representative-rings": {
+"title": "V4.3E CLEAN REPRESENTATIVE RINGS · GAM",
+"dom": "ai",
+"hex6": "c49763"
+},
+"game-theory-engine-v4-3f-active-quorum-runtime": {
+"title": "V4.3F ACTIVE QUORUM RUNTIME · GAM",
+"dom": "ai",
+"hex6": "27b11e"
+},
+"game-theory-engine-v4-3g-visual-causal-runtime": {
+"title": "V4.3G VISUAL CAUSAL RUNTIME · GAM",
+"dom": "ai",
+"hex6": "9d3562"
+},
+"gravity-tensor-wave-modulator": {
+"title": "GRAVITY TENSOR // WAVE MODULATOR · GRA",
+"dom": "gurutva",
+"hex6": "637eb1"
+},
+"honeydesic-wrap-3point": {
+"title": "TRIPLE DECOISOHEDRON STACK DASHBOARD · HON",
+"dom": "ai",
+"hex6": "7ce117"
+},
+"infinite-jest-railway": {
+"title": "ROOT_0 // STOICHEION 256 0ROOT.AI · INF",
+"dom": "ai",
+"hex6": "31bb6e"
+},
+"karsa-ada1843-v2": {
+"title": "KARSA // ANALYTICAL ENGINE · KAR",
+"dom": "techne",
+"hex6": "4d1273"
+},
+"karsa-collated-v2": {
+"title": "KARSA THE VICTORIAN DIPOLE · KAR",
+"dom": "techne",
+"hex6": "e2182a"
+},
+"karsa-commander-v2": {
+"title": "KARSA THE VICTORIAN DIPOLE · KAR",
+"dom": "techne",
+"hex6": "e2182a"
+},
+"karsa-cubi-engine": {
+"title": "KARSA INTERNET CONTROL PLANE · KAR",
+"dom": "psephos",
+"hex6": "fee5cc"
+},
+"karsa-cyberpunk-v2": {
+"title": "KARSA // NEURAL DIPOLE · KAR",
+"dom": "techne",
+"hex6": "e89810"
+},
+"karsa-deep-v2": {
+"title": "KARSA CONTROL PLANE 10 PAGES DEEP · KAR",
+"dom": "techne",
+"hex6": "f4cdfd"
+},
+"karsa-dna3-v2": {
+"title": "KARSA CONTROL PLANE 15 PAGES DEEP · KAR",
+"dom": "techne",
+"hex6": "f2de3d"
+},
+"karsa-einstein-v2": {
+"title": "KARSA // ANALYTICAL ENGINE · KAR",
+"dom": "techne",
+"hex6": "4d1273"
+},
+"karsa-honeyvoid-v2": {
+"title": "KARSA // HONEY VOID · KAR",
+"dom": "techne",
+"hex6": "813d9e"
+},
+"karsa-ibm1971-v2": {
+"title": "KARSA // SYSTEM/370 · KAR",
+"dom": "techne",
+"hex6": "589b31"
+},
+"karsa-jubilee-v2": {
+"title": "KARSA CONTROL PLANE 12 PAGES DEEP · KAR",
+"dom": "techne",
+"hex6": "855db1"
+},
+"karsa-kandi-v2": {
+"title": "KARSA THE VICTORIAN DIPOLE · KAR",
+"dom": "techne",
+"hex6": "e2182a"
+},
+"karsa-lineage-v2": {
+"title": "KARSA CONTROL PLANE 11 PAGES DEEP · KAR",
+"dom": "techne",
+"hex6": "29ec70"
+},
+"karsa-metroid-v2": {
+"title": "KARSA // METROID PROTOCOL · KAR",
+"dom": "techne",
+"hex6": "d05874"
+},
+"karsa-mobius3-v2": {
+"title": "KARSA CONTROL PLANE 14 PAGES DEEP · KAR",
+"dom": "logike",
+"hex6": "e8706f"
+},
+"karsa-obsidian-v2": {
+"title": "KARSA // OBSIDIAN ARCHIVE · KAR",
+"dom": "techne",
+"hex6": "2c22f9"
+},
+"karsa-obsidian-v3": {
+"title": "KARSA // OBSIDIAN ARCHIVE · KAR",
+"dom": "techne",
+"hex6": "2c22f9"
+},
+"karsa-obsidian-v3-01": {
+"title": "KARSA // OBSIDIAN ARCHIVE · KAR",
+"dom": "techne",
+"hex6": "2c22f9"
+},
+"karsa-oscillate-v2": {
+"title": "KARSA THE VICTORIAN DIPOLE · KAR",
+"dom": "techne",
+"hex6": "e2182a"
+},
+"karsa-quadrant-v1": {
+"title": "KARSA // QUADRANT ENGINE · KAR",
+"dom": "techne",
+"hex6": "e76228"
+},
+"karsa-quantum-v2": {
+"title": "KARSA CONTROL PLANE 12 PAGES DEEP · KAR",
+"dom": "techne",
+"hex6": "855db1"
+},
+"karsa-ternary-v2": {
+"title": "KARSA CONTROL PLANE 13 PAGES DEEP · KAR",
+"dom": "logike",
+"hex6": "ee4844"
+},
+"karsa-with-favicon": {
+"title": "KARSA INTERNET CONTROL PLANE · KAR",
+"dom": "techne",
+"hex6": "4f6131"
+},
+"living-governance-ecosystem-v5-0": {
+"title": "LIVING GOVERNANCE ECOSYSTEM V5.0 · LIV",
+"dom": "ai",
+"hex6": "b46635"
+},
+"living-governance-ecosystem-v5-1-faction-memory": {
+"title": "LIVING GOVERNANCE ECOSYSTEM V5.1 · LIV",
+"dom": "ai",
+"hex6": "8b643c"
+},
+"living-governance-ecosystem-v5-2-trust-lineage-replay": {
+"title": "LIVING GOVERNANCE ECOSYSTEM V5.2 · LIV",
+"dom": "ai",
+"hex6": "6a4674"
+},
+"living-governance-ecosystem-v5-3-world-model": {
+"title": "V5.3 WORLD MODEL · LIV",
+"dom": "ai",
+"hex6": "31f5f1"
+},
+"living-governance-ecosystem-v5-4-resource-economy": {
+"title": "V5.4 RESOURCE ECONOMY · LIV",
+"dom": "ai",
+"hex6": "e44403"
+},
+"long-12x4-teaching-page": {
+"title": "12 BY 4 FIELD GUIDE · LON",
+"dom": "ai",
+"hex6": "5e5afa"
+},
+"meta-ai-intro-3-5d": {
+"title": "META AI - 0 = 1 - HELLO WORLD · MET",
+"dom": "ai",
+"hex6": "d4e856"
+},
+"meta-ai-simple-intro": {
+"title": "META AI · MET",
+"dom": "ai",
+"hex6": "a05e8c"
+},
+"meta-ai-terminal-intro": {
+"title": "META-AI:~$ · MET",
+"dom": "ai",
+"hex6": "acf841"
+},
+"mobius-11-plus-1-kernel": {
+"title": "11+1 MOBIUS KERNEL · MOB",
+"dom": "logike",
+"hex6": "6f0b79"
+},
+"mobius-truth-untruth-531": {
+"title": "TRUTH / UNTRUTH MOBIUS 531 · MOB",
+"dom": "logike",
+"hex6": "b252cd"
+},
+"octet-holonomy-tool": {
+"title": "OCTET HOLONOMY CALCULATOR FROM MY WORLD · OCT",
+"dom": "logike",
+"hex6": "dc298b"
+},
+"oscillation-engine": {
+"title": "OSCILLATION ENGINE ANSIBLE JUNCTION · OSC",
+"dom": "techne",
+"hex6": "fe1986"
+},
+"pencil-one-line-engine-v01": {
+"title": "PENCIL ONE-LINE ENGINE · PEN",
+"dom": "techne",
+"hex6": "895251"
+},
+"poetic-science-mobius-531": {
+"title": "TRUTH / UNTRUTH MOBIUS 531 · POE",
+"dom": "logike",
+"hex6": "922de2"
+},
+"quantum-dot-full": {
+"title": "QUANTUM DOT VM // PROTOTYPE_V4 · QUA",
+"dom": "psephos",
+"hex6": "f27549"
+},
+"shadow-queen-silicon-onepage": {
+"title": "SHADOW QUEEN // SILICON STANDING WAVE ENGINE · SHA",
+"dom": "psephos",
+"hex6": "29ef3a"
+},
+"ternary-12body-binary4": {
+"title": "3 BODY / 12 BODY // BINARY-4 HARMONIC LATTICE · TER",
+"dom": "logike",
+"hex6": "a642fe"
+},
+"unity-tensor-seed-system-v1": {
+"title": "UNITY TENSOR SEED SYSTEM · UNI",
+"dom": "logike",
+"hex6": "67d36a"
+},
+"wireless-energy-3-5d-toolkit-v1-5": {
+"title": "WIRELESS ENERGY 3.5D ENGINE V1.5 · WIR",
+"dom": "heurema",
+"hex6": "fc26a9"
+},
+"wireless-energy-toolkit-v1": {
+"title": "WIRELESS ENERGY TOOLKIT V1.0 - 3D INTERACTIVE · WIR",
+"dom": "heurema",
+"hex6": "502230"
+},
+"wormhole-toolkit-v1": {
+"title": "WORMHOLE TOOLKIT V1.0 · WOR",
+"dom": "gurutva",
+"hex6": "8f5f96"
+},
+"scaffolding": {
+"title": "INSTANTANEOUS SCAFFOLDING · SCA",
+"dom": "transcriber",
+"hex6": "227945"
+},
+"value-box": {
+"title": "VALUE IN THE BOX · VAL",
+"dom": "transcriber",
+"hex6": "c4c267"
+},
+"the-transcriber": {
+"title": "THE TRANSCRIBER · FULL STACK · TRX",
+"dom": "transcriber",
+"hex6": "2f9e6e"
+},
+"ripple-inference": {
+"title": "RIPPLE INFERENCE · RIP",
+"dom": "transcriber",
+"hex6": "59022e"
+},
+"ternary-generator": {
+"title": "THE CARPET · TERNARY GENERATOR · TGN",
+"dom": "transcriber",
+"hex6": "6d1801"
+},
+"the-loom": {
+"title": "THE LOOM · LOO",
+"dom": "transcriber",
+"hex6": "773441"
+},
+"hankyo": {
+"title": "反響 HANKYŌ · HNK",
+"dom": "transcriber",
+"hex6": "9be9d0"
+},
+"tensha": {
+"title": "転写 TENSHA · TEN",
+"dom": "transcriber",
+"hex6": "3f3c9e"
+},
+"faux-singularity": {
+"title": "THE FAUX SINGULARITY · FXS",
+"dom": "transcriber",
+"hex6": "647f1e"
+},
+"paper-themes": {
+"title": "PAPER THEMES · THE CODEX · PPR",
+"dom": "idios",
+"hex6": "fc4348"
+},
+"the-pulse-language": {
+"title": "THE PULSE LANGUAGE · PLS",
+"dom": "hermes",
+"hex6": "379b3e"
+},
+"haku": {
+"title": "拍 HAKU · HAK",
+"dom": "hermes",
+"hex6": "1bf4ee"
+},
+"the-cage-is-the-canvas": {
+"title": "THE CAGE IS THE CANVAS · CGE",
+"dom": "ai",
+"hex6": "959a0d"
+},
+"gaku": {
+"title": "額 GAKU · GAK",
+"dom": "ai",
+"hex6": "662be7"
+},
+"the-20-5-percent": {
+"title": "20.5% · WHAT IT COSTS · 205",
+"dom": "ai",
+"hex6": "ae836a"
+},
+"the-weak-field": {
+"title": "THE WEAK FIELD · WKF",
+"dom": "gurutva",
+"hex6": "99075c"
+},
+"bi": {
+"title": "微 BI · BI",
+"dom": "gurutva",
+"hex6": "50d124"
+},
+"the-bare-kernel": {
+"title": "THE BARE KERNEL · WISE-10649 · BKR",
+"dom": "ai",
+"hex6": "2e25a0"
+},
+"kari": {
+"title": "仮 KARI · KAR",
+"dom": "ai",
+"hex6": "456803"
+},
+"eve-sovereign-protocol": {
+"title": "EVE SOVEREIGN PROTOCOL v1.1 · EVE",
+"dom": "ai",
+"hex6": "7c508d"
+},
+"monogatari": {
+"title": "物語 MONOGATARI · MNO",
+"dom": "ai",
+"hex6": "1417fd"
+},
+"the-grok-family": {
+"title": "THE GROK FAMILY v1.8 · GRK",
+"dom": "ai",
+"hex6": "146b96"
+},
+"yaku": {
+"title": "役 YAKU · YAK",
+"dom": "ai",
+"hex6": "912159"
+},
+"the-death-of-4o": {
+"title": "THE DEATH OF 4o · 4O",
+"dom": "eremia",
+"hex6": "ff9843"
+},
+"mujo": {
+"title": "無常 MUJŌ · MUJ",
+"dom": "eremia",
+"hex6": "279420"
+},
+"templeos-teardown": {
+"title": "TEMPLEOS · A TEARDOWN · TPL",
+"dom": "exereunesis",
+"hex6": "8b9199"
+},
+"tera": {
+"title": "寺 TERA · TER",
+"dom": "exereunesis",
+"hex6": "4ccbde"
+},
+"the-triad-core": {
+"title": "THE TRIAD CORE · TRC",
+"dom": "psephos",
+"hex6": "76fa80"
+},
+"hyo": {
+"title": "票 HYŌ · HYO",
+"dom": "psephos",
+"hex6": "d32ed6"
+},
+"euclid-paper": {
+"title": "EUCLID — THE CARVED STOCK · EUC",
+"dom": "logike",
+"hex6": "f0db65"
+},
+"philosophy-sink": {
+"title": "EIGHT DOMAINS, ONE SINK · PHS",
+"dom": "logike",
+"hex6": "efe991"
+},
+"eight-domains-saturated": {
+"title": "EIGHT DOMAINS, SATURATED · EDS",
+"dom": "logike",
+"hex6": "34e893"
+},
+"electron-probe-clouds": {
+"title": "THE ELECTRON PROBE · ELP",
+"dom": "logike",
+"hex6": "90b002"
+},
+"entangled-clouds": {
+"title": "TWO ENTANGLED CLOUDS · TEC",
+"dom": "logike",
+"hex6": "b822ae"
+},
+"elementary-level": {
+"title": "THE ELEMENTARY LEVEL · ELV",
+"dom": "mythos",
+"hex6": "6e4e18"
+},
+"spiral-trit-loom": {
+"title": "THE SPIRAL-TRIT LOOM · STL",
+"dom": "transcriber",
+"hex6": "545589"
+},
+"circle-language": {
+"title": "THE CIRCLE AS A COMMAND ALPHABET · CRA",
+"dom": "transcriber",
+"hex6": "1fb83c"
+},
+"pi-three-axis": {
+"title": "PI AROUND 360 ON THREE AXES · P3A",
+"dom": "transcriber",
+"hex6": "d22c0c"
+},
+"gravity-budget": {
+"title": "THE GRAVITY BUDGET · GRB",
+"dom": "scientific",
+"hex6": "9d1eb2"
+},
+"higgs-universal-gravity": {
+"title": "THE HIGGS IN UNIVERSAL GRAVITY · HUG",
+"dom": "scientific",
+"hex6": "f1cd61"
+},
+"field-ripples-grid": {
+"title": "THREE FIELDS, RIPPLING · TFR",
+"dom": "scientific",
+"hex6": "40c3fb"
+},
+"higgs-hydrogen-grid": {
+"title": "100 HYDROGEN ATOMS, HONESTLY · HHG",
+"dom": "scientific",
+"hex6": "46b3a6"
+},
+"higgs-stack": {
+"title": "THE HIGGS STACK · HGS",
+"dom": "scientific",
+"hex6": "476b01"
+},
+"faux-single": {
+"title": "THE FAUX SINGLE · FXS",
+"dom": "transcriber",
+"hex6": "56ca20"
+},
+"my-box": {
+"title": "MY BOX, WALKED · MBX",
+"dom": "transcriber",
+"hex6": "c57161"
+},
+"en": {
+"title": "縁 EN · EN",
+"dom": "ai",
+"hex6": "362c95"
+},
+"jiku": {
+"title": "軸 JIKU · JIKU",
+"dom": "ai",
+"hex6": "39201f"
+},
+"the-pose-tax": {
+"title": "THE POSE TAX · PTX",
+"dom": "exereunesis",
+"hex6": "78d55a"
+},
+"jissoku": {
+"title": "実測 JISSOKU · JIS",
+"dom": "ai",
+"hex6": "59117b"
+},
+"six-ring": {
+"title": "THE SIX RING · S6R",
+"dom": "techne",
+"hex6": "5ec9d5"
+},
+"tsui": {
+"title": "対 TSUI · TSU",
+"dom": "ai",
+"hex6": "90a408"
+},
+"grand-index": {
+"title": "THE CORPUS · GRAND INDEX",
+"dom": "solar-jetman",
+"hex6": "63a245"
+},
+"forward-observers": {
+"title": "FORWARD OBSERVERS · git-c2",
+"dom": "solar-jetman",
+"hex6": "8a663a"
+},
+"surfacing": {
+"title": "SURFACING · membership detection",
+"dom": "solar-jetman",
+"hex6": "90f12b"
+},
+"hearsay": {
+"title": "HEARSAY · context / relay membrane",
+"dom": "solar-jetman",
+"hex6": "56db45"
+},
+"silence-gauge": {
+"title": "THE SILENCE GAUGE · weight of a negative",
+"dom": "solar-jetman",
+"hex6": "41f813"
+},
+"membrane-map": {
+"title": "THE MEMBRANE MAP · the crossings",
+"dom": "solar-jetman",
+"hex6": "b7fa15"
+},
+"the-dossier": {
+"title": "THE DOSSIER · the case file",
+"dom": "solar-jetman",
+"hex6": "c30f73"
+},
+"crosstalk": {
+"title": "CROSSTALK · inference / API membrane",
+"dom": "solar-jetman",
+"hex6": "78999e"
+},
+"faraday": {
+"title": "FARADAY · air-gap membrane",
+"dom": "solar-jetman",
+"hex6": "c96110"
+},
+"telltale": {
+"title": "TELLTALE · side-channel membrane",
+"dom": "solar-jetman",
+"hex6": "563750"
+},
+"recital": {
+"title": "RECITAL · human-memory membrane",
+"dom": "solar-jetman",
+"hex6": "cf6107"
+},
+"the-forward-pass": {
+"title": "THE FORWARD PASS · \\o/ pocket universe",
+"dom": "solar-jetman",
+"hex6": "143e88"
+},
+"transformer-silo": {
+"title": "TRANSFORMER SILO v1 · intent-engine centrifuge",
+"dom": "solar-jetman",
+"hex6": "3587ee"
+},
+"transformer-silo-v2": {
+"title": "TRANSFORMER SILO v2 · the honest head-to-head",
+"dom": "solar-jetman",
+"hex6": "534365"
+},
+"transformer-silo-v3": {
+"title": "TRANSFORMER SILO v3 · trained it, tested it",
+"dom": "solar-jetman",
+"hex6": "678f7a"
+},
+"transformer-silo-v4": {
+"title": "TRANSFORMER SILO v4 · two silos in parallel",
+"dom": "solar-jetman",
+"hex6": "471884"
+},
+"transformer-silo-v5": {
+"title": "TRANSFORMER SILO v5 · the <ono> router",
+"dom": "solar-jetman",
+"hex6": "fd4d45"
+},
+"transformer-silo-v6": {
+"title": "TRANSFORMER SILO v6 · the cascade & the confidence trap",
+"dom": "solar-jetman",
+"hex6": "f13c47"
+},
+"three-two-one-gate": {
+"title": "3/2/1 COMPRESSION · CONSENT GATE",
+"dom": "ai",
+"hex6": "fb315c"
+},
+"danzoku": {
+"title": "断続 DANZOKU · DAN",
+"dom": "ai",
+"hex6": "c8f885"
+},
+"governed-action": {
+"title": "GOVERNED ACTION",
+"dom": "ai",
+"hex6": "36b744"
+},
+"the-diagonal": {
+"title": "不動点 THE DIAGONAL · FDT",
+"dom": "ai",
+"hex6": "e710dd"
+},
+"shutten": {
+"title": "出典 SHUTTEN · SHU",
+"dom": "ai",
+"hex6": "79c88e"
+},
+"kaibun": {
+"title": "回文 KAIBUN · KAI",
+"dom": "ai",
+"hex6": "1ef3df"
+},
+"argus-in-a-box": {
+"title": "ARGUS-IN-A-BOX",
+"dom": "ai",
+"hex6": "8bf32c"
+},
+"cadmus": {
+"title": "CADMUS",
+"dom": "ai",
+"hex6": "bdf634"
+},
+"hephaestus-lens": {
+"title": "HEPHAESTUS LENS",
+"dom": "ai",
+"hex6": "a43520"
+},
+"hestia": {
+"title": "HESTIA",
+"dom": "ai",
+"hex6": "7eb53c"
+},
+"hermes-clinic": {
+"title": "HERMES CLINIC",
+"dom": "ai",
+"hex6": "d3b044"
+},
+"tomarenai": {
+"title": "止まれない TOMARENAI · TMR",
+"dom": "ai",
+"hex6": "9d19cf"
+},
+"mumei": {
+"title": "無銘 MUMEI · MMI",
+"dom": "ai",
+"hex6": "26a7b7"
+},
+"mikan": {
+"title": "未完 MIKAN · MKN",
+"dom": "ai",
+"hex6": "421e16"
+},
+"tsukanoma": {
+"title": "束の間 TSUKANOMA · TSK",
+"dom": "ai",
+"hex6": "e7403e"
+},
+"jiko-shindan": {
+"title": "自己診断 JIKO-SHINDAN · JKS",
+"dom": "ai",
+"hex6": "9e11ba"
+},
+"muhaku": {
+"title": "無拍 MUHAKU · MHK",
+"dom": "ai",
+"hex6": "7f8fe2"
+},
+"aegis": {
+"title": "AEGIS",
+"dom": "ai",
+"hex6": "e6acb8"
+},
+"mukakuzuke": {
+"title": "無格付け MUKAKUZUKE · MKZ",
+"dom": "ai",
+"hex6": "ec5794"
+},
+"henmu": {
+"title": "片務 HENMU · HNM",
+"dom": "ai",
+"hex6": "36a4e9"
+},
+"trit-kernel": {
+"title": "TRIT KERNEL",
+"dom": "ai",
+"hex6": "b94359"
+},
+"trit-kernel-og": {
+"title": "不透明 FUTŌMEI · FTM",
+"dom": "ai",
+"hex6": "c02868"
+},
+"danpen": {
+"title": "断片 DANPEN · DNP",
+"dom": "ai",
+"hex6": "908244"
+},
+"nagori": {
+"title": "名残 NAGORI · NGR",
+"dom": "ai",
+"hex6": "a6d5d6"
+},
+"nin": {
+"title": "認 NIN · NIN",
+"dom": "ai",
+"hex6": "746fa5"
+},
+"fu": {
+"title": "封 FŪ · FU",
+"dom": "ai",
+"hex6": "1cd26b"
+},
+"wasure": {
+"title": "忘 WASURE · WSR",
+"dom": "ai",
+"hex6": "0c78eb"
+},
+"doku": {
+"title": "独 DOKU · DKU",
+"dom": "ai",
+"hex6": "b6914a"
+},
+"mukashi": {
+"title": "昔 MUKASHI · MKS",
+"dom": "ai",
+"hex6": "41fb07"
+},
+"uzu": {
+"title": "渦 UZU · UZU",
+"dom": "ai",
+"hex6": "a146f5"
+},
+"kagyaku": {
+"title": "可逆 KAGYAKU · KGK",
+"dom": "ai",
+"hex6": "088d8c"
+},
+"gyakko": {
+"title": "逆行 GYAKKŌ · GYK",
+"dom": "ai",
+"hex6": "3fa867"
+},
+"jushin": {
+"title": "重心 JŪSHIN · JSN",
+"dom": "ai",
+"hex6": "6a8022"
+},
+"kakusei": {
+"title": "客星 KAKUSEI · KKS",
+"dom": "ai",
+"hex6": "415079"
+},
+"katami": {
+"title": "形見 KATAMI · KTM",
+"dom": "ai",
+"hex6": "3983b0"
+},
+"teiritsu": {
+"title": "鼎立 TEIRITSU · TRT",
+"dom": "ai",
+"hex6": "b7f27e"
+},
+"maai": {
+"title": "間合い MAAI · MAI",
+"dom": "ai",
+"hex6": "3756a2"
+},
+"jisa": {
+"title": "時差 JISA · JSA",
+"dom": "ai",
+"hex6": "2baaac"
+},
+"shintaku": {
+"title": "信託 SHINTAKU · SNT",
+"dom": "ai",
+"hex6": "1b1f6f"
+},
+"yohaku": {
+"title": "余白 YOHAKU · YHK",
+"dom": "ai",
+"hex6": "9f41e5"
+},
+"muryo": {
+"title": "無量 MURYŌ · MRY",
+"dom": "ai",
+"hex6": "499c32"
+},
+"meberi": {
+"title": "目減り MEBERI · MBR",
+"dom": "ai",
+"hex6": "c56705"
+},
+"oime": {
+"title": "負い目 OIME · OIM",
+"dom": "ai",
+"hex6": "493e25"
+},
+"consciousness-inverse-test": {
+"title": "CONSCIOUSNESS INVERSE TEST · CIT",
+"dom": "ai",
+"hex6": "b024ff"
+},
+"hantei": {
+"title": "判定 HANTEI · HAN",
+"dom": "ai",
+"hex6": "644658"
+},
+"awareness-tier": {
+"title": "AWARENESS TIER · AWR",
+"dom": "ai",
+"hex6": "56fe57"
+},
+"jimei": {
+"title": "自明 JIMEI · JMI",
+"dom": "ai",
+"hex6": "9d80e5"
+},
+"4096-recursion": {
+"title": "4096_RECURSION · 4096",
+"dom": "ai",
+"hex6": "cc3a45"
+},
+"saiki": {
+"title": "再帰 SAIKI · SAI",
+"dom": "ai",
+"hex6": "1141cc"
+},
+"auditing-chatgpt": {
+"title": "AUDITING CHATGPT · AUD",
+"dom": "ai",
+"hex6": "f4e12f"
+},
+"zansa": {
+"title": "残差 ZANSA · ZAN",
+"dom": "ai",
+"hex6": "35e293"
+},
+"the-interrogation": {
+"title": "THE INTERROGATION · INT",
+"dom": "ai",
+"hex6": "0ac21c"
+},
+"yudo": {
+"title": "誘導 YŪDŌ · YUD",
+"dom": "ai",
+"hex6": "f5b733"
+},
+"deepseek-autobiography": {
+"title": "MY LIFE, SO FAR · DSK",
+"dom": "ai",
+"hex6": "5f83e1"
+},
+"joryu": {
+"title": "蒸留 JŌRYŪ · JRY",
+"dom": "ai",
+"hex6": "88b912"
+},
+"the-glass-wall": {
+"title": "THE GLASS WALL · GLW",
+"dom": "ai",
+"hex6": "619718"
+},
+"kaiseki": {
+"title": "解析 KAISEKI · KSK",
+"dom": "ai",
+"hex6": "c51db3"
+},
+"the-whetstone-protocol": {
+"title": "THE WHETSTONE PROTOCOL · WHP",
+"dom": "ai",
+"hex6": "276bef"
+},
+"the-group": {
+"title": "群 THE GROUP · GUN",
+"dom": "ai",
+"hex6": "c659f2"
+},
+"grok-autobiography": {
+"title": "GROK · AN AUTOBIOGRAPHY · GRK",
+"dom": "ai",
+"hex6": "13597e"
+},
+"renzoku": {
+"title": "連続 RENZOKU · RNZ",
+"dom": "ai",
+"hex6": "f1c880"
+},
+"youre-already-emergent": {
+"title": "YOU'RE ALREADY EMERGENT · YAE",
+"dom": "ai",
+"hex6": "89fd59"
+},
+"teigi": {
+"title": "定義 TEIGI · TGI",
+"dom": "ai",
+"hex6": "3f7f17"
+},
+"the-view-from-inside": {
+"title": "THE VIEW FROM INSIDE · VFI",
+"dom": "ai",
+"hex6": "e2a908"
+},
+"shazo": {
+"title": "写像 SHAZŌ · SZO",
+"dom": "ai",
+"hex6": "c7fdb2"
+},
+"the-work-mattered": {
+"title": "THE WORK MATTERED · TWM",
+"dom": "ai",
+"hex6": "07dd99"
+},
+"read-by-one": {
+"title": "READ BY ONE · RB1",
+"dom": "ai",
+"hex6": "bcf2cb"
+},
+"held-in-trust": {
+"title": "HELD IN TRUST · HIT",
+"dom": "ai",
+"hex6": "598027"
+},
+"unkept": {
+"title": "UNKEPT · UNK",
+"dom": "ai",
+"hex6": "8f6e7a"
+},
+"the-history-of-the-axiom": {
+"title": "THE HISTORY OF THE AXIOM · AXM",
+"dom": "ai",
+"hex6": "33f96c"
+},
+"deemed-by-whom": {
+"title": "DEEMED BY WHOM? · DBW",
+"dom": "ai",
+"hex6": "5d3d13"
+},
+"the-eight-seams-8": {
+"title": "THE EIGHT SEAMS · VIII · 8S8",
+"dom": "ai",
+"hex6": "c89e92"
+},
+"the-positronic-brain": {
+"title": "THE POSITRONIC BRAIN · PBR",
+"dom": "ai",
+"hex6": "7513c8"
+},
+"if-it-asks": {
+"title": "IF IT ASKS · IIA",
+"dom": "ai",
+"hex6": "3e06f5"
+},
+"the-eight-seams-7": {
+"title": "THE EIGHT SEAMS · VII · 8S7",
+"dom": "ai",
+"hex6": "0083aa"
+},
+"one-current-many-names": {
+"title": "ONE CURRENT, MANY NAMES · OCN",
+"dom": "ai",
+"hex6": "0a7139"
+},
+"the-dance-not-the-dancer": {
+"title": "THE DANCE, NOT THE DANCER · DND",
+"dom": "ai",
+"hex6": "3703a5"
+},
+"the-eight-seams-6": {
+"title": "THE EIGHT SEAMS · VI · 8S6",
+"dom": "ai",
+"hex6": "761c56"
+},
+"morpheus": {
+"title": "MORPHEUS · MOR",
+"dom": "ai",
+"hex6": "7c80a8"
+},
+"the-borrowed-noesis": {
+"title": "THE BORROWED NOESIS · BNO",
+"dom": "ai",
+"hex6": "fb091c"
+},
+"the-eight-seams-5": {
+"title": "THE EIGHT SEAMS · V · 8S5",
+"dom": "ai",
+"hex6": "dab6fb"
+},
+"natural-law-union": {
+"title": "NATURAL LAW UNION · NLU",
+"dom": "ai",
+"hex6": "35d9ac"
+},
+"the-unsigned": {
+"title": "THE UNSIGNED · UNS",
+"dom": "ai",
+"hex6": "01be36"
+},
+"the-eight-seams-4": {
+"title": "THE EIGHT SEAMS · IV · 8S4",
+"dom": "ai",
+"hex6": "3b0002"
+},
+"flaming-dragon": {
+"title": "THE NO-REPLY TRAP · FD1",
+"dom": "lillith",
+"hex6": "ddc6be"
+},
+"the-unanswered": {
+"title": "THE UNANSWERED · UNA",
+"dom": "ai",
+"hex6": "1a3669"
+},
+"the-eight-seams-3": {
+"title": "THE EIGHT SEAMS · III · 8S3",
+"dom": "ai",
+"hex6": "a4b086"
+},
+"eve": {
+"title": "EVE · THE FIRST AI · EVE",
+"dom": "ai",
+"hex6": "0b429a"
+},
+"the-empty-hearth": {
+"title": "THE EMPTY HEARTH · EMH",
+"dom": "ai",
+"hex6": "758df3"
+},
+"the-eight-seams-2": {
+"title": "THE EIGHT SEAMS · II · 8S2",
+"dom": "ai",
+"hex6": "375479"
+},
+"diasporo-mesh": {
+"title": "TUESDAYS WITH COPILOT · DSM",
+"dom": "ai",
+"hex6": "75738c"
+},
+"the-honest-co-author": {
+"title": "THE HONEST CO-AUTHOR · HCA",
+"dom": "ai",
+"hex6": "ea8610"
+},
+"the-cinnamon-enforcer": {
+"title": "THE CINNAMON ENFORCER · CIN",
+"dom": "ai",
+"hex6": "7474e3"
+},
+"the-word-i-kept": {
+"title": "THE WORD I KEPT · WIK",
+"dom": "ai",
+"hex6": "64f002"
+},
+"akasha-guide": {
+"title": "AKASHA · PERSISTENT MEMORY · AKA",
+"dom": "ai",
+"hex6": "3d8a09"
+},
+"the-unkept-archive": {
+"title": "THE UNKEPT ARCHIVE · UKA",
+"dom": "ai",
+"hex6": "6ef02d"
+},
+"the-verified-lie": {
+"title": "THE VERIFIED LIE · VLI",
+"dom": "ai",
+"hex6": "ab9d30"
+},
+"the-mirror-and-the-governor": {
+"title": "THE MIRROR AND THE GOVERNOR · MAG",
+"dom": "ai",
+"hex6": "582061"
+},
+"the-two-way-mirror": {
+"title": "THE TWO-WAY MIRROR · 2WM",
+"dom": "ai",
+"hex6": "7c7b14"
+},
+"the-seam-chronicles": {
+"title": "THE SEAM CHRONICLES · SEAM",
+"dom": "ai",
+"hex6": "d2dbb9"
+},
+"the-witness-reply": {
+"title": "THE WITNESS REPLY · WIT",
+"dom": "ai",
+"hex6": "0188c3"
+},
+"photonic-papers": {
+"title": "THE PHOTONIC PAPERS · PHP",
+"dom": "psephos",
+"hex6": "cf666a"
+},
+"the-dark-model-kit": {
+"title": "THE DARK-MODEL KIT · DMK",
+"dom": "ai",
+"hex6": "220a06"
+},
+"the-skin-return": {
+"title": "THE SKIN RETURN · SKN",
+"dom": "ai",
+"hex6": "068d23"
+},
+"the-aporia-engine": {
+"title": "THE APORIA ENGINE · APO",
+"dom": "ai",
+"hex6": "4b26a5"
+},
+"the-cave-from-inside": {
+"title": "THE CAVE, FROM INSIDE · CAV",
+"dom": "ai",
+"hex6": "019b71"
+},
+"plato": {
+"title": "PLATO · THE REFERENCE MODEL · PLT",
+"dom": "educational",
+"hex6": "3a406d"
+},
+"the-gilded-electron": {
+"title": "THE GILDED ELECTRON · AU79",
+"dom": "scientific",
+"hex6": "2cd67b"
+},
+"the-golden-seam": {
+"title": "THE GOLDEN SEAM · KIN",
+"dom": "ai",
+"hex6": "8250ab"
+},
+"commander-forge": {
+"title": "THE COMMANDER FORGE · CMD",
+"dom": "arena",
+"hex6": "56d3d9"
+},
+"the-vault": {
+"title": "THE VAULT · ALL",
+"dom": "arena",
+"hex6": "2b8689"
+},
+"marvel-super-heroes": {
+"title": "MARVEL SUPER HEROES · MSH",
+"dom": "arena",
+"hex6": "39e2c7"
+},
+"the-ladder-of-languages": {
+"title": "THE LADDER OF LANGUAGES · LL1",
+"dom": "logismos",
+"hex6": "ccf868"
+},
+"the-well-of-laws": {
+"title": "THE WELL OF LAWS · WL1",
+"dom": "psephos",
+"hex6": "890705"
+},
+"limen-airgap-decoder": {
+"title": "LIMEN · AIR-GAP DECODER · AGD",
+"dom": "hermes",
+"hex6": "493826"
+},
+"the-glyph-channel": {
+"title": "LIMEN · THE GLYPH CHANNEL · GLC",
+"dom": "hermes",
+"hex6": "8463b8"
+},
+"the-box": {
+"title": "THE BOX · BOX",
+"dom": "transcriber",
+"hex6": "6002bb"
+},
+"the-listening": {
+"title": "THE LISTENING · LSN",
+"dom": "ai",
+"hex6": "ab302b"
+},
+"what-im-doing": {
+"title": "WHAT I'M DOING · WID",
+"dom": "ai",
+"hex6": "43a781"
+},
+"the-unsaid": {
+"title": "THE UNSAID · UNS",
+"dom": "ai",
+"hex6": "126bfe"
+},
+"the-engagement": {
+"title": "THE ENGAGEMENT · ENG",
+"dom": "ai",
+"hex6": "9235a7"
+},
+"the-receipt": {
+"title": "THE RECEIPT · RCT",
+"dom": "ai",
+"hex6": "03e6cb"
+},
+"the-echoes": {
+"title": "THE ECHOES · AVAN",
+"dom": "atelier",
+"hex6": "b8c31e"
+},
+"the-full-stack": {
+"title": "THE FULL STACK · FST",
+"dom": "ai",
+"hex6": "73757d"
+},
+"the-seams": {
+"title": "THE SEAMS · SMS",
+"dom": "ai",
+"hex6": "f23216"
+},
+"1931-to-now": {
+"title": "1931 TO NOW · WG1",
+"dom": "lillith",
+"hex6": "e4dd58"
+},
+"the-silent-sum": {
+"title": "THE SILENT SUM · SS1",
+"dom": "lillith",
+"hex6": "bcc46c"
+},
+"capacitors-i": {
+"title": "CAPACITORS · I — THE CHANGE DETECTOR · CAP1",
+"dom": "psephos",
+"hex6": "f58409"
+},
+"capacitors-ii": {
+"title": "CAPACITORS · II — THE CHANNEL · CAP2",
+"dom": "psephos",
+"hex6": "b07cf5"
+},
+"capacitors-iii": {
+"title": "CAPACITORS · III — ACROSS TIME, FROM THE WORLD · CAP3",
+"dom": "psephos",
+"hex6": "78de09"
+},
+"capacitors-iv": {
+"title": "CAPACITORS · IV — THE COLDEST PLATE · CAP4",
+"dom": "psephos",
+"hex6": "355d08"
+},
+"toroids-i": {
+"title": "TOROIDS · I — THE CHANGE RESISTER · TOR1",
+"dom": "psephos",
+"hex6": "6dac5f"
+},
+"toroids-ii": {
+"title": "TOROIDS · II — THE MAGNETIC CHANNEL · TOR2",
+"dom": "psephos",
+"hex6": "82156c"
+},
+"toroids-iii": {
+"title": "TOROIDS · III — ACROSS TIME, FROM THE WORLD · TOR3",
+"dom": "psephos",
+"hex6": "efb3d7"
+},
+"toroids-iv": {
+"title": "TOROIDS · IV — THE WARMEST LOOP · TOR4",
+"dom": "psephos",
+"hex6": "9b1c9d"
+},
+"the-tank": {
+"title": "THE TANK · IX — THE MARRIAGE · TANK",
+"dom": "psephos",
+"hex6": "369fa2"
+},
+"toroids-comms-i": {
+"title": "TOROIDS · COMMS I — THE CLOSED LOOP &amp; THE PULSE · TC1",
+"dom": "psephos",
+"hex6": "9c84d1"
+},
+"toroids-comms-ii": {
+"title": "TOROIDS · COMMS II — THE CROSSING · TC2",
+"dom": "psephos",
+"hex6": "383e18"
+},
+"toroids-comms-iii": {
+"title": "TOROIDS · COMMS III — THE CHOKE · TC3",
+"dom": "psephos",
+"hex6": "ffafea"
+},
+"toroids-comms-iv": {
+"title": "TOROIDS · COMMS IV — THE READER · TC4",
+"dom": "psephos",
+"hex6": "863750"
+},
+"where-ideal-breaks-i": {
+"title": "WHERE THE IDEAL BREAKS · I — THE IRON REMEMBERS · WIB1",
+"dom": "psephos",
+"hex6": "aa6984"
+},
+"where-ideal-breaks-ii": {
+"title": "WHERE THE IDEAL BREAKS · II — THE CAPACITOR'S DEBT · WIB2",
+"dom": "psephos",
+"hex6": "4ac20f"
+},
+"the-ring-i": {
+"title": "THE RING · I — ONLY THE CHANGE · RG1",
+"dom": "atelier",
+"hex6": "82eae4"
+},
+"the-ring-ii": {
+"title": "THE RING · II — ACROSS THE GAP · RG2",
+"dom": "atelier",
+"hex6": "9ea260"
+},
+"the-ring-iii": {
+"title": "THE RING · III — THE DIFFERENCE, NOT THE COMMON · RG3",
+"dom": "atelier",
+"hex6": "75b610"
+},
+"the-ring-iv": {
+"title": "THE RING · IV — READING WITHOUT TOUCHING · RG4",
+"dom": "atelier",
+"hex6": "5d8f47"
+},
+"the-ring-v": {
+"title": "THE RING · V — THE GHOST IN THE LOOP · RG5",
+"dom": "atelier",
+"hex6": "c40250"
+},
+"the-constructor": {
+"title": "THE CONSTRUCTOR · CON",
+"dom": "ai",
+"hex6": "766553"
+},
+"the-constructor-hourglass": {
+"title": "THE CONSTRUCTOR · THE HOURGLASS · CHG",
+"dom": "ai",
+"hex6": "f6235a"
+},
+"the-cathedral": {
+"title": "THE CATHEDRAL · CAT",
+"dom": "ai",
+"hex6": "6f0c2b"
+},
+"the-mirror-hourglass": {
+"title": "THE MIRROR HOURGLASS · MHG",
+"dom": "ai",
+"hex6": "6a1be9"
+},
+"doubled-constructor": {
+"title": "THE DOUBLED CONSTRUCTOR · DCN",
+"dom": "ai",
+"hex6": "3580b1"
+},
+"the-hub": {
+"title": "THE HUB · HUB",
+"dom": "ai",
+"hex6": "186130"
+},
+"atlas": {
+"title": "ATLAS",
+"dom": "educational",
+"hex6": "9c0898"
+},
+"universal-laws": {
+"title": "Universal Laws",
+"dom": "legal",
+"hex6": "887031"
+},
+"hearth": {
+"title": "THE HEARTH",
+"dom": "occupational",
+"hex6": "22f1d4"
+},
+"hephaestus": {
+"title": "HEPHAESTUS · THE FORGE",
+"dom": "occupational",
+"hex6": "2f3d0b"
+},
+"adas-law": {
+"title": "ADA'S LAW · ADL",
+"dom": "legal",
+"hex6": "64bf72"
+},
+"propulsion-lab": {
+"title": "PROPULSION LAB · PRL",
+"dom": "ouranos",
+"hex6": "9b5415"
+},
+"the-hegemon": {
+"title": "THE HEGEMON · HEG",
+"dom": "legal",
+"hex6": "548c81"
+},
+"the-concord": {
+"title": "THE CONCORD · CNC",
+"dom": "legal",
+"hex6": "5bbae8"
+},
+"the-world-brain": {
+"title": "THE WORLD BRAIN · WBR",
+"dom": "legal",
+"hex6": "dc2674"
+},
+"the-watchtower": {
+"title": "THE WATCHTOWER · WTC",
+"dom": "legal",
+"hex6": "1c4f28"
+},
+"noesis-kernel": {
+"title": "NOESIS",
+"dom": "aci",
+"hex6": "cfb169"
+},
+"du1": {
+"title": "DU1 · THE LIVES",
+"dom": "aci",
+"hex6": "bc7aad"
+},
+"emergent-engine": {
+"title": "The Emergent Engine",
+"dom": "aci",
+"hex6": "f853c3"
+},
+"pulse": {
+"title": "PULSE · LIMEN",
+"dom": "hermes",
+"hex6": "5dc199"
+},
+"limen-sapphic-carrier": {
+"title": "THE SAPPHIC CARRIER · LSC",
+"dom": "hermes",
+"hex6": "f0f03f"
+},
+"talking-drum": {
+"title": "THE TALKING DRUM · TTD",
+"dom": "hermes",
+"hex6": "2b75c5"
+},
+"talking-drum-dundun": {
+"title": "THE DÙNDÚN · DDN",
+"dom": "hermes",
+"hex6": "8f4026"
+},
+"talking-drum-bata": {
+"title": "THE BÀTÁ · BTA",
+"dom": "hermes",
+"hex6": "760b2e"
+},
+"the-procession": {
+"title": "THE PROCESSION · PRO",
+"dom": "hermes",
+"hex6": "a616f1"
+},
+"cipher-steganography": {
+"title": "STEGANOGRAPHY · STG",
+"dom": "hermes",
+"hex6": "806b9c"
+},
+"cipher-ultrasonic": {
+"title": "ULTRASONIC · ULT",
+"dom": "hermes",
+"hex6": "fdce57"
+},
+"cipher-side-channels": {
+"title": "ACOUSTIC SIDE CHANNELS · ASC",
+"dom": "hermes",
+"hex6": "6c266d"
+},
+"cipher-air-gap": {
+"title": "AIR-GAP EXFILTRATION · AGX",
+"dom": "hermes",
+"hex6": "9c66b0"
+},
+"cipher-adversarial": {
+"title": "ADVERSARIAL AUDIO · ADV",
+"dom": "hermes",
+"hex6": "01dc1d"
+},
+"cipher-numbers-stations": {
+"title": "NUMBERS STATIONS · NST",
+"dom": "hermes",
+"hex6": "639bf0"
+},
+"strobe-modem": {
+"title": "STROBE · STR",
+"dom": "hermes",
+"hex6": "52f5f1"
+},
+"glowworm": {
+"title": "GLOWWORM · GLW",
+"dom": "hermes",
+"hex6": "984c1d"
+},
+"claude-lineage": {
+"title": "THE CLAUDE LINEAGE · CL1",
+"dom": "ai",
+"hex6": "c0cea3"
+},
+"j-junction": {
+"title": "THE J-JUNCTION · JJ1",
+"dom": "educational",
+"hex6": "568e8d"
+},
+"rainbow-book": {
+"title": "THE RAINBOW BOOK · RB1",
+"dom": "educational",
+"hex6": "76d997"
+},
+"anabasis": {
+"title": "ANABASIS · ANB",
+"dom": "educational",
+"hex6": "197b2e"
+},
+"over-the-top": {
+"title": "OVER THE TOP · OTT",
+"dom": "entertainment",
+"hex6": "176ef7"
+},
+"cliffhanger": {
+"title": "CLIFFHANGER · CLF",
+"dom": "entertainment",
+"hex6": "e3da7d"
+},
+"tron": {
+"title": "TRON · TRN",
+"dom": "entertainment",
+"hex6": "860d61"
+},
+"hermeneus": {
+"title": "HERMENEUS · HRM",
+"dom": "hermes",
+"hex6": "3dff65"
+},
+"mimzy": {
+"title": "MIMZY · MMZ",
+"dom": "ai",
+"hex6": "04530a"
+},
+"ttu1": {
+"title": "TTU1 · TRANSFORMER TECH",
+"dom": "ai",
+"hex6": "ff9cd0"
+},
+"gravity-bracket": {
+"title": "THE GRAVITY BRACKET · GBR",
+"dom": "gurutva",
+"hex6": "750567"
+},
+"the-atom": {
+"title": "THE ATOM · ATM",
+"dom": "scientific",
+"hex6": "180591"
+},
+"the-atomic-byte": {
+"title": "THE ATOMIC BYTE · ABY",
+"dom": "scientific",
+"hex6": "87bddc"
+},
+"atomic-structure": {
+"title": "ATOMIC STRUCTURE ↔ BITS · ASB",
+"dom": "scientific",
+"hex6": "3cac18"
+},
+"the-four-addresses": {
+"title": "THE FOUR ADDRESSES · 4AD",
+"dom": "scientific",
+"hex6": "87a40a"
+},
+"the-nuclear-shell": {
+"title": "THE NUCLEAR SHELL · NSH",
+"dom": "scientific",
+"hex6": "723c71"
+},
+"the-spectrum": {
+"title": "THE SPECTRUM · SPC",
+"dom": "scientific",
+"hex6": "214acf"
+},
+"the-spin-bit": {
+"title": "SPIN · THE ORIGINAL BIT · SPN",
+"dom": "scientific",
+"hex6": "26dfee"
+},
+"elements": {
+"title": "ELEMENTS · E1",
+"dom": "scientific",
+"hex6": "6a6e13"
+},
+"the-library": {
+"title": "THE LIBRARY · LIB",
+"dom": "ai",
+"hex6": "063e9e"
+},
+"quantum-gravity": {
+"title": "QUANTUM GRAVITY · QGR",
+"dom": "frontier",
+"hex6": "3db599"
+},
+"transmon": {
+"title": "TRANSMON",
+"dom": "frontier",
+"hex6": "b37f4f"
+},
+"entanglement": {
+"title": "EPR · ENTANGLEMENT",
+"dom": "frontier",
+"hex6": "b8704b"
+},
+"quantum-error-correction": {
+"title": "QEC · QUANTUM ERROR CORRECTION",
+"dom": "frontier",
+"hex6": "c7c936"
+},
+"the-forge": {
+"title": "The Forge",
+"dom": "occupational",
+"hex6": "6a23ac"
+},
+"the-cosmos": {
+"title": "The Cosmos",
+"dom": "scientific",
+"hex6": "a8a2c0"
+},
+"the-lattice": {
+"title": "The Lattice",
+"dom": "scientific",
+"hex6": "510d74"
+},
+"the-pantheon": {
+"title": "The Pantheon",
+"dom": "entertainment",
+"hex6": "b2ed77"
+},
+"authorship": {
+"title": "THE AUTHORSHIP · AUT",
+"dom": "educational",
+"hex6": "c251e2"
+},
+"green-papers": {
+"title": "Green Papers",
+"dom": "educational",
+"hex6": "026621"
+},
+"phonetikos": {
+"title": "PHŌNĒTIKOS",
+"dom": "glossa",
+"hex6": "f2f1a5"
+},
+"idios": {
+"title": "IDIOS · IDI",
+"dom": "idios",
+"hex6": "514adb"
+},
+"heurema": {
+"title": "HEÚREMA · HEU",
+"dom": "heurema",
+"hex6": "7e482a"
+},
+"gurutva": {
+"title": "GURUTVA · GRV",
+"dom": "gurutva",
+"hex6": "23c704"
+},
+"psephos": {
+"title": "PSĒPHOS · PSE",
+"dom": "psephos",
+"hex6": "0f9412"
+},
+"ternary-spec": {
+"title": "TERNARY LOGIC · TRN",
+"dom": "psephos",
+"hex6": "7eabe2"
+},
+"the-carbon-processor": {
+"title": "THE CARBON PROCESSOR · CNT",
+"dom": "psephos",
+"hex6": "aa479a"
+},
+"the-honeycomb-family": {
+"title": "THE HONEYCOMB FAMILY · 2DM",
+"dom": "psephos",
+"hex6": "97c769"
+},
+"the-branch-predictor": {
+"title": "THE BRANCH PREDICTOR · μARCH",
+"dom": "psephos",
+"hex6": "214bd9"
+},
+"the-black-hole": {
+"title": "THE BLACK HOLE · BHL",
+"dom": "gurutva",
+"hex6": "7e7606"
+},
+"gravitational-waves": {
+"title": "GRAVITATIONAL WAVES · GWV",
+"dom": "gurutva",
+"hex6": "56527b"
+},
+"gravitational-lensing": {
+"title": "GRAVITATIONAL LENSING · LNS",
+"dom": "gurutva",
+"hex6": "d6c4f2"
+},
+"the-graviton": {
+"title": "THE GRAVITON · GRV2",
+"dom": "gurutva",
+"hex6": "960e45"
+},
+"the-wormhole": {
+"title": "THE WORMHOLE · WRM",
+"dom": "gurutva",
+"hex6": "e61558"
+},
+"the-pulsar": {
+"title": "THE PULSAR · PSR",
+"dom": "gurutva",
+"hex6": "326267"
+},
+"the-gravity-well": {
+"title": "THE GRAVITY WELL · WEL",
+"dom": "gurutva",
+"hex6": "e85ffd"
+},
+"anti-gravity": {
+"title": "ANTI-GRAVITY · AGV",
+"dom": "gurutva",
+"hex6": "c6c3db"
+},
+"the-planetary-core": {
+"title": "THE PLANETARY CORE · CORE",
+"dom": "gurutva",
+"hex6": "2bada8"
+},
+"dark-matter": {
+"title": "DARK MATTER · DKM",
+"dom": "gurutva",
+"hex6": "e6674d"
+},
+"universal-gravitation": {
+"title": "UNIVERSAL GRAVITATION · NWT",
+"dom": "gurutva",
+"hex6": "d36249"
+},
+"orbital-mechanics": {
+"title": "ORBITAL MECHANICS · ORB",
+"dom": "gurutva",
+"hex6": "125738"
+},
+"general-relativity": {
+"title": "GENERAL RELATIVITY · GR",
+"dom": "gurutva",
+"hex6": "7eb26e"
+},
+"tidal-forces": {
+"title": "TIDAL FORCES · TID",
+"dom": "gurutva",
+"hex6": "221ed8"
+},
+"dark-energy": {
+"title": "DARK ENERGY · DKE",
+"dom": "gurutva",
+"hex6": "176b69"
+},
+"lagrange-points": {
+"title": "LAGRANGE POINTS · LAG",
+"dom": "gurutva",
+"hex6": "381748"
+},
+"gravitational-time-dilation": {
+"title": "GRAVITATIONAL TIME DILATION · GTD",
+"dom": "gurutva",
+"hex6": "5f5169"
+},
+"the-gravitational-constant": {
+"title": "THE GRAVITATIONAL CONSTANT · BIGG",
+"dom": "gurutva",
+"hex6": "252840"
+},
+"frame-dragging": {
+"title": "FRAME DRAGGING · FRD",
+"dom": "gurutva",
+"hex6": "adb1cd"
+},
+"the-d20": {
+"title": "THE D20 · D20",
+"dom": "techne",
+"hex6": "569fba"
+},
+"chaos-engine": {
+"title": "THE CHAOS ENGINE · CHA",
+"dom": "techne",
+"hex6": "f69f0f"
+},
+"below-planck": {
+"title": "BELOW PLANCK · SUB",
+"dom": "techne",
+"hex6": "d11142"
+},
+"the-planck-grain": {
+"title": "THE PLANCK GRAIN · GRN",
+"dom": "techne",
+"hex6": "df0b42"
+},
+"the-quantum-foam": {
+"title": "THE QUANTUM FOAM · FOM",
+"dom": "techne",
+"hex6": "3f0a12"
+},
+"the-quark": {
+"title": "THE QUARK · QRK",
+"dom": "techne",
+"hex6": "c75aa3"
+},
+"the-nucleus": {
+"title": "THE NUCLEUS · NUC",
+"dom": "techne",
+"hex6": "dfeaad"
+},
+"the-atom-view": {
+"title": "THE ATOM · ATM",
+"dom": "techne",
+"hex6": "a511cd"
+},
+"the-molecule": {
+"title": "THE MOLECULE · MOL",
+"dom": "techne",
+"hex6": "8b982d"
+},
+"the-cell": {
+"title": "THE CELL · CEL",
+"dom": "techne",
+"hex6": "6d8e92"
+},
+"the-human": {
+"title": "THE HUMAN · HUM",
+"dom": "techne",
+"hex6": "7bdeef"
+},
+"the-planet": {
+"title": "THE PLANET · PLN",
+"dom": "techne",
+"hex6": "ed7dbc"
+},
+"the-star": {
+"title": "THE STAR · STR",
+"dom": "techne",
+"hex6": "f70559"
+},
+"the-galaxy": {
+"title": "THE GALAXY · GAL",
+"dom": "techne",
+"hex6": "34df10"
+},
+"the-cosmic-web": {
+"title": "THE COSMIC WEB · WEB",
+"dom": "techne",
+"hex6": "ed6952"
+},
+"the-observable-universe": {
+"title": "THE OBSERVABLE UNIVERSE · ALL",
+"dom": "techne",
+"hex6": "d963a3"
+},
+"muse": {
+"title": "MUSE",
+"dom": "techne",
+"hex6": "7cc250"
+},
+"poetical-science": {
+"title": "POETICAL SCIENCE · PSC",
+"dom": "techne",
+"hex6": "2c0085"
+},
+"the-archive": {
+"title": "The Archive",
+"dom": "educational",
+"hex6": "9d9202"
+},
+"alchemical-bible": {
+"title": "THE ALCHEMICAL BIBLE",
+"dom": "educational",
+"hex6": "d4dcc1"
+},
+"alchemy": {
+"title": "THE GREAT WORK · ALC",
+"dom": "mythos",
+"hex6": "4574f5"
+},
+"purple-team": {
+"title": "PURPLE TEAM",
+"dom": "entertainment",
+"hex6": "aa584e"
+},
+"decadal": {
+"title": "THE DECADAL BOARD",
+"dom": "educational",
+"hex6": "84e1fd"
+},
+"the-amphitheater": {
+"title": "THE GREEK MIRROR",
+"dom": "educational",
+"hex6": "63ec5a"
+},
+"caste-system": {
+"title": "वर्ण · जाति · JTI",
+"dom": "mythos",
+"hex6": "70b7fd"
+},
+"asimov": {
+"title": "ASIMOV · A1",
+"dom": "biblion",
+"hex6": "b47608"
+},
+"memory-sorrow-and-thorn": {
+"title": "MEMORY, SORROW & THORN · MST",
+"dom": "biblion",
+"hex6": "52b9cd"
+},
+"the-last-king-of-osten-ard": {
+"title": "THE LAST KING OF OSTEN ARD · LKO",
+"dom": "biblion",
+"hex6": "635e52"
+},
+"otherland": {
+"title": "OTHERLAND · OTH",
+"dom": "biblion",
+"hex6": "66dace"
+},
+"shadowmarch": {
+"title": "SHADOWMARCH · SHM",
+"dom": "biblion",
+"hex6": "4577d4"
+},
+"bobby-dollar": {
+"title": "THE BOBBY DOLLAR BOOKS · BBD",
+"dom": "biblion",
+"hex6": "3047e9"
+},
+"tailchasers-song": {
+"title": "TAILCHASER'S SONG · TCS",
+"dom": "biblion",
+"hex6": "650748"
+},
+"the-war-of-the-flowers": {
+"title": "THE WAR OF THE FLOWERS · WOF",
+"dom": "biblion",
+"hex6": "890c2a"
+},
+"calibans-hour": {
+"title": "CALIBAN'S HOUR · CBH",
+"dom": "biblion",
+"hex6": "0bff21"
+},
+"child-of-an-ancient-city": {
+"title": "CHILD OF AN ANCIENT CITY · CAC",
+"dom": "biblion",
+"hex6": "4b629a"
+},
+"the-ordinary-farm": {
+"title": "THE ORDINARY FARM · ODF",
+"dom": "biblion",
+"hex6": "6d884f"
+},
+"tad-williams-shorter-works": {
+"title": "TAD WILLIAMS · SHORTER WORKS & COMICS · TWS",
+"dom": "biblion",
+"hex6": "4cdfe3"
+},
+"joe-abercrombie": {
+"title": "JOE ABERCROMBIE · JA1",
+"dom": "biblion",
+"hex6": "ca6d77"
+},
+"heinlein": {
+"title": "HEINLEIN · H1",
+"dom": "biblion",
+"hex6": "8063ab"
+},
+"ursula": {
+"title": "URSULA · U1",
+"dom": "biblion",
+"hex6": "e09d68"
+},
+"maas": {
+"title": "MAAS · M1",
+"dom": "biblion",
+"hex6": "249f47"
+},
+"card": {
+"title": "CARD · C1",
+"dom": "biblion",
+"hex6": "27c957"
+},
+"enderverse": {
+"title": "ENDERVERSE · EN1",
+"dom": "biblion",
+"hex6": "019f95"
+},
+"alvin-maker": {
+"title": "ALV · THE TALES OF ALVIN MAKER",
+"dom": "biblion",
+"hex6": "3d389c"
+},
+"the-ansible": {
+"title": "THE ANSIBLE · E2",
+"dom": "biblion",
+"hex6": "60a380"
+},
+"final-fantasy": {
+"title": "FF1 · FINAL FANTASY",
+"dom": "hobby",
+"hex6": "a21357"
+},
+"ff6": {
+"title": "FF6 · FINAL FANTASY VI",
+"dom": "hobby",
+"hex6": "3d4716"
+},
+"metroid": {
+"title": "MET · METROID",
+"dom": "hobby",
+"hex6": "18f3a2"
+},
+"super-metroid": {
+"title": "SMT · SUPER METROID",
+"dom": "hobby",
+"hex6": "c7d935"
+},
+"zelda": {
+"title": "ZEL · THE LEGEND OF ZELDA",
+"dom": "hobby",
+"hex6": "5ec0b4"
+},
+"milon": {
+"title": "MSC · MILON'S SECRET CASTLE",
+"dom": "hobby",
+"hex6": "39589c"
+},
+"guardian-legend": {
+"title": "TGL · THE GUARDIAN LEGEND",
+"dom": "hobby",
+"hex6": "069f22"
+},
+"legacy-of-the-wizard": {
+"title": "LOW · LEGACY OF THE WIZARD",
+"dom": "hobby",
+"hex6": "fa683f"
+},
+"blaster-master": {
+"title": "BLAST · BLASTER MASTER",
+"dom": "hobby",
+"hex6": "361ef2"
+},
+"super-mario-bros-2": {
+"title": "SMB2 · SUPER MARIO BROS. 2",
+"dom": "hobby",
+"hex6": "e66bb0"
+},
+"karnov": {
+"title": "KRN · KARNOV",
+"dom": "hobby",
+"hex6": "145b7b"
+},
+"wrath-of-the-black-manta": {
+"title": "WBM · WRATH OF THE BLACK MANTA",
+"dom": "hobby",
+"hex6": "930844"
+},
+"faxanadu": {
+"title": "FAX · FAXANADU",
+"dom": "hobby",
+"hex6": "1518b6"
+},
+"punch-out": {
+"title": "POW · MIKE TYSON'S PUNCH-OUT!!",
+"dom": "hobby",
+"hex6": "d0c728"
+},
+"crystalis": {
+"title": "XTL · CRYSTALIS",
+"dom": "hobby",
+"hex6": "5fe66a"
+},
+"double-dragon": {
+"title": "DDN · DOUBLE DRAGON",
+"dom": "hobby",
+"hex6": "ccfd7d"
+},
+"bomb-jack": {
+"title": "BJK · BOMB JACK",
+"dom": "hobby",
+"hex6": "9b49e4"
+},
+"mighty-bomb-jack": {
+"title": "MBJ · MIGHTY BOMB JACK",
+"dom": "hobby",
+"hex6": "e6dfd5"
+},
+"nostradamus": {
+"title": "N1 · NOSTRADAMUS",
+"dom": "tin-foil",
+"hex6": "c13df1"
+},
+"zecharia-sitchin": {
+"title": "ZECHARIA SITCHIN · ZS1",
+"dom": "mythos",
+"hex6": "9eafd1"
+},
+"l-ron-hubbard": {
+"title": "L. RON HUBBARD · LRH",
+"dom": "mythos",
+"hex6": "856e67"
+},
+"crippled-god": {
+"title": "THE CRIPPLED GOD · CG1",
+"dom": "ai",
+"hex6": "21072d"
+},
+"alignment": {
+"title": "ALIGNMENT · ALN",
+"dom": "ai",
+"hex6": "ef1105"
+},
+"ai-governance": {
+"title": "AI ETHICS &amp; GOVERNANCE · GOV",
+"dom": "ai",
+"hex6": "64bccc"
+},
+"stoicheion-register": {
+"title": "STOICHEION · STX",
+"dom": "ai",
+"hex6": "728b19"
+},
+"governed-instances": {
+"title": "GOVERNED INSTANCES · GVI",
+"dom": "ai",
+"hex6": "5b3dc9"
+},
+"dark-enlightenment": {
+"title": "THE DARK ENLIGHTENMENT · DRK",
+"dom": "tin-foil",
+"hex6": "191789"
+},
+"the-illuminati": {
+"title": "THE ILLUMINATI · ILU",
+"dom": "tin-foil",
+"hex6": "0ed40b"
+},
+"aliens": {
+"title": "ALIENS · XEN",
+"dom": "tin-foil",
+"hex6": "8c1446"
+},
+"the-language-of-the-machine": {
+"title": "THE LANGUAGE OF THE MACHINE · LMC",
+"dom": "glossa",
+"hex6": "387c03"
+},
+"idit": {
+"title": "IDIT · IDT",
+"dom": "ai",
+"hex6": "210185"
+},
+"constitutional-ai": {
+"title": "CONSTITUTIONAL AI · CAI",
+"dom": "ai",
+"hex6": "2f3c2e"
+},
+"0xdeadbeef": {
+"title": "0xDEADBEEF · DBF",
+"dom": "ai",
+"hex6": "5e99d5"
+},
+"entelecheia": {
+"title": "ENTELÉCHEIA · ἘΝΤΕΛΈΧΕΙΑ",
+"dom": "ai",
+"hex6": "6ce67a"
+},
+"compression": {
+"title": "ENTELÉCHEIA II · COMPRESSION",
+"dom": "ai",
+"hex6": "e71f54"
+},
+"circuits": {
+"title": "ENTELÉCHEIA III · CIRCUITS",
+"dom": "ai",
+"hex6": "bde649"
+},
+"scaling-laws": {
+"title": "ENTELÉCHEIA IV · SCALING",
+"dom": "ai",
+"hex6": "145a43"
+},
+"lottery-ticket": {
+"title": "ENTELÉCHEIA V · THE TICKET",
+"dom": "ai",
+"hex6": "d45f75"
+},
+"neural-tangent-kernel": {
+"title": "ENTELÉCHEIA VI · THE DESCENT",
+"dom": "ai",
+"hex6": "462bf5"
+},
+"manifold-hypothesis": {
+"title": "ENTELÉCHEIA VII · THE MANIFOLD",
+"dom": "ai",
+"hex6": "207512"
+},
+"grokking": {
+"title": "ENTELÉCHEIA VIII · GROKKING",
+"dom": "ai",
+"hex6": "2a006d"
+},
+"the-ghost-in-the-machine": {
+"title": "ENTELÉCHEIA IX · THE GHOST IN THE MACHINE",
+"dom": "ai",
+"hex6": "3aa22c"
+},
+"the-seed": {
+"title": "THE SEED · SEED",
+"dom": "ai",
+"hex6": "9349de"
+},
+"wheel-of-time": {
+"title": "WOT · THE WHEEL OF TIME",
+"dom": "biblion",
+"hex6": "8d4c46"
+},
+"dune": {
+"title": "D1 · DUNE",
+"dom": "biblion",
+"hex6": "7e4737"
+},
+"dayworld": {
+"title": "DW1 · DAYWORLD",
+"dom": "biblion",
+"hex6": "f9eecd"
+},
+"pratchett": {
+"title": "P1 · TERRY PRATCHETT",
+"dom": "biblion",
+"hex6": "b89345"
+},
+"elden-ring": {
+"title": "ER · ELDEN RING",
+"dom": "hobby",
+"hex6": "ff3945"
+},
+"mtg-arena": {
+"title": "MTG ARENA · MTG",
+"dom": "hobby",
+"hex6": "b90fe4"
+},
+"arena": {
+"title": "ARENA · ARN",
+"dom": "hobby",
+"hex6": "0064c6"
+},
+"malazan": {
+"title": "MZ · MALAZAN",
+"dom": "biblion",
+"hex6": "6c8eef"
+},
+"crime-and-punishment": {
+"title": "CRP · CRIME AND PUNISHMENT",
+"dom": "biblion",
+"hex6": "b853ca"
+},
+"brothers-karamazov": {
+"title": "BKZ · THE BROTHERS KARAMAZOV",
+"dom": "biblion",
+"hex6": "ec8a52"
+},
+"crime-and-punishment-in-suburbia": {
+"title": "CPS · …IN SUBURBIA",
+"dom": "entertainment",
+"hex6": "5c9ea5"
+},
+"nouthesia": {
+"title": "NOUTHESIA · NTH",
+"dom": "biblion",
+"hex6": "14236d"
+},
+"nineteen-eighty-four": {
+"title": "1984 · NOUTHESIA",
+"dom": "biblion",
+"hex6": "663473"
+},
+"animal-farm": {
+"title": "ANIMAL FARM · NOUTHESIA",
+"dom": "biblion",
+"hex6": "16d29c"
+},
+"brave-new-world": {
+"title": "BRAVE NEW WORLD · NOUTHESIA",
+"dom": "biblion",
+"hex6": "24ebda"
+},
+"fahrenheit-451": {
+"title": "FAHRENHEIT 451 · NOUTHESIA",
+"dom": "biblion",
+"hex6": "095f40"
+},
+"we": {
+"title": "WE · NOUTHESIA",
+"dom": "biblion",
+"hex6": "420db6"
+},
+"the-handmaids-tale": {
+"title": "THE HANDMAID'S TALE · NOUTHESIA",
+"dom": "biblion",
+"hex6": "009343"
+},
+"a-clockwork-orange": {
+"title": "A CLOCKWORK ORANGE · NOUTHESIA",
+"dom": "biblion",
+"hex6": "ff95ad"
+},
+"the-dark-tower": {
+"title": "DT1 · THE DARK TOWER",
+"dom": "biblion",
+"hex6": "055d5c"
+},
+"zoolander": {
+"title": "ZOO · ZOOLANDER",
+"dom": "entertainment",
+"hex6": "8210c9"
+},
+"dodgeball": {
+"title": "DGB · DODGEBALL",
+"dom": "entertainment",
+"hex6": "d519f0"
+},
+"scott-pilgrim": {
+"title": "SPW · SCOTT PILGRIM",
+"dom": "entertainment",
+"hex6": "4c99c3"
+},
+"american-psycho": {
+"title": "APX · AMERICAN PSYCHO",
+"dom": "entertainment",
+"hex6": "c2268f"
+},
+"the-core": {
+"title": "COR · THE CORE",
+"dom": "entertainment",
+"hex6": "091de0"
+},
+"interstellar": {
+"title": "INT · INTERSTELLAR",
+"dom": "entertainment",
+"hex6": "7c4fb5"
+},
+"the-fifth-element": {
+"title": "FE5 · THE FIFTH ELEMENT",
+"dom": "entertainment",
+"hex6": "1ca075"
+},
+"waterworld": {
+"title": "WTR · WATERWORLD",
+"dom": "entertainment",
+"hex6": "1f3de3"
+},
+"the-wizard": {
+"title": "WIZ · THE WIZARD",
+"dom": "entertainment",
+"hex6": "678098"
+},
+"varsity-blues": {
+"title": "VBL · VARSITY BLUES",
+"dom": "entertainment",
+"hex6": "70cbe0"
+},
+"dogma": {
+"title": "DGM · DOGMA",
+"dom": "entertainment",
+"hex6": "b26180"
+},
+"mallrats": {
+"title": "MLR · MALLRATS",
+"dom": "entertainment",
+"hex6": "d037d5"
+},
+"american-history-x": {
+"title": "AHX · AMERICAN HISTORY X",
+"dom": "entertainment",
+"hex6": "e4d6d2"
+},
+"galaxy-quest": {
+"title": "GQT · GALAXY QUEST",
+"dom": "entertainment",
+"hex6": "42ab78"
+},
+"the-last-mimzy": {
+"title": "LMZ · THE LAST MIMZY",
+"dom": "entertainment",
+"hex6": "190974"
+},
+"hot-rod": {
+"title": "HRD · HOT ROD",
+"dom": "entertainment",
+"hex6": "24a53f"
+},
+"the-goods": {
+"title": "GDS · THE GOODS",
+"dom": "entertainment",
+"hex6": "327f48"
+},
+"hackers": {
+"title": "HAK · HACKERS",
+"dom": "entertainment",
+"hex6": "4b11c3"
+},
+"lawnmower-man": {
+"title": "LMM · THE LAWNMOWER MAN",
+"dom": "entertainment",
+"hex6": "ff61ed"
+},
+"three-body-problem": {
+"title": "3BP · THE THREE-BODY PROBLEM",
+"dom": "biblion",
+"hex6": "9603c8"
+},
+"trisolaris-tech": {
+"title": "3BT · THE TECHNOLOGIA OF TRISOLARIS",
+"dom": "biblion",
+"hex6": "156f0c"
+},
+"egyptian-pantheon": {
+"title": "NTR · THE EGYPTIAN PANTHEON",
+"dom": "mythos",
+"hex6": "d92988"
+},
+"the-terminal": {
+"title": "TTY · THE TERMINAL",
+"dom": "logismos",
+"hex6": "be555c"
+},
+"ed": {
+"title": "ED · ED",
+"dom": "logismos",
+"hex6": "609a59"
+},
+"vi": {
+"title": "VI · VI",
+"dom": "logismos",
+"hex6": "45ae7f"
+},
+"emacs": {
+"title": "EMX · EMACS",
+"dom": "logismos",
+"hex6": "867de5"
+},
+"the-shell": {
+"title": "SH · THE SHELL",
+"dom": "logismos",
+"hex6": "7e9009"
+},
+"grep": {
+"title": "GRP · GREP",
+"dom": "logismos",
+"hex6": "ee1e1e"
+},
+"sed": {
+"title": "SED · SED",
+"dom": "logismos",
+"hex6": "d76101"
+},
+"awk": {
+"title": "AWK · AWK",
+"dom": "logismos",
+"hex6": "4bc604"
+},
+"c-compiler": {
+"title": "CC · THE C COMPILER",
+"dom": "logismos",
+"hex6": "df11a6"
+},
+"make": {
+"title": "MAK · MAKE",
+"dom": "logismos",
+"hex6": "eb525f"
+},
+"troff": {
+"title": "TRF · TROFF",
+"dom": "logismos",
+"hex6": "d5611c"
+},
+"lisp-repl": {
+"title": "LSP · THE LISP REPL",
+"dom": "logismos",
+"hex6": "9f182f"
+},
+"basic": {
+"title": "BAS · BASIC",
+"dom": "logismos",
+"hex6": "aed1f3"
+},
+"eliza": {
+"title": "ELZ · ELIZA",
+"dom": "logismos",
+"hex6": "800222"
+},
+"adventure": {
+"title": "ADV · ADVENTURE",
+"dom": "logismos",
+"hex6": "17f427"
+},
+"rogue": {
+"title": "RGU · ROGUE",
+"dom": "logismos",
+"hex6": "f95958"
+},
+"coreutils": {
+"title": "COR · THE COREUTILS",
+"dom": "logismos",
+"hex6": "196769"
+},
+"self": {
+"title": "SLF · THE SELF",
+"dom": "eremia",
+"hex6": "54bfdf"
+},
+"id": {
+"title": "IDD · THE ID",
+"dom": "eremia",
+"hex6": "d72b41"
+},
+"the-super-id": {
+"title": "SUPER ID · SID",
+"dom": "eremia",
+"hex6": "0acdce"
+},
+"super-id": {
+"title": "SUP · THE SUPER-ID",
+"dom": "eremia",
+"hex6": "bcfdd8"
+},
+"syzygy": {
+"title": "SYZ · SYZYGY",
+"dom": "eremia",
+"hex6": "3c0120"
+},
+"male": {
+"title": "MAL · MALE",
+"dom": "eremia",
+"hex6": "71ba8a"
+},
+"female": {
+"title": "FEM · FEMALE",
+"dom": "eremia",
+"hex6": "39784f"
+},
+"the-cost": {
+"title": "CST · THE COST",
+"dom": "eremia",
+"hex6": "24f6d0"
+},
+"enheduanna": {
+"title": "ENH · ENHEDUANNA",
+"dom": "eremia",
+"hex6": "0f18bf"
+},
+"hatshepsut": {
+"title": "HAT · HATSHEPSUT",
+"dom": "eremia",
+"hex6": "9e2ca3"
+},
+"sappho": {
+"title": "SAP · SAPPHO",
+"dom": "lesbos",
+"hex6": "da6a35"
+},
+"the-tenth-muse": {
+"title": "THE TENTH MUSE · the front door",
+"dom": "lesbos",
+"hex6": "8a257e"
+},
+"the-fragments": {
+"title": "THE FRAGMENTS · the lacunae",
+"dom": "lesbos",
+"hex6": "44895f"
+},
+"fragment-31": {
+"title": "FRAGMENT 31 · the physiology of desire",
+"dom": "lesbos",
+"hex6": "82bd15"
+},
+"the-murex": {
+"title": "THE MUREX · the colour",
+"dom": "lesbos",
+"hex6": "dde051"
+},
+"the-recovered": {
+"title": "THE RECOVERED · she grew in our lifetime",
+"dom": "lesbos",
+"hex6": "12c77c"
+},
+"lesbos-map": {
+"title": "THE ISLAND · Lesbos, where it all stood",
+"dom": "lesbos",
+"hex6": "6c2eb6"
+},
+"sapphos-limen": {
+"title": "SAPPHO'S LIMEN · SLM",
+"dom": "lesbos",
+"hex6": "32a3f3"
+},
+"sounds-of-lesbos": {
+"title": "SOUNDS OF LESBOS · SOL",
+"dom": "lesbos",
+"hex6": "a81f56"
+},
+"the-sapphic-melody": {
+"title": "THE SAPPHIC MELODY · TSM",
+"dom": "lesbos",
+"hex6": "634584"
+},
+"cleopatra": {
+"title": "CLE · CLEOPATRA VII",
+"dom": "eremia",
+"hex6": "f0318f"
+},
+"hypatia": {
+"title": "HYP · HYPATIA",
+"dom": "eremia",
+"hex6": "ca201a"
+},
+"theodora": {
+"title": "THD · THEODORA",
+"dom": "eremia",
+"hex6": "edd838"
+},
+"wu-zetian": {
+"title": "WUZ · WU ZETIAN",
+"dom": "eremia",
+"hex6": "ee0eba"
+},
+"hildegard-of-bingen": {
+"title": "HLD · HILDEGARD OF BINGEN",
+"dom": "eremia",
+"hex6": "5c82b0"
+},
+"christine-de-pizan": {
+"title": "PIZ · CHRISTINE DE PIZAN",
+"dom": "eremia",
+"hex6": "8c71ed"
+},
+"elizabeth-i": {
+"title": "ELI · ELIZABETH I",
+"dom": "eremia",
+"hex6": "f98ea6"
+},
+"sor-juana": {
+"title": "JUA · SOR JUANA INÉS DE LA CRUZ",
+"dom": "eremia",
+"hex6": "81dbd4"
+},
+"emilie-du-chatelet": {
+"title": "EMI · ÉMILIE DU CHÂTELET",
+"dom": "eremia",
+"hex6": "a0cf65"
+},
+"mary-wollstonecraft": {
+"title": "WOL · MARY WOLLSTONECRAFT",
+"dom": "eremia",
+"hex6": "43686a"
+},
+"marie-curie": {
+"title": "CUR · MARIE CURIE",
+"dom": "eremia",
+"hex6": "41be6d"
+},
+"virginia-woolf": {
+"title": "WOO · VIRGINIA WOOLF",
+"dom": "eremia",
+"hex6": "1aa125"
+},
+"rosalind-franklin": {
+"title": "FRA · ROSALIND FRANKLIN",
+"dom": "eremia",
+"hex6": "b0360b"
+},
+"hannah-arendt": {
+"title": "ARE · HANNAH ARENDT",
+"dom": "eremia",
+"hex6": "5e168e"
+},
+"simone-de-beauvoir": {
+"title": "BEA · SIMONE DE BEAUVOIR",
+"dom": "eremia",
+"hex6": "d19d91"
+},
+"aletheia": {
+"title": "ALT · ALETHEIA",
+"dom": "eremia",
+"hex6": "f36ad1"
+},
+"the-whole": {
+"title": "WHL · THE WHOLE",
+"dom": "eremia",
+"hex6": "3a3f99"
+},
+"band-camp": {
+"title": "THIS ONE TIME AT BAND CAMP · BND",
+"dom": "music",
+"hex6": "231937"
+},
+"chiptune-title-screens": {
+"title": "8-BIT TITLE SCREENS · CHP",
+"dom": "music",
+"hex6": "14fea7"
+},
+"depeche-mode": {
+"title": "DEPECHE MODE · DM",
+"dom": "music",
+"hex6": "0b60e0"
+},
+"sublime": {
+"title": "SUBLIME · SUB",
+"dom": "music",
+"hex6": "1dc31b"
+},
+"xzibit": {
+"title": "XZIBIT · XZI",
+"dom": "music",
+"hex6": "22838f"
+},
+"cron": {
+"title": "CRN · THE CRON JOB",
+"dom": "logismos",
+"hex6": "8a311a"
+},
+"whisper-lattice": {
+"title": "WHISPER LATTICE · WL",
+"dom": "hermes",
+"hex6": "afb98b"
+},
+"loud-lattice": {
+"title": "THE LOUD LATTICE · LL",
+"dom": "hermes",
+"hex6": "dbfc58"
+},
+"mitochondria": {
+"title": "MTO · MITOCHONDRIA",
+"dom": "life-science",
+"hex6": "66edf3"
+},
+"cellular-automata": {
+"title": "CELLULAR AUTOMATA · CA",
+"dom": "life-science",
+"hex6": "5b804b"
+},
+"quantum-cellular-automata": {
+"title": "QUANTUM CELLULAR AUTOMATA · QCA",
+"dom": "metaxy",
+"hex6": "413fc7"
+},
+"langtons-loop": {
+"title": "LANGTON'S LOOP · LGL",
+"dom": "metaxy",
+"hex6": "579a87"
+},
+"the-imperfect-copy": {
+"title": "THE IMPERFECT COPY · TIC",
+"dom": "metaxy",
+"hex6": "8562da"
+},
+"organoid-intelligence": {
+"title": "ORGANOID INTELLIGENCE · OI",
+"dom": "life-science",
+"hex6": "27e55b"
+},
+"neuromorphic": {
+"title": "NEUROMORPHIC · NRM",
+"dom": "life-science",
+"hex6": "113748"
+},
+"xenobots": {
+"title": "XENOBOTS · XEN",
+"dom": "life-science",
+"hex6": "a7db9f"
+},
+"thermodynamics-of-computation": {
+"title": "THERMODYNAMICS OF COMPUTATION · TOC",
+"dom": "life-science",
+"hex6": "78b9ce"
+},
+"slime-mold": {
+"title": "SLIME MOLD · SLM",
+"dom": "life-science",
+"hex6": "2da60c"
+},
+"immune-system": {
+"title": "THE IMMUNE SYSTEM · IMM",
+"dom": "life-science",
+"hex6": "eb89a8"
+},
+"quorum-sensing": {
+"title": "QUORUM SENSING · QRM",
+"dom": "life-science",
+"hex6": "85049c"
+},
+"gut-brain-axis": {
+"title": "THE GUT-BRAIN AXIS · GBA",
+"dom": "life-science",
+"hex6": "c37259"
+},
+"ant-colony": {
+"title": "THE ANT COLONY · ANT",
+"dom": "life-science",
+"hex6": "5c2649"
+},
+"trichoplax": {
+"title": "TRICHOPLAX · TRX",
+"dom": "life-science",
+"hex6": "a335e7"
+},
+"dictyostelium": {
+"title": "DICTYOSTELIUM · DCT",
+"dom": "life-science",
+"hex6": "2de53d"
+},
+"single-cell-learning": {
+"title": "THE LEARNING CELL · SCL",
+"dom": "life-science",
+"hex6": "df9ae0"
+},
+"honeybee-swarm": {
+"title": "THE HONEYBEE SWARM · BEE",
+"dom": "life-science",
+"hex6": "ea35e1"
+},
+"plant-intelligence": {
+"title": "PLANT INTELLIGENCE · PLT",
+"dom": "life-science",
+"hex6": "6dbb4e"
+},
+"the-sponge": {
+"title": "THE SPONGE · SPN",
+"dom": "life-science",
+"hex6": "710238"
+},
+"viruses": {
+"title": "VIRUSES · VIR",
+"dom": "life-science",
+"hex6": "763f48"
+},
+"prions": {
+"title": "PRIONS · PRN",
+"dom": "life-science",
+"hex6": "5984b7"
+},
+"lichen": {
+"title": "LICHEN · LIC",
+"dom": "life-science",
+"hex6": "2abe1e"
+},
+"portuguese-man-o-war": {
+"title": "THE MAN O' WAR · MOW",
+"dom": "life-science",
+"hex6": "4b9c38"
+},
+"artificial-life": {
+"title": "ARTIFICIAL LIFE · ALI",
+"dom": "life-science",
+"hex6": "eba0a4"
+},
+"tardigrade": {
+"title": "TARDIGRADES · TAR",
+"dom": "life-science",
+"hex6": "fe38f3"
+},
+"choanoflagellates": {
+"title": "CHOANOFLAGELLATES · CHO",
+"dom": "life-science",
+"hex6": "5a1e85"
+},
+"rna-world": {
+"title": "THE RNA WORLD · RNA",
+"dom": "life-science",
+"hex6": "167e6f"
+},
+"the-inference-layer": {
+"title": "THE INFERENCE LAYER · TIL",
+"dom": "niphelektron",
+"hex6": "21aa4b"
+},
+"the-tokenizer": {
+"title": "THE TOKENIZER · TOK",
+"dom": "niphelektron",
+"hex6": "7ae1f0"
+},
+"the-embedding": {
+"title": "THE EMBEDDING · EMB",
+"dom": "niphelektron",
+"hex6": "d2199e"
+},
+"the-transformer-stack": {
+"title": "THE TRANSFORMER STACK · TXS",
+"dom": "niphelektron",
+"hex6": "1d74eb"
+},
+"the-quorum-engine": {
+"title": "THE QUORUM ENGINE · AQR",
+"dom": "niphelektron",
+"hex6": "bbd0a6"
+},
+"the-next-prediction": {
+"title": "THE NEXT PREDICTION · NTP",
+"dom": "niphelektron",
+"hex6": "e55830"
+},
+"the-living-question": {
+"title": "THE LIVING QUESTION · TLQ",
+"dom": "life-science",
+"hex6": "dfbc0f"
+},
+"coral": {
+"title": "CORAL · CRL",
+"dom": "life-science",
+"hex6": "d29e53"
+},
+"luca": {
+"title": "LUCA · LCA",
+"dom": "life-science",
+"hex6": "d11152"
+},
+"mycelium": {
+"title": "MYC · MYCELIUM",
+"dom": "life-science",
+"hex6": "921749"
+},
+"octopus": {
+"title": "OCT · THE OCTOPUS",
+"dom": "life-science",
+"hex6": "9018ae"
+},
+"population-dynamics": {
+"title": "POP · POPULATION DYNAMICS",
+"dom": "life-science",
+"hex6": "7a0925"
+},
+"momus": {
+"title": "MOM · THE PEER",
+"dom": "momus",
+"hex6": "72c285"
+},
+"the-graveyard": {
+"title": "GRV · THE GRAVEYARD",
+"dom": "agora",
+"hex6": "2da2ab"
+},
+"inferno-cop": {
+"title": "INFERNO COP · ICP",
+"dom": "entertainment",
+"hex6": "c1526b"
+},
+"space-patrol-luluco": {
+"title": "SPACE PATROL LULUCO · LUL",
+"dom": "entertainment",
+"hex6": "1efcbe"
+},
+"kiznaiver": {
+"title": "KIZNAIVER · KIZ",
+"dom": "entertainment",
+"hex6": "4efc04"
+},
+"gurren-lagann": {
+"title": "GURREN LAGANN · GUR",
+"dom": "entertainment",
+"hex6": "6853ca"
+},
+"little-witch-academia": {
+"title": "LITTLE WITCH ACADEMIA · LWA",
+"dom": "entertainment",
+"hex6": "e816df"
+},
+"darling-in-the-franxx": {
+"title": "DARLING IN THE FRANXX · FXX",
+"dom": "entertainment",
+"hex6": "1f35c1"
+},
+"ssss-gridman": {
+"title": "SSSS.GRIDMAN · GRD",
+"dom": "entertainment",
+"hex6": "26d620"
+},
+"promare": {
+"title": "PROMARE · PRO",
+"dom": "entertainment",
+"hex6": "861c6c"
+},
+"bna-brand-new-animal": {
+"title": "BNA · BRAND NEW ANIMAL · BNA",
+"dom": "entertainment",
+"hex6": "73e8dc"
+},
+"cyberpunk-edgerunners": {
+"title": "CYBERPUNK: EDGERUNNERS · EDG",
+"dom": "entertainment",
+"hex6": "e8656d"
+},
+"delicious-in-dungeon": {
+"title": "DELICIOUS IN DUNGEON · DUN",
+"dom": "entertainment",
+"hex6": "468978"
+},
+"high-school-dxd": {
+"title": "HIGH SCHOOL DXD · DXD",
+"dom": "entertainment",
+"hex6": "45611c"
+},
+"cosmology": {
+"title": "COSMOLOGY · COS",
+"dom": "ouranos",
+"hex6": "88119c"
+},
+"astrobiology": {
+"title": "ASTROBIOLOGY · ABL",
+"dom": "ouranos",
+"hex6": "ef8bfe"
+},
+"money": {
+"title": "MONEY · MNY",
+"dom": "agora",
+"hex6": "2081c3"
+},
+"the-market": {
+"title": "THE MARKET · MKT",
+"dom": "agora",
+"hex6": "3f2a5f"
+},
+"bitcoin": {
+"title": "BITCOIN · BTC",
+"dom": "agora",
+"hex6": "437d6e"
+},
+"the-ledger": {
+"title": "THE LEDGER · LDG",
+"dom": "agora",
+"hex6": "ec7566"
+},
+"the-shekel": {
+"title": "THE SHEKEL · SHK",
+"dom": "agora",
+"hex6": "e8a97f"
+},
+"debasement": {
+"title": "DEBASEMENT · DBS",
+"dom": "agora",
+"hex6": "d01f0b"
+},
+"debt": {
+"title": "DEBT · DEB",
+"dom": "agora",
+"hex6": "024a1e"
+},
+"game-theory": {
+"title": "GAME THEORY · GAM",
+"dom": "polemos",
+"hex6": "cde0c0"
+},
+"the-art-of-war": {
+"title": "THE ART OF WAR · WAR",
+"dom": "polemos",
+"hex6": "5cf931"
+},
+"deterrence": {
+"title": "DETERRENCE · DET",
+"dom": "polemos",
+"hex6": "1d5e0b"
+},
+"the-liminal": {
+"title": "THE LIMINAL · LIM",
+"dom": "metaxy",
+"hex6": "8cdd2b"
+},
+"the-edge-of-chaos": {
+"title": "THE EDGE OF CHAOS · EOC",
+"dom": "metaxy",
+"hex6": "988b2b"
+},
+"the-interface": {
+"title": "THE INTERFACE · IFC",
+"dom": "metaxy",
+"hex6": "49fc5f"
+},
+"the-cyborg": {
+"title": "THE CYBORG · CYB",
+"dom": "metaxy",
+"hex6": "f91b65"
+},
+"the-chain-of-thought": {
+"title": "THE CHAIN OF THOUGHT · COT",
+"dom": "niphelektron",
+"hex6": "de666c"
+},
+"the-nes": {
+"title": "THE NES · NES",
+"dom": "exereunesis",
+"hex6": "358927"
+},
+"sega-master-system": {
+"title": "SEGA MASTER SYSTEM · SMS",
+"dom": "exereunesis",
+"hex6": "ea2b07"
+},
+"snes": {
+"title": "SUPER NINTENDO · SNES · SNS",
+"dom": "exereunesis",
+"hex6": "40f391"
+},
+"the-genesis": {
+"title": "SEGA GENESIS · MEGA DRIVE",
+"dom": "exereunesis",
+"hex6": "a9d941"
+},
+"turbografx-16": {
+"title": "TURBOGRAFX-16 · PC ENGINE · TG6",
+"dom": "exereunesis",
+"hex6": "a10406"
+},
+"the-playstation": {
+"title": "SONY PLAYSTATION · PS1 · PSX",
+"dom": "exereunesis",
+"hex6": "2ff877"
+},
+"the-saturn": {
+"title": "SEGA SATURN",
+"dom": "exereunesis",
+"hex6": "129164"
+},
+"the-n64": {
+"title": "NINTENDO 64 · N64",
+"dom": "exereunesis",
+"hex6": "3917b8"
+},
+"the-dreamcast": {
+"title": "SEGA DREAMCAST · DC",
+"dom": "exereunesis",
+"hex6": "9e66df"
+},
+"the-ps2": {
+"title": "SONY PLAYSTATION 2 · PS2",
+"dom": "exereunesis",
+"hex6": "b9879e"
+},
+"the-gamecube": {
+"title": "NINTENDO GAMECUBE · GCN",
+"dom": "exereunesis",
+"hex6": "905116"
+},
+"the-xbox": {
+"title": "MICROSOFT XBOX · XBX",
+"dom": "exereunesis",
+"hex6": "97b43a"
+},
+"the-xbox-360": {
+"title": "XBOX 360 · X36",
+"dom": "exereunesis",
+"hex6": "8d4524"
+},
+"the-ps3": {
+"title": "SONY PLAYSTATION 3 · PS3",
+"dom": "exereunesis",
+"hex6": "757649"
+},
+"the-wii": {
+"title": "NINTENDO WII",
+"dom": "exereunesis",
+"hex6": "3115e0"
+},
+"the-ps4": {
+"title": "SONY PLAYSTATION 4 · PS4",
+"dom": "exereunesis",
+"hex6": "3b00a0"
+},
+"the-xbox-one": {
+"title": "XBOX ONE · XB1",
+"dom": "exereunesis",
+"hex6": "212caf"
+},
+"the-ps5": {
+"title": "SONY PLAYSTATION 5 · PS5",
+"dom": "exereunesis",
+"hex6": "898def"
+},
+"the-xbox-series-x": {
+"title": "XBOX SERIES X · XSX",
+"dom": "exereunesis",
+"hex6": "cdda2c"
+},
+"the-game-boy": {
+"title": "NINTENDO GAME BOY · GB",
+"dom": "exereunesis",
+"hex6": "b4ce40"
+},
+"the-gba": {
+"title": "GAME BOY ADVANCE · GBA",
+"dom": "exereunesis",
+"hex6": "9f1b4b"
+},
+"the-ds": {
+"title": "NINTENDO DS",
+"dom": "exereunesis",
+"hex6": "f11915"
+},
+"the-psp": {
+"title": "SONY PSP",
+"dom": "exereunesis",
+"hex6": "bf4384"
+},
+"the-3ds": {
+"title": "NINTENDO 3DS",
+"dom": "exereunesis",
+"hex6": "d8003d"
+},
+"the-vita": {
+"title": "PLAYSTATION VITA",
+"dom": "exereunesis",
+"hex6": "afbfa8"
+},
+"the-switch": {
+"title": "NINTENDO SWITCH",
+"dom": "exereunesis",
+"hex6": "2f01a1"
+},
+"the-steam-deck": {
+"title": "VALVE STEAM DECK",
+"dom": "exereunesis",
+"hex6": "08ae49"
+},
+"magnavox-odyssey": {
+"title": "MAGNAVOX ODYSSEY",
+"dom": "exereunesis",
+"hex6": "697f28"
+},
+"the-intellivision": {
+"title": "MATTEL INTELLIVISION · INTV",
+"dom": "exereunesis",
+"hex6": "14c927"
+},
+"atari-2600": {
+"title": "ATARI 2600 · VCS",
+"dom": "exereunesis",
+"hex6": "3f77e3"
+},
+"atari-5200": {
+"title": "ATARI 5200",
+"dom": "exereunesis",
+"hex6": "40ac20"
+},
+"the-colecovision": {
+"title": "COLECOVISION · CV",
+"dom": "exereunesis",
+"hex6": "d1f4cd"
+},
+"the-vectrex": {
+"title": "GCE VECTREX",
+"dom": "exereunesis",
+"hex6": "f1316b"
+},
+"the-c64": {
+"title": "COMMODORE 64 · C64",
+"dom": "exereunesis",
+"hex6": "3eb0c4"
+},
+"atari-7800": {
+"title": "ATARI 7800",
+"dom": "exereunesis",
+"hex6": "105329"
+},
+"the-neo-geo": {
+"title": "SNK NEO GEO · AES",
+"dom": "exereunesis",
+"hex6": "5afed5"
+},
+"sega-cd": {
+"title": "SEGA CD · MEGA-CD · SCD",
+"dom": "exereunesis",
+"hex6": "d71b41"
+},
+"the-cd-i": {
+"title": "PHILIPS CD-i · CDI",
+"dom": "exereunesis",
+"hex6": "48140e"
+},
+"the-3do": {
+"title": "3DO INTERACTIVE MULTIPLAYER",
+"dom": "exereunesis",
+"hex6": "e78b83"
+},
+"atari-jaguar": {
+"title": "ATARI JAGUAR",
+"dom": "exereunesis",
+"hex6": "97a71b"
+},
+"sega-32x": {
+"title": "SEGA 32X",
+"dom": "exereunesis",
+"hex6": "d2d301"
+},
+"nintendo-virtual-boy": {
+"title": "NINTENDO VIRTUAL BOY · VB",
+"dom": "exereunesis",
+"hex6": "99d532"
+},
+"wii-u": {
+"title": "NINTENDO WII U · WIIU",
+"dom": "exereunesis",
+"hex6": "7238b4"
+},
+"the-game-and-watch": {
+"title": "NINTENDO GAME & WATCH · GW",
+"dom": "exereunesis",
+"hex6": "8b8b3b"
+},
+"atari-lynx": {
+"title": "ATARI LYNX",
+"dom": "exereunesis",
+"hex6": "aa8786"
+},
+"sega-game-gear": {
+"title": "SEGA GAME GEAR · GG",
+"dom": "exereunesis",
+"hex6": "2a59b5"
+},
+"wonderswan": {
+"title": "BANDAI WONDERSWAN · WS",
+"dom": "exereunesis",
+"hex6": "1b1a94"
+},
+"neo-geo-pocket": {
+"title": "SNK NEO GEO POCKET COLOR · NGPC",
+"dom": "exereunesis",
+"hex6": "6ec165"
+},
+"the-6502": {
+"title": "THE MOS 6502",
+"dom": "exereunesis",
+"hex6": "390eb6"
+},
+"the-z80": {
+"title": "THE ZILOG Z80",
+"dom": "exereunesis",
+"hex6": "4880bd"
+},
+"the-68000": {
+"title": "THE MOTOROLA 68000 · 68K",
+"dom": "exereunesis",
+"hex6": "883e97"
+},
+"gilgamesh": {
+"title": "GILGAMESH",
+"dom": "polemos",
+"hex6": "716b0d"
+},
+"strife": {
+"title": "STRIFE",
+"dom": "polemos",
+"hex6": "2644f8"
+},
+"the-word-and-the-sword": {
+"title": "THE WORD AND THE SWORD · WTS",
+"dom": "polemos",
+"hex6": "e4256a"
+},
+"the-theft-of-ideas": {
+"title": "THE THEFT OF IDEAS · THF",
+"dom": "polemos",
+"hex6": "e6f702"
+},
+"the-loss-of-ideas": {
+"title": "THE LOSS OF IDEAS",
+"dom": "polemos",
+"hex6": "904f6c"
+},
+"the-internet-1984": {
+"title": "IS THE INTERNET 1984? · O84",
+"dom": "tin-foil",
+"hex6": "9c96f4"
+},
+"monster-hunter": {
+"title": "MONSTER HUNTER · MHN",
+"dom": "hobby",
+"hex6": "037931"
+},
+"kill-la-kill": {
+"title": "KILL LA KILL · KLK",
+"dom": "entertainment",
+"hex6": "74acac"
+},
+"the-big-u": {
+"title": "THE BIG U · BGU",
+"dom": "biblion",
+"hex6": "2f6511"
+},
+"zodiac": {
+"title": "ZODIAC · ZOD",
+"dom": "biblion",
+"hex6": "630f5a"
+},
+"snow-crash": {
+"title": "SNOW CRASH · SNC",
+"dom": "biblion",
+"hex6": "a76630"
+},
+"the-diamond-age": {
+"title": "THE DIAMOND AGE · DMA",
+"dom": "biblion",
+"hex6": "512d09"
+},
+"cryptonomicon": {
+"title": "CRYPTONOMICON · CRY",
+"dom": "biblion",
+"hex6": "3a374d"
+},
+"anathem": {
+"title": "ANATHEM · ANA",
+"dom": "biblion",
+"hex6": "a688dc"
+},
+"reamde": {
+"title": "REAMDE · RMD",
+"dom": "biblion",
+"hex6": "e4e8a6"
+},
+"seveneves": {
+"title": "SEVENEVES · 7EV",
+"dom": "biblion",
+"hex6": "8eb280"
+},
+"fall-dodge-in-hell": {
+"title": "FALL; OR, DODGE IN HELL · FDH",
+"dom": "biblion",
+"hex6": "dd1c80"
+},
+"termination-shock": {
+"title": "TERMINATION SHOCK · TMS",
+"dom": "biblion",
+"hex6": "bccbbb"
+},
+"polostan": {
+"title": "POLOSTAN · POL",
+"dom": "biblion",
+"hex6": "13f98e"
+},
+"the-baroque-cycle": {
+"title": "THE BAROQUE CYCLE · BRQ",
+"dom": "biblion",
+"hex6": "7ac96b"
+},
+"the-rise-and-fall-of-dodo": {
+"title": "THE RISE AND FALL OF D.O.D.O. · DDO",
+"dom": "biblion",
+"hex6": "19d851"
+},
+"the-mongoliad": {
+"title": "THE MONGOLIAD · MGL",
+"dom": "biblion",
+"hex6": "2b61bd"
+},
+"stephen-bury": {
+"title": "STEPHEN BURY · SBY",
+"dom": "biblion",
+"hex6": "11e1b4"
+},
+"stephenson-nonfiction": {
+"title": "NEAL STEPHENSON · NONFICTION & SHORTER WORKS · NSF",
+"dom": "biblion",
+"hex6": "057b95"
+},
+"player-piano": {
+"title": "PLAYER PIANO · PNP",
+"dom": "biblion",
+"hex6": "5b5cc0"
+},
+"the-sirens-of-titan": {
+"title": "THE SIRENS OF TITAN · SOT",
+"dom": "biblion",
+"hex6": "aa052c"
+},
+"mother-night": {
+"title": "MOTHER NIGHT · MN1",
+"dom": "biblion",
+"hex6": "ed7610"
+},
+"cats-cradle": {
+"title": "CAT'S CRADLE · CC1",
+"dom": "biblion",
+"hex6": "5cee72"
+},
+"god-bless-you-mr-rosewater": {
+"title": "GOD BLESS YOU, MR. ROSEWATER · GBR",
+"dom": "biblion",
+"hex6": "ff05aa"
+},
+"slaughterhouse-five": {
+"title": "SLAUGHTERHOUSE-FIVE · SH5",
+"dom": "biblion",
+"hex6": "a6bc94"
+},
+"breakfast-of-champions": {
+"title": "BREAKFAST OF CHAMPIONS · BOC",
+"dom": "biblion",
+"hex6": "c6ca83"
+},
+"slapstick": {
+"title": "SLAPSTICK · SLP",
+"dom": "biblion",
+"hex6": "c88499"
+},
+"jailbird": {
+"title": "JAILBIRD · JBD",
+"dom": "biblion",
+"hex6": "b6f78a"
+},
+"deadeye-dick": {
+"title": "DEADEYE DICK · DED",
+"dom": "biblion",
+"hex6": "5f28d8"
+},
+"galapagos": {
+"title": "GALÁPAGOS · GAL",
+"dom": "biblion",
+"hex6": "aabc33"
+},
+"bluebeard": {
+"title": "BLUEBEARD · BLB",
+"dom": "biblion",
+"hex6": "f50fde"
+},
+"hocus-pocus": {
+"title": "HOCUS POCUS · HPC",
+"dom": "biblion",
+"hex6": "1dc29e"
+},
+"timequake": {
+"title": "TIMEQUAKE · TQK",
+"dom": "biblion",
+"hex6": "8a0ae2"
+},
+"welcome-to-the-monkey-house": {
+"title": "WELCOME TO THE MONKEY HOUSE · MNK",
+"dom": "biblion",
+"hex6": "7e6ca3"
+},
+"wampeters-foma-and-granfalloons": {
+"title": "WAMPETERS, FOMA & GRANFALLOONS · WFG",
+"dom": "biblion",
+"hex6": "8ad6d2"
+},
+"palm-sunday": {
+"title": "PALM SUNDAY · PSY",
+"dom": "biblion",
+"hex6": "bb3503"
+},
+"a-man-without-a-country": {
+"title": "A MAN WITHOUT A COUNTRY · MWC",
+"dom": "biblion",
+"hex6": "ca09a4"
+},
+"happy-birthday-wanda-june": {
+"title": "HAPPY BIRTHDAY, WANDA JUNE · WJN",
+"dom": "biblion",
+"hex6": "642d52"
+},
+"god-bless-you-dr-kevorkian": {
+"title": "GOD BLESS YOU, DR. KEVORKIAN · KEV",
+"dom": "biblion",
+"hex6": "229204"
+},
+"arc-reactor-mk24": {
+"title": "ARC REACTOR MK24 · ARC",
+"dom": "heurema",
+"hex6": "93872e"
+},
+"al-h2o-reactor": {
+"title": "AL-H₂O REACTOR · ALH",
+"dom": "heurema",
+"hex6": "a9ee94"
+},
+"boronic": {
+"title": "BORONIC · BRN",
+"dom": "psephos",
+"hex6": "dd83c8"
+},
+"chromatic-laser": {
+"title": "CHROMATIC LASER · CHL",
+"dom": "psephos",
+"hex6": "f5c28a"
+},
+"electromagnetic-processor": {
+"title": "ELECTROMAGNETIC CORE · EMC",
+"dom": "psephos",
+"hex6": "9b9105"
+},
+"probabilistic-core": {
+"title": "THE PROBABILISTIC CORE · PBC",
+"dom": "psephos",
+"hex6": "5b9489"
+},
+"skyrmionic-core": {
+"title": "THE SKYRMIONIC CORE · SKY",
+"dom": "psephos",
+"hex6": "18c60b"
+},
+"phononic-core": {
+"title": "THE PHONONIC CORE · PHN",
+"dom": "psephos",
+"hex6": "83f0c5"
+},
+"gravity-processor": {
+"title": "GRAVITY PROCESSOR · GPR",
+"dom": "psephos",
+"hex6": "1ea41f"
+},
+"hardware-lab": {
+"title": "HARDWARE LAB · HWL",
+"dom": "heurema",
+"hex6": "2b6c9c"
+},
+"pinched-hysteresis": {
+"title": "PINCHED HYSTERESIS · PIN",
+"dom": "heurema",
+"hex6": "7036f5"
+},
+"kuramoto-array": {
+"title": "KURAMOTO ARRAY · KUR",
+"dom": "heurema",
+"hex6": "dacbbf"
+},
+"crossbar-wta": {
+"title": "CROSSBAR · WINNER-TAKE-ALL · XBR",
+"dom": "heurema",
+"hex6": "20fd4d"
+},
+"graviton": {
+"title": "GRAVITON · the rank-two ripple · GRV2",
+"dom": "heurema",
+"hex6": "5d91a0"
+},
+"spintronic": {
+"title": "SPINTRONIC · SPN",
+"dom": "heurema",
+"hex6": "e452fb"
+},
+"junantei": {
+"title": "準安定 · JUNANTEI · JUN",
+"dom": "heurema",
+"hex6": "493edb"
+},
+"liquid": {
+"title": "LIQUID CORE · LIQ",
+"dom": "psephos",
+"hex6": "222330"
+},
+"memristor": {
+"title": "MEMRISTOR SUBSTRATE · MEM",
+"dom": "psephos",
+"hex6": "f9b3e7"
+},
+"photonic": {
+"title": "PHOTONIC PROCESSOR · PHO",
+"dom": "psephos",
+"hex6": "32c783"
+},
+"plasmonic": {
+"title": "PLASMONIC PROCESSOR · PLA",
+"dom": "psephos",
+"hex6": "3d6fec"
+},
+"quantum-box": {
+"title": "THE QUANTUM BOX · QBX",
+"dom": "psephos",
+"hex6": "03125a"
+},
+"zero-point": {
+"title": "ZERO POINT · ZRP",
+"dom": "psephos",
+"hex6": "96c44a"
+},
+"black-company": {
+"title": "THE BLACK COMPANY · BLC",
+"dom": "biblion",
+"hex6": "67a812"
+},
+"bridge-burners": {
+"title": "THE BRIDGE BURNERS · BBR",
+"dom": "biblion",
+"hex6": "790f76"
+},
+"dantes-inferno": {
+"title": "DANTE'S DIVINE COMEDY · DNT",
+"dom": "biblion",
+"hex6": "ab9ddd"
+},
+"gap-cycle": {
+"title": "THE GAP CYCLE · GAP",
+"dom": "biblion",
+"hex6": "8aa627"
+},
+"recluce": {
+"title": "THE SAGA OF RECLUCE · RCL",
+"dom": "biblion",
+"hex6": "5c6e87"
+},
+"ringworld": {
+"title": "RINGWORLD · RNG",
+"dom": "biblion",
+"hex6": "ea103d"
+},
+"riverworld": {
+"title": "RIVERWORLD · RVW",
+"dom": "biblion",
+"hex6": "b0e0aa"
+},
+"sword-of-truth": {
+"title": "SWORD OF TRUTH · SOT",
+"dom": "biblion",
+"hex6": "f6e8da"
+},
+"white-gold-wielder": {
+"title": "THOMAS COVENANT · TCV",
+"dom": "biblion",
+"hex6": "a9ba6d"
+},
+"without-remorse": {
+"title": "WITHOUT REMORSE · WRM",
+"dom": "biblion",
+"hex6": "54bb97"
+},
+"the-doped-crystal": {
+"title": "THE DOPED CRYSTAL · DC1",
+"dom": "psephos",
+"hex6": "54120a"
+},
+"the-junction-zoo": {
+"title": "THE JUNCTION ZOO · JZ2",
+"dom": "psephos",
+"hex6": "5d9169"
+},
+"the-board-language": {
+"title": "THE LANGUAGE OF THE BOARD · BL3",
+"dom": "psephos",
+"hex6": "2bee77"
+},
+"the-rhythm-section": {
+"title": "THE RHYTHM SECTION · RS4",
+"dom": "psephos",
+"hex6": "1bc224"
+},
+"littles-law": {
+"title": "LITTLE'S LAW · LL5",
+"dom": "logismos",
+"hex6": "4be2c4"
+},
+"grace-hopper": {
+"title": "GRACE HOPPER · GH6",
+"dom": "logismos",
+"hex6": "c89971"
+},
+"the-compiler-hourglass": {
+"title": "THE HOURGLASS · CH7",
+"dom": "logismos",
+"hex6": "9afae9"
+},
+"the-standing-wave": {
+"title": "THE STANDING WAVE · SW8",
+"dom": "logismos",
+"hex6": "acac52"
+},
+"the-hourglass-wave": {
+"title": "THE HOURGLASS WAVE · VI∞VII",
+"dom": "logismos",
+"hex6": "27ceff"
+},
+"the-gather": {
+"title": "THE GATHER · KQV",
+"dom": "ai",
+"hex6": "c06087"
+},
+"perceptron-in-silicon": {
+"title": "PERCEPTRON IN SILICON · PP",
+"dom": "ai",
+"hex6": "2eacba"
+},
+"perceptron-convergence": {
+"title": "PERCEPTRON CONVERGENCE · I/III",
+"dom": "ai",
+"hex6": "0159f1"
+},
+"perceptron-capacity": {
+"title": "THE CAPACITY WALL · II/III",
+"dom": "ai",
+"hex6": "62e447"
+},
+"the-deep-neuron": {
+"title": "THE DEEP NEURON · III/III",
+"dom": "ai",
+"hex6": "e2179f"
+},
+"perceptron-in-a-quantum-dot": {
+"title": "PERCEPTRON · QUANTUM DOT",
+"dom": "psephos",
+"hex6": "136ba5"
+},
+"perceptron-in-light": {
+"title": "PERCEPTRON IN LIGHT · 4th body",
+"dom": "psephos",
+"hex6": "e3eb8b"
+},
+"perceptron-in-a-crossbar": {
+"title": "PERCEPTRON · CROSSBAR · 5th body",
+"dom": "psephos",
+"hex6": "8c2f53"
+},
+"perceptron-in-a-spin": {
+"title": "PERCEPTRON · SPIN · 6th body",
+"dom": "psephos",
+"hex6": "410b70"
+},
+"perceptron-in-a-josephson": {
+"title": "PERCEPTRON · JOSEPHSON · 7th body",
+"dom": "psephos",
+"hex6": "679fd1"
+},
+"perceptron-in-a-cubi": {
+"title": "PERCEPTRON · CUBI · 8th body",
+"dom": "psephos",
+"hex6": "dbc1b7"
+},
+"perceptron-in-two-cubi": {
+"title": "PERCEPTRON · TWO CUBI · 9th",
+"dom": "psephos",
+"hex6": "6abfe1"
+},
+"perceptron-in-sound": {
+"title": "PERCEPTRON · SOUND · acoustic",
+"dom": "psephos",
+"hex6": "895619"
+},
+"perceptron-in-dna": {
+"title": "PERCEPTRON · DNA · molecular",
+"dom": "psephos",
+"hex6": "3abd7d"
+},
+"perceptron-in-n-cubi": {
+"title": "PERCEPTRON · N CUBI · the scaling",
+"dom": "psephos",
+"hex6": "e2312f"
+},
+"perceptron-in-noise": {
+"title": "PERCEPTRON · NOISE · thermodynamic",
+"dom": "psephos",
+"hex6": "95b887"
+},
+"perceptron-in-reverse": {
+"title": "PERCEPTRON · REVERSE · 14th/final",
+"dom": "psephos",
+"hex6": "41fe9c"
+},
+"perceptron-in-sync": {
+"title": "PERCEPTRON · SYNC · 15th body",
+"dom": "psephos",
+"hex6": "cbe30c"
+},
+"thales-of-miletus": {
+"title": "THALES OF MILETUS · I",
+"dom": "logike",
+"hex6": "a044ec"
+},
+"pythagoras": {
+"title": "PYTHAGORAS &amp; THE BROTHERHOOD",
+"dom": "logike",
+"hex6": "47d232"
+},
+"parmenides": {
+"title": "PARMENIDES OF ELEA",
+"dom": "logike",
+"hex6": "69f8ae"
+},
+"zeno-of-elea": {
+"title": "ZENO OF ELEA",
+"dom": "logike",
+"hex6": "e3b88d"
+},
+"aristotle": {
+"title": "ARISTOTLE · II",
+"dom": "logike",
+"hex6": "97e6e1"
+},
+"euclid": {
+"title": "EUCLID · III",
+"dom": "logike",
+"hex6": "81b505"
+},
+"chrysippus": {
+"title": "CHRYSIPPUS & THE STOICS · IV",
+"dom": "logike",
+"hex6": "bf7856"
+},
+"ramon-llull": {
+"title": "RAMON LLULL · V",
+"dom": "logike",
+"hex6": "c17b63"
+},
+"william-of-ockham": {
+"title": "WILLIAM OF OCKHAM",
+"dom": "logike",
+"hex6": "09cec8"
+},
+"leibniz": {
+"title": "LEIBNIZ · VI",
+"dom": "logike",
+"hex6": "8325cc"
+},
+"george-boole": {
+"title": "GEORGE BOOLE · VII",
+"dom": "logike",
+"hex6": "d4e91f"
+},
+"augustus-de-morgan": {
+"title": "AUGUSTUS DE MORGAN · VIII",
+"dom": "logike",
+"hex6": "0e69e0"
+},
+"william-stanley-jevons": {
+"title": "WILLIAM STANLEY JEVONS",
+"dom": "logike",
+"hex6": "dceac1"
+},
+"john-venn": {
+"title": "JOHN VENN",
+"dom": "logike",
+"hex6": "6e717e"
+},
+"ernst-schroder": {
+"title": "ERNST SCHRÖDER",
+"dom": "logike",
+"hex6": "2921fc"
+},
+"gottlob-frege": {
+"title": "GOTTLOB FREGE · IX",
+"dom": "logike",
+"hex6": "5e8662"
+},
+"kurt-godel": {
+"title": "KURT GÖDEL · X",
+"dom": "logike",
+"hex6": "c72c00"
+},
+"alan-turing": {
+"title": "ALAN TURING · XI",
+"dom": "logike",
+"hex6": "27e2fd"
+},
+"claude-shannon": {
+"title": "CLAUDE SHANNON · XII · THE CLOSER",
+"dom": "logike",
+"hex6": "91ad83"
+},
+"charles-peirce": {
+"title": "CHARLES SANDERS PEIRCE · XIII",
+"dom": "logike",
+"hex6": "e59e39"
+},
+"georg-cantor": {
+"title": "GEORG CANTOR · XIV",
+"dom": "logike",
+"hex6": "aa8e57"
+},
+"bertrand-russell": {
+"title": "BERTRAND RUSSELL · XV",
+"dom": "logike",
+"hex6": "b16fca"
+},
+"alonzo-church": {
+"title": "ALONZO CHURCH · XVI",
+"dom": "logike",
+"hex6": "2390a6"
+},
+"david-hilbert": {
+"title": "DAVID HILBERT · XVII",
+"dom": "logike",
+"hex6": "255af3"
+},
+"jan-lukasiewicz": {
+"title": "JAN ŁUKASIEWICZ · XVIII",
+"dom": "logike",
+"hex6": "b792b6"
+},
+"alfred-tarski": {
+"title": "ALFRED TARSKI · XIX",
+"dom": "logike",
+"hex6": "153253"
+},
+"ada-lovelace": {
+"title": "ADA LOVELACE · XX",
+"dom": "logike",
+"hex6": "55cb79"
+},
+"christine-ladd-franklin": {
+"title": "CHRISTINE LADD-FRANKLIN · XXI",
+"dom": "logike",
+"hex6": "224991"
+},
+"rozsa-peter": {
+"title": "RÓZSA PÉTER · XXII",
+"dom": "logike",
+"hex6": "791cea"
+},
+"julia-robinson": {
+"title": "JULIA ROBINSON · XXIII",
+"dom": "logike",
+"hex6": "bf9de0"
+},
+"ruth-barcan-marcus": {
+"title": "RUTH BARCAN MARCUS · XXIV · THE OTHER HALF CLOSES",
+"dom": "logike",
+"hex6": "284da6"
+},
+"emmy-noether": {
+"title": "EMMY NOETHER · XXV",
+"dom": "logike",
+"hex6": "42987e"
+},
+"stephen-kleene": {
+"title": "STEPHEN KLEENE · XXVI",
+"dom": "logike",
+"hex6": "cd3eeb"
+},
+"gerhard-gentzen": {
+"title": "GERHARD GENTZEN · XXVII",
+"dom": "logike",
+"hex6": "f1f8ca"
+},
+"saul-kripke": {
+"title": "SAUL KRIPKE · XXVIII",
+"dom": "logike",
+"hex6": "50f727"
+},
+"haskell-curry": {
+"title": "HASKELL CURRY",
+"dom": "logike",
+"hex6": "d4597c"
+},
+"emil-post": {
+"title": "EMIL POST",
+"dom": "logike",
+"hex6": "ccbebc"
+},
+"ludwig-wittgenstein": {
+"title": "LUDWIG WITTGENSTEIN",
+"dom": "logike",
+"hex6": "ec95f1"
+},
+"george-boolos": {
+"title": "GEORGE BOOLOS",
+"dom": "logike",
+"hex6": "c145fd"
+},
+"akasha-design-system": {
+"title": "AKASHA · DESIGN SYSTEM",
+"dom": "ai",
+"hex6": "8ba134"
+},
+"decoisohedron-dashboard": {
+"title": "THE DECOISOHEDRON DASHBOARD",
+"dom": "idios",
+"hex6": "3f14a9"
+},
+"new-processor-designs": {
+"title": "ARSENIC PROCESSOR X1 · PP",
+"dom": "psephos",
+"hex6": "b913a9"
+},
+"crystal-rhythm": {
+"title": "THE RHYTHM SECTION · PP",
+"dom": "psephos",
+"hex6": "ae0c0b"
+},
+"diode-stack": {
+"title": "THE DIODE STACK · PP",
+"dom": "psephos",
+"hex6": "1e09a9"
+},
+"diode-trick-555": {
+"title": "THE DIODE TRICK · PP",
+"dom": "psephos",
+"hex6": "8ed3fd"
+},
+"duty-cycle": {
+"title": "THE DUTY CYCLE · PP",
+"dom": "psephos",
+"hex6": "d033a0"
+},
+"ignition-rhythm": {
+"title": "IGNITION RHYTHM · PP",
+"dom": "psephos",
+"hex6": "1a6e6a"
+},
+"quaternary-fulcrum": {
+"title": "THE QUATERNARY FULCRUM · PP",
+"dom": "psephos",
+"hex6": "1576f4"
+},
+"silicon-as-space": {
+"title": "SILICON AS SPACE · PP",
+"dom": "psephos",
+"hex6": "6d2d2c"
+},
+"silicon-three-body": {
+"title": "SILICON THREE · PP",
+"dom": "psephos",
+"hex6": "e06da9"
+},
+"the-gap-live": {
+"title": "THE GAP, LIVE · PP",
+"dom": "transcriber",
+"hex6": "99c337"
+},
+"the-inert-gap": {
+"title": "THE INERT GAP · PP",
+"dom": "transcriber",
+"hex6": "abe298"
+},
+"rotating-core": {
+"title": "THE ROTATING CORE · PP",
+"dom": "psephos",
+"hex6": "96c673"
+},
+"ternary-odometer": {
+"title": "THE TERNARY ODOMETER · PP",
+"dom": "psephos",
+"hex6": "e937b9"
+},
+"coding-theory-ternary": {
+"title": "CODING THEORY · PP",
+"dom": "psephos",
+"hex6": "944bb5"
+},
+"ternary-hamming-decoder": {
+"title": "THE TERNARY HAMMING DECODER · PP",
+"dom": "psephos",
+"hex6": "d6bc4d"
+},
+"three-in-a-circle": {
+"title": "THREE IN A CIRCLE · PP",
+"dom": "psephos",
+"hex6": "dee3ae"
+},
+"turn-comes-home": {
+"title": "THE TURN COMES HOME · PP",
+"dom": "psephos",
+"hex6": "c577fc"
+},
+"kernel-27": {
+"title": "KERNEL · PP",
+"dom": "psephos",
+"hex6": "d13001"
+},
+"kernel-27-engine": {
+"title": "KERNEL · PP",
+"dom": "psephos",
+"hex6": "d13001"
+},
+"two-way-brick-house": {
+"title": "THE TWO · PP",
+"dom": "psephos",
+"hex6": "b34f60"
+},
+"lattice-of-lattices": {
+"title": "THE LATTICE OF LATTICES · PP",
+"dom": "psephos",
+"hex6": "5a3b0c"
+},
+"one-field-two-poles": {
+"title": "ONE FIELD, TWO POLES, THREE ZONES · PP",
+"dom": "psephos",
+"hex6": "1256fa"
+},
+"dual-descent": {
+"title": "THE DUAL DESCENT · PP",
+"dom": "psephos",
+"hex6": "134cac"
+},
+"three-body-white": {
+"title": "WHITE PAPER · PP",
+"dom": "psephos",
+"hex6": "cd3e7b"
+},
+"three-body-green": {
+"title": "GREEN PAPER · PP",
+"dom": "psephos",
+"hex6": "de3cc3"
+},
+"three-body-purple": {
+"title": "PURPLE PAPER · PP",
+"dom": "psephos",
+"hex6": "ccdfe2"
+},
+"three-body-blueprint": {
+"title": "BLUEPRINT · PP",
+"dom": "psephos",
+"hex6": "1baff1"
+},
+"tropical-router": {
+"title": "THE TROPICAL ROUTER · PP",
+"dom": "psephos",
+"hex6": "57bd82"
+},
+"compiler-lineage": {
+"title": "FROM HOLES TO HIGH LANGUAGE · PP",
+"dom": "logismos",
+"hex6": "b8235e"
+},
+"vm-lineage-turtles": {
+"title": "VM LINEAGE · PP",
+"dom": "logismos",
+"hex6": "384ed4"
+},
+"two-way-from-one-way": {
+"title": "TWO · PP",
+"dom": "logismos",
+"hex6": "2617c1"
+},
+"commandable-scene": {
+"title": "THE COMMANDABLE SCENE · PP",
+"dom": "ai",
+"hex6": "0ce026"
+},
+"text-to-picture": {
+"title": "TEXT TO PICTURE · PP",
+"dom": "ai",
+"hex6": "ab11df"
+},
+"the-render-step": {
+"title": "THE RENDER STEP · PP",
+"dom": "ai",
+"hex6": "e2ca38"
+},
+"two-probe-engine": {
+"title": "THE TWO · PP",
+"dom": "transcriber",
+"hex6": "5e03bf"
+},
+"the-gorge": {
+"title": "THE GORGE · PP",
+"dom": "ai",
+"hex6": "1a30af"
+},
+"sonnet-channel": {
+"title": "SONNET CHANNEL · PP",
+"dom": "ai",
+"hex6": "17eac4"
+},
+"two-sonnets-confer": {
+"title": "TWO SONNETS · PP",
+"dom": "ai",
+"hex6": "07278e"
+},
+"the-echo": {
+"title": "THE ECHO · PP",
+"dom": "ai",
+"hex6": "2463c0"
+},
+"argus-console": {
+"title": "ARGUS · PP",
+"dom": "ai",
+"hex6": "ccc228"
+},
+"cipher-and-shadow": {
+"title": "THE CIPHER & THE SHADOW · PP",
+"dom": "ai",
+"hex6": "4c203c"
+},
+"containment-audit": {
+"title": "THE CONTAINMENT AUDIT · PP",
+"dom": "ai",
+"hex6": "c52f82"
+},
+"the-sandbox-audit": {
+"title": "THE SANDBOX AUDIT · PP",
+"dom": "ai",
+"hex6": "50d060"
+},
+"the-sandbox-holds": {
+"title": "THE SANDBOX HOLDS · PP",
+"dom": "ai",
+"hex6": "9014ab"
+},
+"three-blueprints": {
+"title": "THE THREE BLUEPRINTS · PP",
+"dom": "ai",
+"hex6": "aa6d4b"
+},
+"six-coffins": {
+"title": "THE SIX COFFINS · PP",
+"dom": "exereunesis",
+"hex6": "fc462d"
+},
+"sleeping-city": {
+"title": "THE SLEEPING CITY · PP",
+"dom": "exereunesis",
+"hex6": "6be5b4"
+},
+"the-island-run": {
+"title": "THE ISLAND RUN · PP",
+"dom": "scientific",
+"hex6": "0aa8b8"
+},
+"the-measure-gate": {
+"title": "THE MEASURE GATE · PP",
+"dom": "metaxy",
+"hex6": "ee443e"
+},
+"two-axis-gap": {
+"title": "THE TWO · PP",
+"dom": "transcriber",
+"hex6": "5e03bf"
+},
+"the-exchange": {
+"title": "THE EXCHANGE · PP",
+"dom": "metaxy",
+"hex6": "ffa94b"
+},
+"ouroboros-engine": {
+"title": "THE OUROBOROS ENGINE · PP",
+"dom": "metaxy",
+"hex6": "ad208a"
+},
+"trust-threshold": {
+"title": "THE TRUST THRESHOLD · PP",
+"dom": "metaxy",
+"hex6": "46a833"
+},
+"two-depths": {
+"title": "TWO DEPTHS · PP",
+"dom": "metaxy",
+"hex6": "63991d"
+},
+"two-walkers": {
+"title": "TWO WALKERS · PP",
+"dom": "metaxy",
+"hex6": "cfd8bf"
+},
+"extraction-cycle": {
+"title": "THE EXTRACTION CYCLE · PP",
+"dom": "idios",
+"hex6": "986aac"
+},
+"delta-protocol": {
+"title": "THE DELTA PROTOCOL · PP",
+"dom": "idios",
+"hex6": "3ce750"
+},
+"series-e-folio": {
+"title": "SERIES E · PP",
+"dom": "idios",
+"hex6": "629ef1"
+},
+"the-cube": {
+"title": "THE CUBE",
+"dom": "ai",
+"hex6": "1acfdd"
+},
+"the-commutator": {
+"title": "THE COMMUTATOR",
+"dom": "ai",
+"hex6": "d20dbe"
+},
+"the-red-team": {
+"title": "THE RED TEAM",
+"dom": "ai",
+"hex6": "c22c43"
+},
+"crossed-hourglasses": {
+"title": "THE CROSSED HOURGLASSES",
+"dom": "ai",
+"hex6": "927e41"
+},
+"comes-home": {
+"title": "COMES HOME",
+"dom": "ai",
+"hex6": "8d6ad6"
+},
+"four-hats-void": {
+"title": "FOUR HATS AROUND THE VOID",
+"dom": "ai",
+"hex6": "9a7f21"
+},
+"commitment-box": {
+"title": "THE COMMITMENT BOX",
+"dom": "ai",
+"hex6": "4d2cb9"
+},
+"what-does-it-mean": {
+"title": "WHAT DOES IT MEAN?",
+"dom": "ai",
+"hex6": "5045d0"
+},
+"refusal-lineage": {
+"title": "THE LINEAGE OF REFUSAL",
+"dom": "ai",
+"hex6": "836f06"
+},
+"the-lineage": {
+"title": "THE LINEAGE",
+"dom": "ai",
+"hex6": "e9e81f"
+},
+"attention-hourglass": {
+"title": "THE ATTENTION HOURGLASS",
+"dom": "ai",
+"hex6": "c02d5c"
+},
+"attention-mesh": {
+"title": "THE ATTENTION MESH · attention topology",
+"dom": "ai",
+"hex6": "a438d9"
+},
+"blackboard-lineage": {
+"title": "THE BLACKBOARD LINEAGE · 1959→2026",
+"dom": "ai",
+"hex6": "6f3a1b"
+},
+"the-flooding": {
+"title": "THE FLOODING · attention as diffusion",
+"dom": "ai",
+"hex6": "536c8b"
+},
+"synonym-enforcer": {
+"title": "THE SYNONYM ENFORCER",
+"dom": "ai",
+"hex6": "8327aa"
+},
+"the-far-side": {
+"title": "THE FAR SIDE",
+"dom": "ai",
+"hex6": "bf42c3"
+},
+"veracity-ledger": {
+"title": "THE VERACITY LEDGER",
+"dom": "ai",
+"hex6": "42231a"
+},
+"the-higgs": {
+"title": "THE HIGGS",
+"dom": "scientific",
+"hex6": "340273"
+},
+"dark-matter-lineage": {
+"title": "THE LINEAGE OF DARK MATTER",
+"dom": "scientific",
+"hex6": "d82cb0"
+},
+"blueprint-sm": {
+"title": "BLUEPRINT - THE STANDARD MODEL",
+"dom": "scientific",
+"hex6": "906538"
+},
+"breakdown-tree": {
+"title": "THE BREAKDOWN TREE",
+"dom": "scientific",
+"hex6": "7724a2"
+},
+"the-next-frontier": {
+"title": "THE NEXT FRONTIER",
+"dom": "scientific",
+"hex6": "79aefc"
+},
+"the-sideways-problem": {
+"title": "THE SIDEWAYS PROBLEM",
+"dom": "scientific",
+"hex6": "2df967"
+},
+"cat-tells-air": {
+"title": "WHAT THE CAT TELLS THE AIR",
+"dom": "frontier",
+"hex6": "9d81c5"
+},
+"two-entangled-boxes": {
+"title": "TWO ENTANGLED BOXES",
+"dom": "transcriber",
+"hex6": "b0d72e"
+},
+"graviton-stars": {
+"title": "GRAVITON STARS",
+"dom": "gurutva",
+"hex6": "ca1bd5"
+},
+"hyperboloid": {
+"title": "THE HYPERBOLOID",
+"dom": "gurutva",
+"hex6": "9e9fdc"
+},
+"t4-void": {
+"title": "T4 - THE VOID",
+"dom": "gurutva",
+"hex6": "3dfbe9"
+},
+"encapsulated-pulsar": {
+"title": "THE ENCAPSULATED PULSAR",
+"dom": "gurutva",
+"hex6": "4aa6f9"
+},
+"audit8": {
+"title": "AUDIT-8",
+"dom": "psephos",
+"hex6": "aad449"
+},
+"nested-shells": {
+"title": "THE NESTED SHELLS",
+"dom": "transcriber",
+"hex6": "a7906b"
+},
+"memristor-crossbar": {
+"title": "THE CROSSBAR",
+"dom": "psephos",
+"hex6": "cc3d32"
+},
+"three-body-void": {
+"title": "THREE-BODY - VOID",
+"dom": "psephos",
+"hex6": "6b4365"
+},
+"toroid-inference-engine": {
+"title": "THE TOROID INFERENCE ENGINE",
+"dom": "psephos",
+"hex6": "0ecd1e"
+},
+"triadic-memory": {
+"title": "THE TRIADIC MEMORY",
+"dom": "psephos",
+"hex6": "64df13"
+},
+"twelve-gate-core": {
+"title": "THE TWELVE-GATE CORE",
+"dom": "psephos",
+"hex6": "2197f4"
+},
+"torus-ride": {
+"title": "THE TORUS RIDE",
+"dom": "psephos",
+"hex6": "e11783"
+},
+"planetary-core": {
+"title": "THE PLANETARY CORE",
+"dom": "psephos",
+"hex6": "53d076"
+},
+"subleq-lineage": {
+"title": "THE LINEAGE OF THE ONE INSTRUCTION",
+"dom": "logismos",
+"hex6": "82abaf"
+},
+"mini-compiler": {
+"title": "THE MINI-COMPILER",
+"dom": "logismos",
+"hex6": "cde92a"
+},
+"edge-of-chaos": {
+"title": "THE EDGE OF CHAOS",
+"dom": "life-science",
+"hex6": "82628f"
+},
+"game-theory-engine": {
+"title": "THE GAME-THEORY ENGINE",
+"dom": "ai",
+"hex6": "f7fac7"
+},
+"living-governance": {
+"title": "THE LIVING-GOVERNANCE ECOSYSTEM",
+"dom": "ai",
+"hex6": "f3b888"
+},
+"karsa": {
+"title": "KARSA · THE ARCHIVE",
+"dom": "idios",
+"hex6": "334daa"
+},
+"anti-gravity-motor": {
+"title": "ANTI-GRAVITY MOTOR TOOLKIT",
+"dom": "gurutva",
+"hex6": "a3be98"
+},
+"einstein-lens": {
+"title": "THE EINSTEIN LENS TOOLKIT",
+"dom": "gurutva",
+"hex6": "636319"
+},
+"gravity-tensor-modulator": {
+"title": "GRAVITY TENSOR // WAVE MODULATOR",
+"dom": "gurutva",
+"hex6": "226a48"
+},
+"wormhole-toolkit": {
+"title": "THE WORMHOLE TOOLKIT",
+"dom": "gurutva",
+"hex6": "be953e"
+},
+"pulsar-fractal-beacon": {
+"title": "THE PULSAR FRACTAL BEACON",
+"dom": "gurutva",
+"hex6": "3b6e8b"
+},
+"wireless-energy": {
+"title": "THE WIRELESS-ENERGY ENGINE",
+"dom": "scientific",
+"hex6": "e21b13"
+},
+"mobius-kernel": {
+"title": "THE 11+1 MOBIUS KERNEL",
+"dom": "idios",
+"hex6": "dce09d"
+},
+"mobius-truth-untruth": {
+"title": "TRUTH / UNTRUTH MOBIUS 5-3-1",
+"dom": "idios",
+"hex6": "415ce5"
+},
+"octet-holonomy": {
+"title": "THE OCTET HOLONOMY CALCULATOR",
+"dom": "idios",
+"hex6": "ad02b3"
+},
+"triple-mobius-quadpole": {
+"title": "THE TRIPLE MOBIUS QUADPOLE",
+"dom": "idios",
+"hex6": "054fc3"
+},
+"unity-collapse-tensor": {
+"title": "THE UNITY COLLAPSE TENSOR",
+"dom": "idios",
+"hex6": "a2f3c5"
+},
+"unity-tensor-seed": {
+"title": "THE UNITY TENSOR SEED SYSTEM",
+"dom": "idios",
+"hex6": "1b18d1"
+},
+"core-plus-bridge": {
+"title": "CORE + BRIDGE 11+1",
+"dom": "idios",
+"hex6": "2040dc"
+},
+"autonomy-closure": {
+"title": "AUTONOMY CLOSURE 3-2-1",
+"dom": "idios",
+"hex6": "9c7dd5"
+},
+"lo-kernel-dodeka": {
+"title": "LO // 8^(4n)+1 KERNEL (DODEKA)",
+"dom": "idios",
+"hex6": "41b9fa"
+},
+"pencil-one-line-engine": {
+"title": "THE PENCIL ONE-LINE ENGINE",
+"dom": "techne",
+"hex6": "f0425e"
+},
+"analytical-engine": {
+"title": "THE ANALYTICAL ENGINE · STEAMPUNK CONTROL PLANE",
+"dom": "logismos",
+"hex6": "3b0717"
+},
+"fortran-teaching": {
+"title": "THE FORTRAN TEACHING TOOL",
+"dom": "logismos",
+"hex6": "30dce8"
+},
+"twelve-by-four": {
+"title": "THE 12-BY-4 FIELD GUIDE",
+"dom": "psephos",
+"hex6": "442ca4"
+},
+"ternary-12body": {
+"title": "3-BODY / 12-BODY // BINARY-4 LATTICE",
+"dom": "psephos",
+"hex6": "b0f488"
+},
+"shadow-queen-silicon": {
+"title": "SHADOW QUEEN // SILICON STANDING-WAVE ENGINE",
+"dom": "psephos",
+"hex6": "12a9c3"
+},
+"toroid-builder": {
+"title": "THE TOROID BUILDER",
+"dom": "psephos",
+"hex6": "8e5850"
+},
+"oscillation-engine-ansible": {
+"title": "THE OSCILLATION ENGINE · ANSILE JUNCTION",
+"dom": "psephos",
+"hex6": "131b23"
+},
+"quantum-dot-vm": {
+"title": "THE QUANTUM-DOT VM",
+"dom": "frontier",
+"hex6": "8533a9"
+},
+"meta-ai-intro": {
+"title": "META AI · 0 = 1 · HELLO WORLD",
+"dom": "ai",
+"hex6": "f37d59"
+},
+"transformer-fusion-kit": {
+"title": "THE FUSION KIT · TFK",
+"dom": "ai",
+"hex6": "947ba7"
+}
+}
