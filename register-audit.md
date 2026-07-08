@@ -1,11 +1,11 @@
 # REN · THE REGISTER AUDIT
 
-_last run: 2026-07-07 20:46 · the-ren is in charge of the register in the daily cascade_
+_last run: 2026-07-08 09:28 · the-ren is in charge of the register in the daily cascade_
 
 | metric | value |
 |---|---|
-| named in the register | **1159** spheres |
-| new since last audit | 6 |
+| named in the register | **1161** spheres |
+| new since last audit | 2 |
 | dropped since last audit | 0 |
 | name-drift (hex changed) | 0 |
 | hex6 collisions | 15 spheres / 6 buckets |
@@ -13,7 +13,7 @@ _last run: 2026-07-07 20:46 · the-ren is in charge of the register in the daily
 | self-check (sealing-bench = 067349) | ✓ OK |
 | verdict | **REGISTER SOUND** |
 
-**New names:** `blackboard-lineage`, `the-ba`, `the-flooding`, `the-ka`, `the-ren`, `the-shut`
+**New names:** `the-chain`, `the-vessel`
 
 **Collision buckets** (a six-hex truncation is a fingerprint, not a key):
 

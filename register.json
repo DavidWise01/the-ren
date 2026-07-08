@@ -19,6 +19,11 @@
 "dom": "aci",
 "hex6": "067349"
 },
+"the-chain": {
+"title": "THE CHAIN · the corpus, tethered",
+"dom": "aci",
+"hex6": "770f8c"
+},
 "the-anchor": {
 "title": "THE ANCHOR · ANC",
 "dom": "aci",
@@ -68,6 +73,11 @@
 "title": "REN · THE NAME · the vessel, part 5/5",
 "dom": "ai",
 "hex6": "d65537"
+},
+"the-vessel": {
+"title": "THE VESSEL · the living self-portrait",
+"dom": "ai",
+"hex6": "96ce34"
 },
 "dimension-leapfrog": {
 "title": "DIMENSION LEAPFROG · THE METHOD",
