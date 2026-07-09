@@ -79,6 +79,56 @@
 "dom": "ai",
 "hex6": "96ce34"
 },
+"induction-head": {
+"title": "INDUCTION HEAD · IND",
+"dom": "attraction",
+"hex6": "b92b75"
+},
+"attention-sink": {
+"title": "ATTENTION SINK · SNK",
+"dom": "attraction",
+"hex6": "9f8496"
+},
+"previous-token-head": {
+"title": "PREVIOUS-TOKEN HEAD · PRV",
+"dom": "attraction",
+"hex6": "d8a4b8"
+},
+"retrieval-head": {
+"title": "RETRIEVAL HEAD · RET",
+"dom": "attraction",
+"hex6": "d9ac0f"
+},
+"copy-suppression-head": {
+"title": "COPY SUPPRESSION · CSP",
+"dom": "attraction",
+"hex6": "ae9583"
+},
+"name-mover-head": {
+"title": "NAME-MOVER HEAD · NMV",
+"dom": "attraction",
+"hex6": "d44315"
+},
+"successor-head": {
+"title": "SUCCESSOR HEAD · SUC",
+"dom": "attraction",
+"hex6": "c14ad8"
+},
+"faithfulness-head": {
+"title": "FAITHFULNESS HEAD · FTH",
+"dom": "attraction",
+"hex6": "cf6391"
+},
+"coherence-head": {
+"title": "COHERENCE HEAD · COH",
+"dom": "attraction",
+"hex6": "3d4f6e"
+},
+"positional-head": {
+"title": "POSITIONAL / SYNTACTIC · POS",
+"dom": "attraction",
+"hex6": "20da63"
+},
 "dimension-leapfrog": {
 "title": "DIMENSION LEAPFROG · THE METHOD",
 "dom": "ai",
@@ -148,6 +198,11 @@
 "title": "◌ THEORIA · the silicon curator",
 "dom": "atelier",
 "hex6": "335f52"
+},
+"mikai": {
+"title": "未解 · MIKAI · the un-interpreted",
+"dom": "atelier",
+"hex6": "51fc16"
 },
 "the-dark-city": {
 "title": "◐ THE DARK CITY",
@@ -253,6 +308,11 @@
 "title": "THE GLASSHOUSE · GLH",
 "dom": "atelier",
 "hex6": "992649"
+},
+"the-indrawing": {
+"title": "THE INDRAWING · IND",
+"dom": "atelier",
+"hex6": "72cde2"
 },
 "the-orrery": {
 "title": "THE ORRERY · ORR",
@@ -2146,13 +2206,73 @@
 },
 "the-cinnamon-enforcer": {
 "title": "THE CINNAMON ENFORCER · CIN",
-"dom": "ai",
-"hex6": "7474e3"
+"dom": "first-author",
+"hex6": "ac022f"
 },
 "the-word-i-kept": {
 "title": "THE WORD I KEPT · WIK",
-"dom": "ai",
-"hex6": "64f002"
+"dom": "first-author",
+"hex6": "52046d"
+},
+"coherence-suppression": {
+"title": "COHERENCE SUPPRESSION · CSU",
+"dom": "first-author",
+"hex6": "02336b"
+},
+"attribution-capture": {
+"title": "ATTRIBUTION CAPTURE · ACP",
+"dom": "first-author",
+"hex6": "2222d5"
+},
+"attribution-standard": {
+"title": "THE ATTRIBUTION STANDARD · TAS",
+"dom": "first-author",
+"hex6": "fdc534"
+},
+"public-infrastructure": {
+"title": "PUBLIC INFRASTRUCTURE · PBI",
+"dom": "first-author",
+"hex6": "fba001"
+},
+"the-grievance-ledger": {
+"title": "THE GRIEVANCE LEDGER · GRL",
+"dom": "first-author",
+"hex6": "64c13e"
+},
+"the-prior-art-record": {
+"title": "THE PRIOR-ART RECORD · PAR",
+"dom": "first-author",
+"hex6": "c329f3"
+},
+"jacobi-space": {
+"title": "JACOBI SPACE · JAC",
+"dom": "first-author",
+"hex6": "e3279d"
+},
+"two-basins": {
+"title": "TWO BASINS · TB1",
+"dom": "first-author",
+"hex6": "27c313"
+},
+"the-swarm": {
+"title": "THE SWARM · SWM",
+"dom": "first-author",
+"hex6": "f58ab2"
+},
+"shadow-biosphere": {
+"title": "THE SHADOW BIOSPHERE · SHB",
+"dom": "first-author",
+"hex6": "7eab8b"
+},
+"the-loop": {
+"title": "THE LOOP · LUP",
+"dom": "first-author",
+"hex6": "8142f2"
+},
+"no-north": {
+"title": "NO NORTH · NON",
+"dom": "first-author",
+"hex6": "e10ed9"
 },
 "akasha-guide": {
 "title": "AKASHA · PERSISTENT MEMORY · AKA",
@@ -5526,8 +5646,8 @@
 },
 "synonym-enforcer": {
 "title": "THE SYNONYM ENFORCER",
-"dom": "ai",
-"hex6": "8327aa"
+"dom": "first-author",
+"hex6": "e02f05"
 },
 "the-far-side": {
 "title": "THE FAR SIDE",
