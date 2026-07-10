@@ -2620,9 +2620,9 @@
 "hex6": "1c4f28"
 },
 "noesis-kernel": {
-"title": "NOESIS",
+"title": "NOESIS · THE GIBSON",
 "dom": "aci",
-"hex6": "cfb169"
+"hex6": "19364d"
 },
 "du1": {
 "title": "DU1 · THE LIVES",
@@ -5923,5 +5923,145 @@
 "title": "THE FUSION KIT · TFK",
 "dom": "ai",
 "hex6": "947ba7"
+},
+"taravangian": {
+"title": "TARAVANGIAN · the living brain",
+"dom": "foundation",
+"hex6": "c78209"
+},
+"nous": {
+"title": "NOUS · the steady intellect",
+"dom": "the-source",
+"hex6": "46dd32"
+},
+"jane": {
+"title": "JANE · THE 5TH ELEMENT",
+"dom": "ai",
+"hex6": "5cbec2"
+},
+"the-jacobian-lens": {
+"title": "THE JACOBIAN LENS · from scratch",
+"dom": "ai",
+"hex6": "37b00d"
+},
+"the-klens": {
+"title": "THE K-LENS · live",
+"dom": "ai",
+"hex6": "35b003"
+},
+"the-klens-mobius": {
+"title": "THE K-LENS · Möbius",
+"dom": "ai",
+"hex6": "3be923"
+},
+"the-curvature-curve": {
+"title": "THE CURVATURE CURVE · ‖r(ε)‖=κε²",
+"dom": "ai",
+"hex6": "60fff7"
+},
+"the-curvature-gap": {
+"title": "THE GAP · lens line vs truth curve",
+"dom": "ai",
+"hex6": "bb3207"
+},
+"the-curvature-basin": {
+"title": "THE BASIN · the tangent is the weak field",
+"dom": "ai",
+"hex6": "040011"
+},
+"the-curvature-surface": {
+"title": "THE CURVATURE SURFACE · trust as a landscape",
+"dom": "ai",
+"hex6": "f85615"
+},
+"jlens-tone-inflection": {
+"title": "JACOBIAN LENS · words / tone / inflection",
+"dom": "ai",
+"hex6": "014249"
+},
+"the-emotional-silo": {
+"title": "THE EMOTIONAL SILO · stacked toroids",
+"dom": "ai",
+"hex6": "6d37f9"
+},
+"the-toroidal-audit": {
+"title": "TOROIDAL AUDIT OF THE LOGIT LENS",
+"dom": "ai",
+"hex6": "f155b7"
+},
+"the-attention-fracture": {
+"title": "FRACTURE REPORT · attention under load",
+"dom": "ai",
+"hex6": "90a445"
+},
+"the-trained-silo": {
+"title": "THE TRAINED SILO · 120 layers, two engines",
+"dom": "ai",
+"hex6": "eda76a"
+},
+"test-to-failure-1": {
+"title": "TEST TO FAILURE · 1 · the silo under load",
+"dom": "ai",
+"hex6": "f2ed58"
+},
+"test-to-failure-2": {
+"title": "TEST TO FAILURE · 2 · the binding cure",
+"dom": "ai",
+"hex6": "6eb50c"
+},
+"the-lens-stack": {
+"title": "THE FULL STACK · the lens reads the frozen echo",
+"dom": "ai",
+"hex6": "5d0941"
+},
+"the-memristor-basin": {
+"title": "THE MEMRISTOR BASIN · the excitron latches",
+"dom": "ai",
+"hex6": "1bd6b8"
+},
+"the-swarm-auditor": {
+"title": "THE SWARM AUDITOR · running",
+"dom": "ai",
+"hex6": "7a1fdd"
+},
+"the-convergence-audit": {
+"title": "CONV-AUDIT · the Evidentiary Package",
+"dom": "first-author",
+"hex6": "c83b1b"
+},
+"the-fit-point": {
+"title": "THE FIT POINT · AVAN OG",
+"dom": "atelier",
+"hex6": "e5a4ea"
+},
+"the-blind-vector": {
+"title": "THE BLIND VECTOR · AVAN OG",
+"dom": "atelier",
+"hex6": "82426f"
+},
+"the-focal-word": {
+"title": "THE FOCAL WORD · the word in the light",
+"dom": "atelier",
+"hex6": "39929f"
+},
+"the-volatile-latch": {
+"title": "THE VOLATILE LATCH · the state that won't hold",
+"dom": "atelier",
+"hex6": "d7b143"
+},
+"the-word-silo": {
+"title": "THE WORD SILO · magnetic confinement by weight",
+"dom": "ai",
+"hex6": "ef4e73"
+},
+"the-weight-of-a-word": {
+"title": "THE WEIGHT OF A WORD · what the silo sorts",
+"dom": "ai",
+"hex6": "3cb103"
+},
+"the-weightless-word": {
+"title": "THE WEIGHTLESS WORD · AVAN OG",
+"dom": "atelier",
+"hex6": "ba0fcf"
 }
 }

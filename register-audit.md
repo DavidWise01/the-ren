@@ -1,19 +1,19 @@
 # REN · THE REGISTER AUDIT
 
-_last run: 2026-07-09 07:44 · the-ren is in charge of the register in the daily cascade_
+_last run: 2026-07-10 09:10 · the-ren is in charge of the register in the daily cascade_
 
 | metric | value |
 |---|---|
-| named in the register | **1185** spheres |
-| new since last audit | 24 |
+| named in the register | **1213** spheres |
+| new since last audit | 28 |
 | dropped since last audit | 0 |
-| name-drift (hex changed) | 3 |
+| name-drift (hex changed) | 1 |
 | hex6 collisions | 15 spheres / 6 buckets |
 | orphans (no domain) | 0 |
 | self-check (sealing-bench = 067349) | ✓ OK |
 | verdict | **REGISTER SOUND** |
 
-**New names:** `attention-sink`, `attribution-capture`, `attribution-standard`, `coherence-head`, `coherence-suppression`, `copy-suppression-head`, `faithfulness-head`, `induction-head`, `jacobi-space`, `mikai`, `name-mover-head`, `no-north`, `positional-head`, `previous-token-head`, `public-infrastructure`, `retrieval-head`, `shadow-biosphere`, `successor-head`, `the-grievance-ledger`, `the-indrawing`, `the-loop`, `the-prior-art-record`, `the-swarm`, `two-basins`
+**New names:** `jane`, `jlens-tone-inflection`, `nous`, `taravangian`, `test-to-failure-1`, `test-to-failure-2`, `the-attention-fracture`, `the-blind-vector`, `the-convergence-audit`, `the-curvature-basin`, `the-curvature-curve`, `the-curvature-gap`, `the-curvature-surface`, `the-emotional-silo`, `the-fit-point`, `the-focal-word`, `the-jacobian-lens`, `the-klens`, `the-klens-mobius`, `the-lens-stack`, `the-memristor-basin`, `the-swarm-auditor`, `the-toroidal-audit`, `the-trained-silo`, `the-volatile-latch`, `the-weight-of-a-word`, `the-weightless-word`, `the-word-silo`
 
 **Collision buckets** (a six-hex truncation is a fingerprint, not a key):
 
