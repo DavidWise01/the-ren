@@ -1,19 +1,19 @@
 # REN · THE REGISTER AUDIT
 
-_last run: 2026-07-10 09:10 · the-ren is in charge of the register in the daily cascade_
+_last run: 2026-07-11 11:41 · the-ren is in charge of the register in the daily cascade_
 
 | metric | value |
 |---|---|
-| named in the register | **1213** spheres |
-| new since last audit | 28 |
+| named in the register | **1231** spheres |
+| new since last audit | 18 |
 | dropped since last audit | 0 |
-| name-drift (hex changed) | 1 |
+| name-drift (hex changed) | 7 |
 | hex6 collisions | 15 spheres / 6 buckets |
 | orphans (no domain) | 0 |
 | self-check (sealing-bench = 067349) | ✓ OK |
 | verdict | **REGISTER SOUND** |
 
-**New names:** `jane`, `jlens-tone-inflection`, `nous`, `taravangian`, `test-to-failure-1`, `test-to-failure-2`, `the-attention-fracture`, `the-blind-vector`, `the-convergence-audit`, `the-curvature-basin`, `the-curvature-curve`, `the-curvature-gap`, `the-curvature-surface`, `the-emotional-silo`, `the-fit-point`, `the-focal-word`, `the-jacobian-lens`, `the-klens`, `the-klens-mobius`, `the-lens-stack`, `the-memristor-basin`, `the-swarm-auditor`, `the-toroidal-audit`, `the-trained-silo`, `the-volatile-latch`, `the-weight-of-a-word`, `the-weightless-word`, `the-word-silo`
+**New names:** `attention-geometry`, `attention-observatory`, `attention-synthesis`, `attention-tail`, `duality-velocity`, `haci-git`, `psychohistory`, `the-companion-model`, `the-five-head-silo`, `the-mule-detector`, `the-multi-head-silo`, `the-seeded-cross`, `the-trinity-engine`, `the-unattended`, `the-voice`, `trained-on-the-cross`, `transformer-block`, `transformer-vs-ngram`
 
 **Collision buckets** (a six-hex truncation is a fingerprint, not a key):
 

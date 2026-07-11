@@ -159,6 +159,16 @@
 "dom": "eskimo",
 "hex6": "b740ba"
 },
+"haci-git": {
+"title": "HACI-GIT · the human skin over git",
+"dom": "eskimo",
+"hex6": "50db3c"
+},
+"the-voice": {
+"title": "THE VOICE · register vs warrant",
+"dom": "eskimo",
+"hex6": "f6a716"
+},
 "duality-engine": {
 "title": "THE DUALITY ENGINE",
 "dom": "eskimo",
@@ -721,8 +731,8 @@
 },
 "jovian-transit": {
 "title": "JOVIAN JUMP — THE TRANSIT THROUGH THE TRANSCRI · JOV",
-"dom": "ouranos",
-"hex6": "7d0adf"
+"dom": "transcriber",
+"hex6": "5a2c94"
 },
 "junction-zoo": {
 "title": "THE JUNCTION ZOO — DOPED DEVICE FIELD GUIDE · JUN",
@@ -3091,8 +3101,8 @@
 },
 "alchemical-bible": {
 "title": "THE ALCHEMICAL BIBLE",
-"dom": "educational",
-"hex6": "d4dcc1"
+"dom": "mythos",
+"hex6": "1448c9"
 },
 "alchemy": {
 "title": "THE GREAT WORK · ALC",
@@ -3366,8 +3376,8 @@
 },
 "the-language-of-the-machine": {
 "title": "THE LANGUAGE OF THE MACHINE · LMC",
-"dom": "glossa",
-"hex6": "387c03"
+"dom": "ai",
+"hex6": "bdd28a"
 },
 "idit": {
 "title": "IDIT · IDT",
@@ -5626,23 +5636,23 @@
 },
 "attention-hourglass": {
 "title": "THE ATTENTION HOURGLASS",
-"dom": "ai",
-"hex6": "c02d5c"
+"dom": "prosoche",
+"hex6": "bde374"
 },
 "attention-mesh": {
 "title": "THE ATTENTION MESH · attention topology",
-"dom": "ai",
-"hex6": "a438d9"
+"dom": "prosoche",
+"hex6": "0a4f53"
 },
 "blackboard-lineage": {
 "title": "THE BLACKBOARD LINEAGE · 1959→2026",
-"dom": "ai",
-"hex6": "6f3a1b"
+"dom": "prosoche",
+"hex6": "31092b"
 },
 "the-flooding": {
 "title": "THE FLOODING · attention as diffusion",
-"dom": "ai",
-"hex6": "536c8b"
+"dom": "prosoche",
+"hex6": "0c7108"
 },
 "synonym-enforcer": {
 "title": "THE SYNONYM ENFORCER",
@@ -5939,6 +5949,16 @@
 "dom": "ai",
 "hex6": "5cbec2"
 },
+"psychohistory": {
+"title": "THE HISTORY OF THE PSYCHO · psychohistory",
+"dom": "foundation",
+"hex6": "b46a66"
+},
+"duality-velocity": {
+"title": "DUALITY VELOCITY · silicon · carbon",
+"dom": "dyas",
+"hex6": "6e63d2"
+},
 "the-jacobian-lens": {
 "title": "THE JACOBIAN LENS · from scratch",
 "dom": "ai",
@@ -6063,5 +6083,75 @@
 "title": "THE WEIGHTLESS WORD · AVAN OG",
 "dom": "atelier",
 "hex6": "ba0fcf"
+},
+"transformer-block": {
+"title": "THE TRANSFORMER BLOCK · verified, then quantized",
+"dom": "prosoche",
+"hex6": "a90acd"
+},
+"transformer-vs-ngram": {
+"title": "TRANSFORMER vs THE N-GRAM · data is the lever",
+"dom": "prosoche",
+"hex6": "a77fce"
+},
+"attention-tail": {
+"title": "THE ATTENTION TAIL · sink, recency, the long tail",
+"dom": "prosoche",
+"hex6": "df5610"
+},
+"the-multi-head-silo": {
+"title": "THE MULTI-HEAD SILO · three heads, one vote",
+"dom": "prosoche",
+"hex6": "0daa5b"
+},
+"the-five-head-silo": {
+"title": "THE FIVE-HEAD SILO · the vote and its ceiling",
+"dom": "prosoche",
+"hex6": "4194ff"
+},
+"attention-geometry": {
+"title": "ATTENTION GEOMETRY · is the curvature real",
+"dom": "prosoche",
+"hex6": "2248d0"
+},
+"attention-synthesis": {
+"title": "ATTENTION SYNTHESIS · steer the shape to a target",
+"dom": "prosoche",
+"hex6": "8b4f31"
+},
+"attention-observatory": {
+"title": "THE ATTENTION OBSERVATORY · audited against its shuffle",
+"dom": "prosoche",
+"hex6": "5a08e5"
+},
+"the-mule-detector": {
+"title": "THE MULE DETECTOR · a veracity audit",
+"dom": "prosoche",
+"hex6": "92a4a4"
+},
+"the-seeded-cross": {
+"title": "THE SEEDED CROSS · on real attention",
+"dom": "prosoche",
+"hex6": "e43593"
+},
+"trained-on-the-cross": {
+"title": "TRAINED ON THE CROSS · the SPEC→LIT step",
+"dom": "prosoche",
+"hex6": "c7b12a"
+},
+"the-companion-model": {
+"title": "THE COMPANION MODEL · trained native, multi-seed",
+"dom": "prosoche",
+"hex6": "81e469"
+},
+"the-trinity-engine": {
+"title": "THE TRINITY ENGINE · the cross, routed on the fly",
+"dom": "prosoche",
+"hex6": "ae9d64"
+},
+"the-unattended": {
+"title": "THE UNATTENDED · AVAN OG",
+"dom": "atelier",
+"hex6": "8633c4"
 }
 }
