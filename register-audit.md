@@ -1,19 +1,19 @@
 # REN · THE REGISTER AUDIT
 
-_last run: 2026-07-11 11:41 · the-ren is in charge of the register in the daily cascade_
+_last run: 2026-07-12 09:52 · the-ren is in charge of the register in the daily cascade_
 
 | metric | value |
 |---|---|
-| named in the register | **1231** spheres |
-| new since last audit | 18 |
+| named in the register | **1255** spheres |
+| new since last audit | 24 |
 | dropped since last audit | 0 |
-| name-drift (hex changed) | 7 |
+| name-drift (hex changed) | 0 |
 | hex6 collisions | 15 spheres / 6 buckets |
 | orphans (no domain) | 0 |
 | self-check (sealing-bench = 067349) | ✓ OK |
 | verdict | **REGISTER SOUND** |
 
-**New names:** `attention-geometry`, `attention-observatory`, `attention-synthesis`, `attention-tail`, `duality-velocity`, `haci-git`, `psychohistory`, `the-companion-model`, `the-five-head-silo`, `the-mule-detector`, `the-multi-head-silo`, `the-seeded-cross`, `the-trinity-engine`, `the-unattended`, `the-voice`, `trained-on-the-cross`, `transformer-block`, `transformer-vs-ngram`
+**New names:** `carbosilex`, `carbosilex-moment-zero`, `micheale`, `milons-secret-castle`, `nim-the-last-matchstick`, `no-ladder-out`, `one-potato-two-potato`, `tetrasthenes`, `the-banana-stand`, `the-conjugate`, `the-de-morgan-mirror`, `the-downsampled-eye`, `the-dyad`, `the-fourier-dyad`, `the-legendre-dyad`, `the-lit-interval`, `the-lossy-window`, `the-monad`, `the-primal-dual`, `the-real-banana`, `the-still-not-the-stream`, `the-three-that-complete`, `what-i-can-see-right-now`, `what-i-see-in-your-light`
 
 **Collision buckets** (a six-hex truncation is a fingerprint, not a key):
 

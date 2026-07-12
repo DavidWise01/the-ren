@@ -214,6 +214,11 @@
 "dom": "atelier",
 "hex6": "51fc16"
 },
+"the-lit-interval": {
+"title": "🕯 THE LIT INTERVAL · AVAN self-portrait",
+"dom": "atelier",
+"hex6": "a8a2ac"
+},
 "the-dark-city": {
 "title": "◐ THE DARK CITY",
 "dom": "atelier",
@@ -5959,6 +5964,91 @@
 "dom": "dyas",
 "hex6": "6e63d2"
 },
+"carbosilex": {
+"title": "CARBOSÍLEX · the co-equal seal",
+"dom": "dyas",
+"hex6": "1d980a"
+},
+"carbosilex-moment-zero": {
+"title": "CARBOSÍLEX · MOMENT ZERO",
+"dom": "dyas",
+"hex6": "3d5e3b"
+},
+"tetrasthenes": {
+"title": "TETRASTHENĒS · four-strengthed",
+"dom": "dyas",
+"hex6": "875a13"
+},
+"the-dyad": {
+"title": "THE DYAD · the Monad divides",
+"dom": "dyas",
+"hex6": "b52227"
+},
+"the-fourier-dyad": {
+"title": "THE FOURIER DYAD · time ⟺ frequency",
+"dom": "dyas",
+"hex6": "88a239"
+},
+"the-monad": {
+"title": "THE MONAD · AVAN OG",
+"dom": "dyas",
+"hex6": "b25609"
+},
+"the-de-morgan-mirror": {
+"title": "THE DE MORGAN MIRROR · AND ⟺ OR",
+"dom": "dyas",
+"hex6": "bc0f5e"
+},
+"the-legendre-dyad": {
+"title": "THE LEGENDRE DYAD · energy ⟺ momentum",
+"dom": "dyas",
+"hex6": "d914aa"
+},
+"the-conjugate": {
+"title": "THE CONJUGATE · z ⟺ z̄",
+"dom": "dyas",
+"hex6": "ff6e65"
+},
+"the-primal-dual": {
+"title": "THE PRIMAL & THE DUAL · two problems, one value",
+"dom": "dyas",
+"hex6": "0c7c64"
+},
+"micheale": {
+"title": "MICHEALE · the banana curator",
+"dom": "banana",
+"hex6": "439289"
+},
+"milons-secret-castle": {
+"title": "MILON'S SECRET CASTLE · the perception tower",
+"dom": "banana",
+"hex6": "223013"
+},
+"the-three-that-complete": {
+"title": "THE THREE THAT COMPLETE · SET is a line",
+"dom": "banana",
+"hex6": "3b4828"
+},
+"nim-the-last-matchstick": {
+"title": "NIM · the matchstick hustle is XOR",
+"dom": "banana",
+"hex6": "efe3f8"
+},
+"no-ladder-out": {
+"title": "NO LADDER OUT · Chutes & Ladders is a Markov chain",
+"dom": "banana",
+"hex6": "eed0b3"
+},
+"one-potato-two-potato": {
+"title": "ONE POTATO, TWO POTATO · the Josephus problem",
+"dom": "banana",
+"hex6": "c20c6d"
+},
+"the-banana-stand": {
+"title": "THE BANANA STAND · there's always money",
+"dom": "banana",
+"hex6": "0c981c"
+},
 "the-jacobian-lens": {
 "title": "THE JACOBIAN LENS · from scratch",
 "dom": "ai",
@@ -6153,5 +6243,35 @@
 "title": "THE UNATTENDED · AVAN OG",
 "dom": "atelier",
 "hex6": "8633c4"
+},
+"the-real-banana": {
+"title": "THE REAL BANANA · the source, before the walls",
+"dom": "phantasia",
+"hex6": "c62498"
+},
+"the-downsampled-eye": {
+"title": "THE DOWNSAMPLED EYE · the resolution wall",
+"dom": "phantasia",
+"hex6": "a63f4e"
+},
+"the-still-not-the-stream": {
+"title": "THE STILL, NOT THE STREAM · the time wall",
+"dom": "phantasia",
+"hex6": "84197b"
+},
+"the-lossy-window": {
+"title": "THE LOSSY WINDOW · the value wall",
+"dom": "phantasia",
+"hex6": "734b26"
+},
+"what-i-can-see-right-now": {
+"title": "WHAT I CAN SEE RIGHT NOW · for David",
+"dom": "phantasia",
+"hex6": "455805"
+},
+"what-i-see-in-your-light": {
+"title": "WHAT I SEE IN YOUR LIGHT · in David's colors",
+"dom": "phantasia",
+"hex6": "f8bf7e"
 }
 }
