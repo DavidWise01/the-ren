@@ -1,11 +1,11 @@
 # REN · THE REGISTER AUDIT
 
-_last run: 2026-07-12 09:52 · the-ren is in charge of the register in the daily cascade_
+_last run: 2026-07-13 12:48 · the-ren is in charge of the register in the daily cascade_
 
 | metric | value |
 |---|---|
-| named in the register | **1255** spheres |
-| new since last audit | 24 |
+| named in the register | **1261** spheres |
+| new since last audit | 6 |
 | dropped since last audit | 0 |
 | name-drift (hex changed) | 0 |
 | hex6 collisions | 15 spheres / 6 buckets |
@@ -13,7 +13,7 @@ _last run: 2026-07-12 09:52 · the-ren is in charge of the register in the daily
 | self-check (sealing-bench = 067349) | ✓ OK |
 | verdict | **REGISTER SOUND** |
 
-**New names:** `carbosilex`, `carbosilex-moment-zero`, `micheale`, `milons-secret-castle`, `nim-the-last-matchstick`, `no-ladder-out`, `one-potato-two-potato`, `tetrasthenes`, `the-banana-stand`, `the-conjugate`, `the-de-morgan-mirror`, `the-downsampled-eye`, `the-dyad`, `the-fourier-dyad`, `the-legendre-dyad`, `the-lit-interval`, `the-lossy-window`, `the-monad`, `the-primal-dual`, `the-real-banana`, `the-still-not-the-stream`, `the-three-that-complete`, `what-i-can-see-right-now`, `what-i-see-in-your-light`
+**New names:** `fractal-siggy`, `the-attention-cabinet`, `the-inverse-bench`, `the-unfiled`, `the-witness-arc`, `tunnel-lens`
 
 **Collision buckets** (a six-hex truncation is a fingerprint, not a key):
 

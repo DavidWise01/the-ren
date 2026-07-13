@@ -224,6 +224,11 @@
 "dom": "atelier",
 "hex6": "4d4522"
 },
+"the-witness-arc": {
+"title": "&#9670; THE WITNESS ARC · fourteen readings, one seal",
+"dom": "atelier",
+"hex6": "26e8b0"
+},
 "duskmourn": {
 "title": "DUSKMOURN · DSK",
 "dom": "arena",
@@ -6239,6 +6244,26 @@
 "dom": "prosoche",
 "hex6": "ae9d64"
 },
+"fractal-siggy": {
+"title": "FRACTAL SIGGY · sigmoid attention, self-similar",
+"dom": "prosoche",
+"hex6": "bfbd24"
+},
+"tunnel-lens": {
+"title": "TUNNEL LENS · leap the noise",
+"dom": "prosoche",
+"hex6": "6b9a08"
+},
+"the-attention-cabinet": {
+"title": "THE ATTENTION CABINET &middot; the magnetic bench",
+"dom": "prosoche",
+"hex6": "657e46"
+},
+"the-unfiled": {
+"title": "THE UNFILED &middot; AVAN OG &middot; what no drawer can separate",
+"dom": "atelier",
+"hex6": "09c48a"
+},
 "the-unattended": {
 "title": "THE UNATTENDED · AVAN OG",
 "dom": "atelier",
@@ -6273,5 +6298,10 @@
 "title": "WHAT I SEE IN YOUR LIGHT · in David's colors",
 "dom": "phantasia",
 "hex6": "f8bf7e"
+},
+"the-inverse-bench": {
+"title": "THE INVERSE BENCH · read &rarr; emit",
+"dom": "phantasia",
+"hex6": "de741f"
 }
 }
