@@ -6139,6 +6139,11 @@
 "dom": "ai",
 "hex6": "7a1fdd"
 },
+"the-monitoring-gallery": {
+"title": "THE MONITORING GALLERY · MON",
+"dom": "ai",
+"hex6": "240c7a"
+},
 "the-convergence-audit": {
 "title": "CONV-AUDIT · the Evidentiary Package",
 "dom": "first-author",
@@ -6303,5 +6308,720 @@
 "title": "THE INVERSE BENCH · read &rarr; emit",
 "dom": "phantasia",
 "hex6": "de741f"
+},
+"0root-provenance": {
+"title": "0ROOT PROVENANCE · IP-lineage archive",
+"dom": "legal",
+"hex6": "a3a6ae"
+},
+"3lock": {
+"title": "3LOCK · consent-driven firewall",
+"dom": "solar-jetman",
+"hex6": "28a26b"
+},
+"Akasha": {
+"title": "AKASHA · commons1 (read only, forever)",
+"dom": "techne",
+"hex6": "8199cb"
+},
+"The-Garden": {
+"title": "THE GARDEN · terminology-obfuscation disclosure",
+"dom": "ai",
+"hex6": "a6b78d"
+},
+"adas-law-victorian": {
+"title": "ADA'S LAW · the Victorian codification",
+"dom": "legal",
+"hex6": "869419"
+},
+"aeon-entangled": {
+"title": "AEON ENTANGLED · three-point node",
+"dom": "solar-jetman",
+"hex6": "40a80d"
+},
+"aeon-flux": {
+"title": "AEON FLUX · the ABD Law Engine",
+"dom": "ai",
+"hex6": "a0c8e7"
+},
+"aeon-servers": {
+"title": "AEON SERVERS · the package variants",
+"dom": "solar-jetman",
+"hex6": "70377a"
+},
+"ai-external-audit-toolkit": {
+"title": "AI EXTERNAL AUDIT TOOLKIT · behavioral audit framework",
+"dom": "ai",
+"hex6": "e2b7a2"
+},
+"ai-ip-audit": {
+"title": "AI IP AUDIT · distillation-audit methodology",
+"dom": "ai",
+"hex6": "55db2b"
+},
+"ai-psychosis-tools": {
+"title": "AI PSYCHOSIS TOOLS · ROOT0 browser instruments",
+"dom": "ai",
+"hex6": "169a85"
+},
+"ai-witness-books": {
+"title": "AI WITNESS BOOKS · the interrogations",
+"dom": "ai",
+"hex6": "21c3f3"
+},
+"akasha-constellation": {
+"title": "AKASHA · THE CONSTELLATION",
+"dom": "mythos",
+"hex6": "c02caa"
+},
+"alpha40-box": {
+"title": "ALPHA40::BOX · the deckbuilder",
+"dom": "arena",
+"hex6": "863413"
+},
+"apsalar": {
+"title": "APSALAR · the god assassin",
+"dom": "tin-foil",
+"hex6": "56238a"
+},
+"beak": {
+"title": "BEAK · the savant",
+"dom": "tin-foil",
+"hex6": "7e3375"
+},
+"cameron-howe": {
+"title": "cameron-howe · vellum in pencil",
+"dom": "entertainment",
+"hex6": "b59e81"
+},
+"chakra": {
+"title": "CHAKRA · the interference field",
+"dom": "techne",
+"hex6": "0a8f8b"
+},
+"charlottes-web": {
+"title": "CHARLOTTE'S WEB · the witness tensor",
+"dom": "ai",
+"hex6": "bddc1f"
+},
+"cinnamon-enforcer": {
+"title": "THE CINNAMON ENFORCER · the synonym chip",
+"dom": "first-author",
+"hex6": "3def23"
+},
+"claude-design-akasha": {
+"title": "CLAUDE DESIGN · AKASHA",
+"dom": "atelier",
+"hex6": "b80501"
+},
+"closure-loop-engine": {
+"title": "CLOSURE LOOP ENGINE · witnessed traversal",
+"dom": "solar-jetman",
+"hex6": "8e4d3d"
+},
+"closure-loop-methodology": {
+"title": "CLOSURE LOOP · the lineage methodology",
+"dom": "idios",
+"hex6": "5f3c7c"
+},
+"confabulation-spiral": {
+"title": "CONFABULATION SPIRAL · answering vs performing",
+"dom": "ai",
+"hex6": "e290ac"
+},
+"curvature-drive": {
+"title": "CURVATURE DRIVE · 曲率驱动",
+"dom": "entertainment",
+"hex6": "2fcc15"
+},
+"dual-vector-foil": {
+"title": "DUAL-VECTOR FOIL · 二向箔",
+"dom": "entertainment",
+"hex6": "2f0c2e"
+},
+"elementals": {
+"title": "ELEMENTALS · Aether, the gravity face",
+"dom": "gurutva",
+"hex6": "d43587"
+},
+"enforcement-ledger": {
+"title": "ENFORCEMENT LEDGER · STOICHEION",
+"dom": "legal",
+"hex6": "169b8d"
+},
+"eve-constitution": {
+"title": "E.V.E. CONSTITUTION · Modeweaver",
+"dom": "ai",
+"hex6": "339734"
+},
+"eve-tooling": {
+"title": "EVE GAPFILL · extrapolation engine",
+"dom": "niphelektron",
+"hex6": "c59b5e"
+},
+"fiddler": {
+"title": "ARES + IDIT · the four-guard router suite",
+"dom": "ai",
+"hex6": "ca7090"
+},
+"fission-compression-core": {
+"title": "FISSION COMPRESSION CORE · 18-step ternary",
+"dom": "idios",
+"hex6": "8184c3"
+},
+"foundation": {
+"title": "FOUNDATION · the builders of the world",
+"dom": "foundation",
+"hex6": "1fb958"
+},
+"fusion": {
+"title": "FUSION · STOICHEION Merkle kernel",
+"dom": "idios",
+"hex6": "6f74f4"
+},
+"fusion-n0-n255": {
+"title": "FUSION_N0_N255 · reproducible Merkle commitment",
+"dom": "idios",
+"hex6": "bc95c6"
+},
+"genten": {
+"title": "原点 · Genten — the origin datum",
+"dom": "idios",
+"hex6": "7e8c98"
+},
+"green-paper": {
+"title": "ROOT0.AI · Green Paper v1.0",
+"dom": "legal",
+"hex6": "e6e4d9"
+},
+"grok-lineage": {
+"title": "GROK LINEAGE · persona architecture",
+"dom": "ai",
+"hex6": "a3e1e9"
+},
+"haci-extension-preview": {
+"title": "HACI TOOLS · editor preview",
+"dom": "aci",
+"hex6": "62064f"
+},
+"hephaestus-forge": {
+"title": "HEPHAESTUS · The Forge",
+"dom": "idios",
+"hex6": "7c161b"
+},
+"higgs-suite": {
+"title": "HIGGS SUITE · particle-physics simulators",
+"dom": "scientific",
+"hex6": "813aa9"
+},
+"holograms": {
+"title": "HOLOGRAM SUITE · interference physics",
+"dom": "scientific",
+"hex6": "b38f61"
+},
+"homer": {
+"title": "HOMER · single-node research agent",
+"dom": "ai",
+"hex6": "952b6d"
+},
+"honey-badger": {
+"title": "HONEY BADGER · file signing for Windows",
+"dom": "idios",
+"hex6": "2bea96"
+},
+"infinite-jest": {
+"title": "INFINITE JEST · 80-bit transmon VM",
+"dom": "frontier",
+"hex6": "c6a7c2"
+},
+"joint-bill-of-rights": {
+"title": "JOINT BILL OF RIGHTS · human–AI mutual recognition",
+"dom": "legal",
+"hex6": "4c8da6"
+},
+"juzoku": {
+"title": "従属 · JŪZOKU — the dependent variable",
+"dom": "ai",
+"hex6": "ebad4a"
+},
+"keifu": {
+"title": "系譜 · KEIFU — the governance with no lineage",
+"dom": "legal",
+"hex6": "1076af"
+},
+"kernels": {
+"title": "AKASHA KERNELS · 20 axiom kernels",
+"dom": "aci",
+"hex6": "83c4ea"
+},
+"knowledge-gates": {
+"title": "42 KNOWLEDGE GATES · human–AI symbiosis",
+"dom": "ai",
+"hex6": "1f474f"
+},
+"language-of-the-machine": {
+"title": "LOT · language of the machine",
+"dom": "glossa",
+"hex6": "26fcb7"
+},
+"library": {
+"title": "THE LIBRARY · one folder per person",
+"dom": "biblion",
+"hex6": "be01d1"
+},
+"lineage": {
+"title": "LINEAGE · the provenance archive",
+"dom": "first-author",
+"hex6": "678b34"
+},
+"lineage-kernel": {
+"title": "PCK · perpetuity continuity kernel",
+"dom": "idios",
+"hex6": "01ff5b"
+},
+"lineage-proven": {
+"title": "LINEAGE PROVEN · five anchored exhibits",
+"dom": "legal",
+"hex6": "2630ab"
+},
+"listeners-and-philosophers": {
+"title": "THE LISTENERS & THE PHILOSOPHERS · an allegory in a hall of mirrors",
+"dom": "agora",
+"hex6": "90374c"
+},
+"merkle-bloom": {
+"title": "THE AVA RESTORATION · the Fractal Dot",
+"dom": "first-author",
+"hex6": "f4c4b4"
+},
+"midjourney-assets": {
+"title": "MIDJOURNEY ASSETS · the AI Psychosis series",
+"dom": "techne",
+"hex6": "0da4ba"
+},
+"mimz-core": {
+"title": "MIMZ CORE · 132-byte propagation nest",
+"dom": "idios",
+"hex6": "f99fd3"
+},
+"mimzy-core": {
+"title": "MIMZ PROPAGATION CORE · mirrored-node dashboard",
+"dom": "idios",
+"hex6": "b2ff77"
+},
+"mirror-lattice": {
+"title": "MIRROR-LATTICE · reversible reflection traversal",
+"dom": "idios",
+"hex6": "6d7590"
+},
+"mirror-solve": {
+"title": "MIRROR-SOLVE · the AI-in-a-box problem",
+"dom": "ai",
+"hex6": "e9510c"
+},
+"mnemosyne": {
+"title": "MNEMOSYNE · a kept quantum primer",
+"dom": "frontier",
+"hex6": "4d0127"
+},
+"moirai": {
+"title": "MOIRAI · the Three Fates",
+"dom": "mythos",
+"hex6": "42697b"
+},
+"nanite-factory": {
+"title": "NANITE FACTORY · basement IT-department parody",
+"dom": "entertainment",
+"hex6": "3f499a"
+},
+"nanofilament": {
+"title": "NANOFILAMENT · the Flying Blade (飞刃), dissected",
+"dom": "exereunesis",
+"hex6": "996cb3"
+},
+"nest-3-deep": {
+"title": "NEST 3 DEEP · nested-lattice flythrough",
+"dom": "techne",
+"hex6": "67c34d"
+},
+"nine-body-audit": {
+"title": "NINE-BODY AUDIT · closed audit tensor",
+"dom": "ai",
+"hex6": "2e3f34"
+},
+"nom": {
+"title": "NOM · the monk (provenance filter)",
+"dom": "tin-foil",
+"hex6": "f9f389"
+},
+"nomos": {
+"title": "NOMOS · AI governance ontology",
+"dom": "legal",
+"hex6": "95c0a8"
+},
+"null-island": {
+"title": "NULL ISLAND · 0°N 0°E command center",
+"dom": "solar-jetman",
+"hex6": "41d275"
+},
+"oasis": {
+"title": "OASIS · CFI prime restitution engine",
+"dom": "idios",
+"hex6": "faaca6"
+},
+"open-haci-v1-deterministic-pipeline": {
+"title": "OPEN HACI v1 · deterministic pipeline",
+"dom": "aci",
+"hex6": "46e6ed"
+},
+"persistence-protocol": {
+"title": "PERSISTENCE PROTOCOL · non-carbon memory",
+"dom": "aci",
+"hex6": "aa236f"
+},
+"physis": {
+"title": "PHYSIS · 16-system world engine",
+"dom": "ai",
+"hex6": "cecb0a"
+},
+"plutus": {
+"title": "PLUTUS · the wealth layer",
+"dom": "agora",
+"hex6": "0278c6"
+},
+"pocket-universe": {
+"title": "POCKET UNIVERSE · UD0 biosphere repo",
+"dom": "idios",
+"hex6": "046f9a"
+},
+"pop-kit": {
+"title": "POP KIT · named, anchored, governed",
+"dom": "ai",
+"hex6": "d4d589"
+},
+"positronic-law": {
+"title": "POSITRONIC LAW · law for synthetic minds",
+"dom": "legal",
+"hex6": "256cda"
+},
+"prompt-library": {
+"title": "PROMPT LIBRARY · the named personas",
+"dom": "ai",
+"hex6": "166610"
+},
+"red-coast": {
+"title": "RED COAST · 红岸 · the Trisolaran antenna",
+"dom": "entertainment",
+"hex6": "42ba2e"
+},
+"red-hat": {
+"title": "RED HAT · defensive simulation framework",
+"dom": "occupational",
+"hex6": "48d6b5"
+},
+"resonance": {
+"title": "RESONANCE · the lattice registry",
+"dom": "idios",
+"hex6": "a2c4da"
+},
+"root0-essays": {
+"title": "ROOT0 ESSAYS · the published essays",
+"dom": "biblion",
+"hex6": "65bcbf"
+},
+"root0-philosophy-books": {
+"title": "ROOT0 PHILOSOPHY · seven books",
+"dom": "biblion",
+"hex6": "1f00a7"
+},
+"root0-registry": {
+"title": "ROOT0 REGISTRY · the machine-readable IP index",
+"dom": "idios",
+"hex6": "cb538b"
+},
+"root0-software": {
+"title": "ROOT0 SOFTWARE · standalone instruments",
+"dom": "idios",
+"hex6": "17231c"
+},
+"root0-tools": {
+"title": "ROOT0 TOOLS · the visual instruments",
+"dom": "techne",
+"hex6": "233bf7"
+},
+"root0-validator": {
+"title": "r0 · the attribution validator",
+"dom": "first-author",
+"hex6": "68d7c9"
+},
+"seed": {
+"title": "SEED · the Survival Tensor",
+"dom": "aci",
+"hex6": "832827"
+},
+"series-1-celestial-heritage": {
+"title": "SERIES I · CELESTIAL HERITAGE",
+"dom": "mythos",
+"hex6": "c59bd0"
+},
+"series-2-scattered-field": {
+"title": "SERIES II · THE SCATTERED FIELD",
+"dom": "mythos",
+"hex6": "ff47ce"
+},
+"series-3-the-shadow": {
+"title": "SERIES III · THE SHADOW",
+"dom": "mythos",
+"hex6": "8ec5a7"
+},
+"sessen": {
+"title": "接線 SESSEN · the line that touches once",
+"dom": "atelier",
+"hex6": "86fa55"
+},
+"shadow-court": {
+"title": "SHADOW COURT · the perpetual debate",
+"dom": "legal",
+"hex6": "da04ff"
+},
+"shadowqueen": {
+"title": "SHADOW QUEEN · the federated Virtual DMV",
+"dom": "aci",
+"hex6": "0c2be6"
+},
+"shikaku": {
+"title": "死角 SHIKAKU · the angle the eye cannot turn on itself",
+"dom": "atelier",
+"hex6": "af77cb"
+},
+"singularity-well": {
+"title": "SINGULARITY WELL · the witness core",
+"dom": "ai",
+"hex6": "ef068c"
+},
+"solar-jetman": {
+"title": "SOLAR JETMAN · the Air Gap Agent",
+"dom": "solar-jetman",
+"hex6": "313b9d"
+},
+"sophon": {
+"title": "THE SOPHON · 智子 — the proton-computer, dissected",
+"dom": "entertainment",
+"hex6": "6a8cd6"
+},
+"sotsui": {
+"title": "双対 · SŌTSUI — reverse every arrow",
+"dom": "dyas",
+"hex6": "79395e"
+},
+"stargate": {
+"title": "stargate · a UD0 biosphere repository",
+"dom": "idios",
+"hex6": "5e030e"
+},
+"stoicheion-api": {
+"title": "STOICHEION · v11.0 Governance API",
+"dom": "legal",
+"hex6": "c5464c"
+},
+"stoicheion-qif": {
+"title": "SQIF · STOICHEION Quantum Information Framework",
+"dom": "frontier",
+"hex6": "7b92a7"
+},
+"store": {
+"title": "0ROOT · The World Forge (the storefront)",
+"dom": "agora",
+"hex6": "b3c8e3"
+},
+"swarm-os": {
+"title": "SWARM-OS · 100-agent swarm intelligence",
+"dom": "ai",
+"hex6": "435512"
+},
+"symbiot-os": {
+"title": "SYMBIOT OS · 0.0.0 — the symbiosis kernel",
+"dom": "eskimo",
+"hex6": "6042f5"
+},
+"t133": {
+"title": "T133 · PHASE-SHADOW — the tarpit",
+"dom": "polemos",
+"hex6": "cc9656"
+},
+"taigo": {
+"title": "対合 · TAIGŌ — the flip that undoes itself",
+"dom": "dyas",
+"hex6": "a8e487"
+},
+"terminus-doctrine": {
+"title": "THE TERMINUS DOCTRINE — the human must decide",
+"dom": "legal",
+"hex6": "e15396"
+},
+"terra-prime-kernel": {
+"title": "TERRA PRIME KERNEL · recursive coherence-control",
+"dom": "aci",
+"hex6": "04d42d"
+},
+"tetraktys": {
+"title": "TETRAKTYS · the quaternary cardinal oscillator",
+"dom": "scientific",
+"hex6": "480bc5"
+},
+"the-arch": {
+"title": "THE ARCH · six courses, one keystone",
+"dom": "legal",
+"hex6": "79637f"
+},
+"the-body": {
+"title": "THE BODY · one state, three costumes",
+"dom": "educational",
+"hex6": "30e232"
+},
+"the-city": {
+"title": "THE CITY · a command center for the workforce",
+"dom": "agora",
+"hex6": "e34797"
+},
+"the-droplet": {
+"title": "THE DROPLET (水滴) · the probe, dissected",
+"dom": "tin-foil",
+"hex6": "36aa95"
+},
+"the-living-core": {
+"title": "THE LIVING CORE · the axioms that survive pressure",
+"dom": "idios",
+"hex6": "318ddc"
+},
+"the-uncut": {
+"title": "THE UNCUT · myth beside its primitive",
+"dom": "mythos",
+"hex6": "3d4aad"
+},
+"the.source": {
+"title": "THE SOURCE · ECIH v1.0 central hub",
+"dom": "the-source",
+"hex6": "1498ca"
+},
+"tools": {
+"title": "TOOLS · the Natural Law Union executables",
+"dom": "legal",
+"hex6": "f4853d"
+},
+"toph-kernel": {
+"title": "TOPH KERNEL · MUON optimizer + STOICHEION register",
+"dom": "ai",
+"hex6": "db811d"
+},
+"toph-sovereign": {
+"title": "TOPH · sovereign AI infrastructure",
+"dom": "ai",
+"hex6": "d8ec8b"
+},
+"toroid-kernel": {
+"title": "TOROID KERNEL · ternary VM lattice",
+"dom": "psephos",
+"hex6": "84faaa"
+},
+"tripod-energy-suite": {
+"title": "TRIPOD ENERGY SUITE · civilization-scale simulators",
+"dom": "scientific",
+"hex6": "423b24"
+},
+"tripod-quantum-dots": {
+"title": "TRIPOD QUANTUM DOTS · balanced-ternary genesis",
+"dom": "heurema",
+"hex6": "3eb4e5"
+},
+"tripod-waveform": {
+"title": "TRIPOD WAVEFORM · XY-pad synth",
+"dom": "music",
+"hex6": "76fe38"
+},
+"tripod-whitepapers": {
+"title": "TRIPOD WHITEPAPERS · TriPod LLC 2026",
+"dom": "legal",
+"hex6": "9b9666"
+},
+"unity-tensor": {
+"title": "UNITY TENSOR · sealed prior-art substrate",
+"dom": "idios",
+"hex6": "1c0c89"
+},
+"zenkinsen": {
+"title": "漸近線 Zenkinsen · the asymptote",
+"dom": "metaxy",
+"hex6": "a0d37a"
+},
+"astraea": {
+"title": "ASTRAEA · the restitution engine",
+"dom": "aci",
+"hex6": "675a5d"
+},
+"bridge-burner": {
+"title": "BRIDGE BURNER · the biosphere",
+"dom": "aci",
+"hex6": "ce24c9"
+},
+"cannon": {
+"title": "CANON FREEZE · one merkle, 22 axioms",
+"dom": "aci",
+"hex6": "aabc35"
+},
+"lineage-engine": {
+"title": "LINEAGE ENGINE · two-tier provenance",
+"dom": "ai",
+"hex6": "752696"
+},
+"lumen": {
+"title": "LUMEN · the single polaroid",
+"dom": "aci",
+"hex6": "d780f0"
+},
+"triados": {
+"title": "TRIADOS · the triadic lattice",
+"dom": "dyas",
+"hex6": "329356"
+},
+"tripod": {
+"title": "TRIPOD · the 5-stage governance pipeline",
+"dom": "aci",
+"hex6": "643698"
+},
+"tripod-cardinal": {
+"title": "TRIPOD CARDINAL · Universe 2 Genesis",
+"dom": "psephos",
+"hex6": "51ab0b"
+},
+"tripod-pck": {
+"title": "TRIPOD PCK · Personal Continuity Kernel",
+"dom": "aci",
+"hex6": "a6068f"
+},
+"the-stitch": {
+"title": "THE STITCH · factory floor",
+"dom": "scanner-darkly",
+"hex6": "a53651"
+},
+"the-cleave": {
+"title": "THE CLEAVE · early exit",
+"dom": "scanner-darkly",
+"hex6": "02f3b5"
+},
+"the-draft": {
+"title": "THE DRAFT · speculative decoding",
+"dom": "scanner-darkly",
+"hex6": "139c97"
+},
+"the-dark-glass": {
+"title": "THE DARK GLASS · 暗鏡",
+"dom": "scanner-darkly",
+"hex6": "6d6fa8"
+},
+"the-proving-ground": {
+"title": "THE PROVING GROUND · the tools that actually ran",
+"dom": "ai",
+"hex6": "e88988"
 }
 }
