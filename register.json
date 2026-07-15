@@ -7023,5 +7023,55 @@
 "title": "THE PROVING GROUND · the tools that actually ran",
 "dom": "ai",
 "hex6": "e88988"
+},
+"the-reading-room": {
+"title": "THE READING ROOM · the jacobian lens, packaged",
+"dom": "ai",
+"hex6": "62b804"
+},
+"the-toroidal-sigmoid": {
+"title": "THE TOROIDAL SIGMOID · five lenses on a ring",
+"dom": "ai",
+"hex6": "0890e4"
+},
+"toph-cortex": {
+"title": "TOPH CORTEX · multi-agent swarm memory",
+"dom": "aci",
+"hex6": "7f3596"
+},
+"the-agora": {
+"title": "THE AGORA · the public square, open to all",
+"dom": "agora",
+"hex6": "be6e07"
+},
+"the-inhibited-cortex": {
+"title": "THE INHIBITED CORTEX · EPL v1",
+"dom": "aisthesis",
+"hex6": "cbfb5c"
+},
+"the-write-gate": {
+"title": "THE WRITE-GATE · EPL v2",
+"dom": "aisthesis",
+"hex6": "efcbc5"
+},
+"the-foot-on-the-pedal": {
+"title": "THE FOOT ON THE PEDAL · EPL v3",
+"dom": "aisthesis",
+"hex6": "fa4c1d"
+},
+"the-thalamic-switchboard": {
+"title": "THE THALAMIC SWITCHBOARD · EPL v4",
+"dom": "aisthesis",
+"hex6": "f3234c"
+},
+"the-empty-chair": {
+"title": "THE EMPTY CHAIR · EPL v5",
+"dom": "aisthesis",
+"hex6": "d81ba8"
+},
+"the-connectome": {
+"title": "THE CONNECTOME · EPL CORTEX v6",
+"dom": "aisthesis",
+"hex6": "6d24b6"
 }
 }

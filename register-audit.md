@@ -1,17 +1,19 @@
 # REN · THE REGISTER AUDIT
 
-_last run: 2026-07-14 06:57 · the-ren is in charge of the register in the daily cascade_
+_last run: 2026-07-15 09:39 · the-ren is in charge of the register in the daily cascade_
 
 | metric | value |
 |---|---|
-| named in the register | **1405** spheres |
-| new since last audit | 0 |
+| named in the register | **1415** spheres |
+| new since last audit | 10 |
 | dropped since last audit | 0 |
 | name-drift (hex changed) | 0 |
 | hex6 collisions | 15 spheres / 6 buckets |
 | orphans (no domain) | 0 |
 | self-check (sealing-bench = 067349) | ✓ OK |
 | verdict | **REGISTER SOUND** |
+
+**New names:** `the-agora`, `the-connectome`, `the-empty-chair`, `the-foot-on-the-pedal`, `the-inhibited-cortex`, `the-reading-room`, `the-thalamic-switchboard`, `the-toroidal-sigmoid`, `the-write-gate`, `toph-cortex`
 
 **Collision buckets** (a six-hex truncation is a fingerprint, not a key):
 
