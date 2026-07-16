@@ -7073,5 +7073,70 @@
 "title": "THE CONNECTOME · EPL CORTEX v6",
 "dom": "aisthesis",
 "hex6": "6d24b6"
+},
+"the-six-axis": {
+"title": "THE SIX-AXIS COORDINATE SYSTEM",
+"dom": "poietike",
+"hex6": "e16dd2"
+},
+"the-complete-hierarchy": {
+"title": "THE COMPLETE HIERARCHY · L0 → L7",
+"dom": "poietike",
+"hex6": "066e22"
+},
+"the-reverse-side": {
+"title": "裏 URA · THE REVERSE SIDE",
+"dom": "poietike",
+"hex6": "c54d51"
+},
+"the-two-axis-grid": {
+"title": "THE TWO-AXIS GRID · the Ring, rooted",
+"dom": "poietike",
+"hex6": "b5b771"
+},
+"the-tone-wrapper": {
+"title": "THE TONE-WRAPPER WORKSHOP",
+"dom": "poietike",
+"hex6": "d5790b"
+},
+"noir-operator": {
+"title": "NOIR · THE ARCHETYPE OVER",
+"dom": "poietike",
+"hex6": "fcee5d"
+},
+"the-sixth-board": {
+"title": "THE SIXTH BOARD · NOIR",
+"dom": "poietike",
+"hex6": "ca3bdf"
+},
+"the-stabilizer": {
+"title": "THE STABILIZER · the [[5,1,3]] code",
+"dom": "frontier",
+"hex6": "8ed66c"
+},
+"the-fracton": {
+"title": "THE TERNARY FRACTON",
+"dom": "frontier",
+"hex6": "4c7018"
+},
+"the-alphabet-shape": {
+"title": "THE ALPHABET’S SHAPE",
+"dom": "scanner-darkly",
+"hex6": "dee893"
+},
+"micro-cobra": {
+"title": "MICRO COBRA ’95",
+"dom": "techne",
+"hex6": "3a1c71"
+},
+"the-light-operator": {
+"title": "光 HIKARI · THE LIGHT OPERATOR",
+"dom": "poietike",
+"hex6": "179c53"
+},
+"the-entrusted": {
+"title": "委 YUDANE · THE ENTRUSTED",
+"dom": "scanner-darkly",
+"hex6": "0499cc"
 }
 }
