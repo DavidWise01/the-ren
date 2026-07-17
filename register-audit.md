@@ -1,19 +1,19 @@
 # REN · THE REGISTER AUDIT
 
-_last run: 2026-07-16 09:38 · the-ren is in charge of the register in the daily cascade_
+_last run: 2026-07-17 08:57 · the-ren is in charge of the register in the daily cascade_
 
 | metric | value |
 |---|---|
-| named in the register | **1428** spheres |
-| new since last audit | 13 |
+| named in the register | **1435** spheres |
+| new since last audit | 7 |
 | dropped since last audit | 0 |
-| name-drift (hex changed) | 0 |
+| name-drift (hex changed) | 1 |
 | hex6 collisions | 15 spheres / 6 buckets |
 | orphans (no domain) | 0 |
 | self-check (sealing-bench = 067349) | ✓ OK |
 | verdict | **REGISTER SOUND** |
 
-**New names:** `micro-cobra`, `noir-operator`, `the-alphabet-shape`, `the-complete-hierarchy`, `the-entrusted`, `the-fracton`, `the-light-operator`, `the-reverse-side`, `the-six-axis`, `the-sixth-board`, `the-stabilizer`, `the-tone-wrapper`, `the-two-axis-grid`
+**New names:** `big-g`, `the-hood-study`, `the-spec-book`, `the-transformer-engine`, `the-un-cut`, `the-unlit-face`, `the-untested-interior`
 
 **Collision buckets** (a six-hex truncation is a fingerprint, not a key):
 

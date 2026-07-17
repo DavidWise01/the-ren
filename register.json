@@ -7080,14 +7080,29 @@
 "hex6": "e16dd2"
 },
 "the-complete-hierarchy": {
-"title": "THE COMPLETE HIERARCHY · L0 → L7",
+"title": "THE SEALED HIERARCHY · L−1 → L7",
 "dom": "poietike",
-"hex6": "066e22"
+"hex6": "d98db3"
 },
 "the-reverse-side": {
 "title": "裏 URA · THE REVERSE SIDE",
 "dom": "poietike",
 "hex6": "c54d51"
+},
+"big-g": {
+"title": "BIG G · THE SELF-CONTAINING NEST",
+"dom": "poietike",
+"hex6": "551da6"
+},
+"the-un-cut": {
+"title": "渾沌 KONTON · THE UN-CUT",
+"dom": "poietike",
+"hex6": "f0d97e"
+},
+"the-spec-book": {
+"title": "THE SPEC BOOK &middot; the bench",
+"dom": "skynet",
+"hex6": "b16aa6"
 },
 "the-two-axis-grid": {
 "title": "THE TWO-AXIS GRID · the Ring, rooted",
@@ -7128,6 +7143,26 @@
 "title": "MICRO COBRA ’95",
 "dom": "techne",
 "hex6": "3a1c71"
+},
+"the-transformer-engine": {
+"title": "THE TRANSFORMER ENGINE · six-axis map × tested to failure",
+"dom": "ai",
+"hex6": "ab0fda"
+},
+"the-untested-interior": {
+"title": "内 UCHI · THE UNTESTED INTERIOR",
+"dom": "ai",
+"hex6": "57a572"
+},
+"the-hood-study": {
+"title": "SGL-R BENCH 03.2 · THE HOOD STUDY",
+"dom": "techne",
+"hex6": "ed07ae"
+},
+"the-unlit-face": {
+"title": "陰 IN · THE UNLIT FACE",
+"dom": "techne",
+"hex6": "ceaa76"
 },
 "the-light-operator": {
 "title": "光 HIKARI · THE LIGHT OPERATOR",
