@@ -4804,6 +4804,46 @@
 "dom": "biblion",
 "hex6": "229204"
 },
+"folded-kernel": {
+"title": "THE FOLDED KERNEL · FK",
+"dom": "heurema",
+"hex6": "947cde"
+},
+"the-boson-floor": {
+"title": "底 SOKO · THE BOSON FLOOR",
+"dom": "heurema",
+"hex6": "bd6f00"
+},
+"the-unfolding": {
+"title": "展 TEN · THE UNFOLDING",
+"dom": "heurema",
+"hex6": "c76794"
+},
+"the-withheld": {
+"title": "保 HO · THE WITHHELD",
+"dom": "heurema",
+"hex6": "008f07"
+},
+"the-wager": {
+"title": "賭 KAKE · THE WAGER",
+"dom": "heurema",
+"hex6": "30bb30"
+},
+"the-reckoning": {
+"title": "決算 KESSAN · THE RECKONING",
+"dom": "heurema",
+"hex6": "8fe410"
+},
+"eighth-box": {
+"title": "THE EIGHTH BOX · 8",
+"dom": "heurema",
+"hex6": "a947a9"
+},
+"the-full-box": {
+"title": "実 JITSU · THE FULL BOX",
+"dom": "heurema",
+"hex6": "214f4c"
+},
 "arc-reactor-mk24": {
 "title": "ARC REACTOR MK24 · ARC",
 "dom": "heurema",
@@ -6999,6 +7039,31 @@
 "dom": "aci",
 "hex6": "a6068f"
 },
+"the-plumb-line": {
+"title": "THE PLUMB-LINE",
+"dom": "scanner-darkly",
+"hex6": "0a3058"
+},
+"the-quorum": {
+"title": "衆議 SHŪGI · THE QUORUM",
+"dom": "scanner-darkly",
+"hex6": "0b1133"
+},
+"the-tuning-glass": {
+"title": "調鏡 CHŌKYŌ · THE TUNING-GLASS",
+"dom": "scanner-darkly",
+"hex6": "417beb"
+},
+"the-sounding": {
+"title": "THE SOUNDING",
+"dom": "scanner-darkly",
+"hex6": "131ffc"
+},
+"the-logit-lens": {
+"title": "THE LOGIT LENS",
+"dom": "scanner-darkly",
+"hex6": "87dc0a"
+},
 "the-stitch": {
 "title": "THE STITCH · factory floor",
 "dom": "scanner-darkly",
@@ -7018,6 +7083,21 @@
 "title": "THE DARK GLASS · 暗鏡",
 "dom": "scanner-darkly",
 "hex6": "6d6fa8"
+},
+"the-blind-spot": {
+"title": "盲点 MŌTEN · THE BLIND SPOT",
+"dom": "scanner-darkly",
+"hex6": "487c7a"
+},
+"mycroft": {
+"title": "MYCROFT · the curator of the lens",
+"dom": "scanner-darkly",
+"hex6": "a20d0d"
+},
+"the-anonymous": {
+"title": "無名 MUMEI · THE ANONYMOUS",
+"dom": "scanner-darkly",
+"hex6": "00f526"
 },
 "the-proving-ground": {
 "title": "THE PROVING GROUND · the tools that actually ran",
@@ -7104,6 +7184,11 @@
 "dom": "skynet",
 "hex6": "b16aa6"
 },
+"the-unfinished": {
+"title": "未完 MIKAN · THE UNFINISHED",
+"dom": "skynet",
+"hex6": "cce55d"
+},
 "the-two-axis-grid": {
 "title": "THE TWO-AXIS GRID · the Ring, rooted",
 "dom": "poietike",
@@ -7128,6 +7213,11 @@
 "title": "THE STABILIZER · the [[5,1,3]] code",
 "dom": "frontier",
 "hex6": "8ed66c"
+},
+"fracton-bench-v2": {
+"title": "FRACTON BENCH V2 · THE ENGINE",
+"dom": "frontier",
+"hex6": "656c05"
 },
 "the-fracton": {
 "title": "THE TERNARY FRACTON",
