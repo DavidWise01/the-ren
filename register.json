@@ -4844,6 +4844,11 @@
 "dom": "heurema",
 "hex6": "214f4c"
 },
+"the-mediator": {
+"title": "媒 BAI · THE MEDIATOR",
+"dom": "heurema",
+"hex6": "30d8e9"
+},
 "arc-reactor-mk24": {
 "title": "ARC REACTOR MK24 · ARC",
 "dom": "heurema",
@@ -7099,6 +7104,11 @@
 "dom": "scanner-darkly",
 "hex6": "00f526"
 },
+"model-functor-audit": {
+"title": "MODEL-FUNCTOR AUDIT · station 12",
+"dom": "scanner-darkly",
+"hex6": "3985db"
+},
 "the-proving-ground": {
 "title": "THE PROVING GROUND · the tools that actually ran",
 "dom": "ai",
@@ -7263,5 +7273,15 @@
 "title": "委 YUDANE · THE ENTRUSTED",
 "dom": "scanner-darkly",
 "hex6": "0499cc"
+},
+"phonos": {
+"title": "PHONOS · sound-wave lineage",
+"dom": "phonos",
+"hex6": "d2075c"
+},
+"the-interval": {
+"title": "間 MA · THE INTERVAL",
+"dom": "phonos",
+"hex6": "c415ff"
 }
 }
