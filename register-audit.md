@@ -1,19 +1,17 @@
 # REN · THE REGISTER AUDIT
 
-_last run: 2026-07-20 13:09 · the-ren is in charge of the register in the daily cascade_
+_last run: 2026-07-21 08:45 · the-ren is in charge of the register in the daily cascade_
 
 | metric | value |
 |---|---|
 | named in the register | **1457** spheres |
-| new since last audit | 4 |
+| new since last audit | 0 |
 | dropped since last audit | 0 |
 | name-drift (hex changed) | 0 |
 | hex6 collisions | 15 spheres / 6 buckets |
 | orphans (no domain) | 0 |
 | self-check (sealing-bench = 067349) | ✓ OK |
 | verdict | **REGISTER SOUND** |
-
-**New names:** `model-functor-audit`, `phonos`, `the-interval`, `the-mediator`
 
 **Collision buckets** (a six-hex truncation is a fingerprint, not a key):
 
