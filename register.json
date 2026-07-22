@@ -7283,5 +7283,45 @@
 "title": "間 MA · THE INTERVAL",
 "dom": "phonos",
 "hex6": "c415ff"
+},
+"csaszar": {
+"title": "THE CSÁSZÁR · K7 ON THE TORUS",
+"dom": "krasis",
+"hex6": "d06524"
+},
+"split-rail-fold": {
+"title": "THE SPLIT RAIL · the corpus at 0",
+"dom": "krasis",
+"hex6": "5f2a61"
+},
+"axiom-five": {
+"title": "AXIOM FIVE · the braided logic shell",
+"dom": "krasis",
+"hex6": "336e83"
+},
+"tuning-fork": {
+"title": "THE TUNING FORK · STRIKE",
+"dom": "krasis",
+"hex6": "076b53"
+},
+"sapphire-sphere": {
+"title": "THE SAPPHIRE SPHERE · parity-selective coupling",
+"dom": "krasis",
+"hex6": "06aeb1"
+},
+"zero-camera": {
+"title": "THE ZERO CAMERA · the read/write aperture",
+"dom": "krasis",
+"hex6": "4b0539"
+},
+"the-one-way-blend": {
+"title": "戻れない MODORENAI · THE ONE-WAY BLEND",
+"dom": "krasis",
+"hex6": "bfd608"
+},
+"boots-on-unload": {
+"title": "素 SU · BOOTS ON UNLOAD",
+"dom": "krasis",
+"hex6": "d365be"
 }
 }
