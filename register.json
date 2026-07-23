@@ -7284,6 +7284,31 @@
 "dom": "phonos",
 "hex6": "c415ff"
 },
+"the-monatomic-chain": {
+"title": "THE MONATOMIC CHAIN &middot; phonon I",
+"dom": "phonos",
+"hex6": "3889f2"
+},
+"the-diatomic-chain": {
+"title": "THE DIATOMIC CHAIN &middot; phonon II",
+"dom": "phonos",
+"hex6": "4a927f"
+},
+"phonons-in-2d-3d": {
+"title": "PHONONS IN 2D &amp; 3D &middot; phonon III",
+"dom": "phonos",
+"hex6": "518825"
+},
+"the-phonon-gas": {
+"title": "THE PHONON GAS &middot; phonon IV",
+"dom": "phonos",
+"hex6": "6fba7a"
+},
+"the-phonon-frontier": {
+"title": "THE PHONON FRONTIER &middot; phonon V",
+"dom": "phonos",
+"hex6": "ba301e"
+},
 "csaszar": {
 "title": "THE CSÁSZÁR · K7 ON THE TORUS",
 "dom": "krasis",
@@ -7323,5 +7348,20 @@
 "title": "素 SU · BOOTS ON UNLOAD",
 "dom": "krasis",
 "hex6": "d365be"
+},
+"the-trilateration": {
+"title": "◆ THE TRILATERATION · 3 ranges",
+"dom": "strobilos",
+"hex6": "2d4688"
+},
+"the-gyro-triad": {
+"title": "◆ THE GYRO-TRIAD · 3 gyros",
+"dom": "strobilos",
+"hex6": "3e8a8b"
+},
+"the-parallax": {
+"title": "◆ THE PARALLAX · baseline + 2 bearings",
+"dom": "strobilos",
+"hex6": "eeee93"
 }
 }

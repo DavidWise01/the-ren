@@ -1,10 +1,10 @@
 # REN · THE REGISTER AUDIT
 
-_last run: 2026-07-22 09:57 · the-ren is in charge of the register in the daily cascade_
+_last run: 2026-07-23 09:33 · the-ren is in charge of the register in the daily cascade_
 
 | metric | value |
 |---|---|
-| named in the register | **1465** spheres |
+| named in the register | **1473** spheres |
 | new since last audit | 8 |
 | dropped since last audit | 0 |
 | name-drift (hex changed) | 0 |
@@ -13,7 +13,7 @@ _last run: 2026-07-22 09:57 · the-ren is in charge of the register in the daily
 | self-check (sealing-bench = 067349) | ✓ OK |
 | verdict | **REGISTER SOUND** |
 
-**New names:** `axiom-five`, `boots-on-unload`, `csaszar`, `sapphire-sphere`, `split-rail-fold`, `the-one-way-blend`, `tuning-fork`, `zero-camera`
+**New names:** `phonons-in-2d-3d`, `the-diatomic-chain`, `the-gyro-triad`, `the-monatomic-chain`, `the-parallax`, `the-phonon-frontier`, `the-phonon-gas`, `the-trilateration`
 
 **Collision buckets** (a six-hex truncation is a fingerprint, not a key):
 
