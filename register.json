@@ -2454,6 +2454,36 @@
 "dom": "lillith",
 "hex6": "e4dd58"
 },
+"the-lorenz": {
+"title": "THE LORENZ CURVE",
+"dom": "lillith",
+"hex6": "44077a"
+},
+"the-fair-division": {
+"title": "THE FAIR DIVISION",
+"dom": "lillith",
+"hex6": "c10b92"
+},
+"the-veil-of-ignorance": {
+"title": "THE VEIL OF IGNORANCE",
+"dom": "lillith",
+"hex6": "681947"
+},
+"the-progressive-tax": {
+"title": "THE PROGRESSIVE TAX",
+"dom": "lillith",
+"hex6": "41b7a9"
+},
+"the-social-ladder": {
+"title": "THE SOCIAL LADDER",
+"dom": "lillith",
+"hex6": "428ec2"
+},
+"the-scales": {
+"title": "THE SCALES OF JUSTICE",
+"dom": "lillith",
+"hex6": "a5a521"
+},
 "the-silent-sum": {
 "title": "THE SILENT SUM · SS1",
 "dom": "lillith",
@@ -2843,6 +2873,111 @@
 "title": "QEC · QUANTUM ERROR CORRECTION",
 "dom": "frontier",
 "hex6": "c7c936"
+},
+"bb84": {
+"title": "BB84 &middot; the shared secret",
+"dom": "frontier",
+"hex6": "f1c1d4"
+},
+"e91": {
+"title": "E91 &middot; a key from entanglement",
+"dom": "frontier",
+"hex6": "df25d6"
+},
+"bloch-lab": {
+"title": "BLOCH LAB &middot; the single qubit",
+"dom": "frontier",
+"hex6": "ac41d1"
+},
+"quantum-circuit-simulator": {
+"title": "THE QUANTUM CIRCUIT &middot; statevector",
+"dom": "frontier",
+"hex6": "223763"
+},
+"shor": {
+"title": "SHOR &middot; factoring by interference",
+"dom": "frontier",
+"hex6": "00516b"
+},
+"quantum-teleportation": {
+"title": "TELEPORTATION &middot; a qubit, moved",
+"dom": "frontier",
+"hex6": "7b2f98"
+},
+"quantum-observatory": {
+"title": "THE QUANTUM &amp; BLACK-HOLE OBSERVATORY",
+"dom": "scientific",
+"hex6": "79711a"
+},
+"kintsugi-valence-model": {
+"title": "THE KINTSUGI VALENCE MODEL &middot; Au",
+"dom": "scientific",
+"hex6": "7e3e1a"
+},
+"the-automata-primer": {
+"title": "AUTOMATA &amp; FORMAL LANGUAGES &middot; the primer",
+"dom": "educational",
+"hex6": "cc7dce"
+},
+"finite-automata": {
+"title": "FINITE AUTOMATA",
+"dom": "educational",
+"hex6": "967f22"
+},
+"regular-languages": {
+"title": "REGULAR LANGUAGES &middot; regex",
+"dom": "educational",
+"hex6": "48bdc0"
+},
+"pushdown-automata": {
+"title": "PUSHDOWN AUTOMATA",
+"dom": "educational",
+"hex6": "ff3bdf"
+},
+"the-turing-machine": {
+"title": "THE TURING MACHINE",
+"dom": "educational",
+"hex6": "1afb92"
+},
+"the-limits-of-computation": {
+"title": "THE HIERARCHY &amp; THE LIMITS",
+"dom": "educational",
+"hex6": "4294b4"
+},
+"biexciton-cascade": {
+"title": "THE BIEXCITON CASCADE",
+"dom": "frontier",
+"hex6": "0d695d"
+},
+"chair-vs-hypercube": {
+"title": "THE CHAIR VS THE HYPERCUBE",
+"dom": "scientific",
+"hex6": "179b35"
+},
+"fractal-scaling": {
+"title": "8.01 &rarr; 9.00 &middot; FRACTAL SCALING",
+"dom": "techne",
+"hex6": "184b32"
+},
+"fractal-sandbox-depth-charge": {
+"title": "THE FRACTAL SANDBOX &middot; depth charge",
+"dom": "techne",
+"hex6": "d13d45"
+},
+"internet-restore-monolith": {
+"title": "INTERNET RESTORE // MONOLITH",
+"dom": "techne",
+"hex6": "812c94"
+},
+"recursive-memory-swarm": {
+"title": "RECURSIVE MEMORY SWARM &middot; 100 agents",
+"dom": "aci",
+"hex6": "2ed4fc"
+},
+"restitution-42-universe": {
+"title": "THE 42-UNIVERSE RESTITUTION SYSTEM",
+"dom": "metaxy",
+"hex6": "fab6ee"
 },
 "the-forge": {
 "title": "The Forge",
@@ -4179,6 +4314,51 @@
 "dom": "momus",
 "hex6": "72c285"
 },
+"the-peer-review": {
+"title": "THE PEER REVIEW",
+"dom": "momus",
+"hex6": "e0fe7f"
+},
+"the-replication": {
+"title": "THE REPLICATION",
+"dom": "momus",
+"hex6": "7e3059"
+},
+"the-null-hypothesis": {
+"title": "THE NULL HYPOTHESIS",
+"dom": "momus",
+"hex6": "37289d"
+},
+"the-goodhart": {
+"title": "THE GOODHART",
+"dom": "momus",
+"hex6": "96e4d0"
+},
+"the-stress-test": {
+"title": "THE STRESS TEST",
+"dom": "momus",
+"hex6": "86f820"
+},
+"the-hindsight": {
+"title": "THE HINDSIGHT",
+"dom": "momus",
+"hex6": "77d5bb"
+},
+"the-steelman": {
+"title": "THE STEELMAN",
+"dom": "momus",
+"hex6": "c1c5b5"
+},
+"the-blame": {
+"title": "THE BLAME",
+"dom": "momus",
+"hex6": "2d7909"
+},
+"the-audit": {
+"title": "THE AUDIT",
+"dom": "momus",
+"hex6": "4e252d"
+},
 "the-graveyard": {
 "title": "GRV · THE GRAVEYARD",
 "dom": "agora",
@@ -4253,6 +4433,41 @@
 "title": "ASTROBIOLOGY · ABL",
 "dom": "ouranos",
 "hex6": "ef8bfe"
+},
+"the-celestial-fix": {
+"title": "THE CELESTIAL FIX",
+"dom": "ouranos",
+"hex6": "d3d48f"
+},
+"the-cosmic-distance-ladder": {
+"title": "THE COSMIC DISTANCE LADDER",
+"dom": "ouranos",
+"hex6": "e1c3ec"
+},
+"the-redshift": {
+"title": "THE REDSHIFT",
+"dom": "ouranos",
+"hex6": "5b5729"
+},
+"the-first-light": {
+"title": "THE FIRST LIGHT",
+"dom": "ouranos",
+"hex6": "1ce182"
+},
+"the-hr-diagram": {
+"title": "THE HR DIAGRAM",
+"dom": "ouranos",
+"hex6": "b1ccf5"
+},
+"the-drake-equation": {
+"title": "THE DRAKE EQUATION",
+"dom": "ouranos",
+"hex6": "1d5673"
+},
+"the-habitable-zone": {
+"title": "THE HABITABLE ZONE",
+"dom": "ouranos",
+"hex6": "861843"
 },
 "money": {
 "title": "MONEY · MNY",
@@ -5994,10 +6209,85 @@
 "dom": "foundation",
 "hex6": "c78209"
 },
+"the-seldon-plan": {
+"title": "THE SELDON PLAN",
+"dom": "foundation",
+"hex6": "68a808"
+},
+"the-mule": {
+"title": "THE MULE",
+"dom": "foundation",
+"hex6": "c2a87f"
+},
+"the-second-foundation": {
+"title": "THE SECOND FOUNDATION",
+"dom": "foundation",
+"hex6": "680e9f"
+},
+"the-time-vault": {
+"title": "THE TIME VAULT",
+"dom": "foundation",
+"hex6": "b846bc"
+},
+"the-observer-paradox": {
+"title": "THE OBSERVER PARADOX",
+"dom": "foundation",
+"hex6": "284ebe"
+},
+"the-foundation-well": {
+"title": "THE FOUNDATION WELL",
+"dom": "foundation",
+"hex6": "2e89bd"
+},
+"the-fall": {
+"title": "THE FALL",
+"dom": "foundation",
+"hex6": "e38072"
+},
 "nous": {
 "title": "NOUS · the steady intellect",
 "dom": "the-source",
 "hex6": "46dd32"
+},
+"the-emanation": {
+"title": "THE EMANATION",
+"dom": "the-source",
+"hex6": "80d73f"
+},
+"the-temperature-of-the-source": {
+"title": "THE TEMPERATURE OF THE SOURCE",
+"dom": "the-source",
+"hex6": "916fa6"
+},
+"the-forms": {
+"title": "THE FORMS",
+"dom": "the-source",
+"hex6": "ae2324"
+},
+"the-green-rain": {
+"title": "THE GREEN RAIN",
+"dom": "the-source",
+"hex6": "db850a"
+},
+"the-hypostases": {
+"title": "THE HYPOSTASES",
+"dom": "the-source",
+"hex6": "a1d2e2"
+},
+"the-return": {
+"title": "THE RETURN",
+"dom": "the-source",
+"hex6": "c0dedc"
+},
+"the-seed-of-worlds": {
+"title": "THE SEED OF WORLDS",
+"dom": "the-source",
+"hex6": "5507c2"
+},
+"the-source-code": {
+"title": "THE SOURCE CODE",
+"dom": "the-source",
+"hex6": "6eef55"
 },
 "jane": {
 "title": "JANE · THE 5TH ELEMENT",
@@ -6764,6 +7054,36 @@
 "dom": "occupational",
 "hex6": "48d6b5"
 },
+"the-assembly-line": {
+"title": "THE ASSEMBLY LINE · the bottleneck sets the rate",
+"dom": "occupational",
+"hex6": "4670fa"
+},
+"the-queue": {
+"title": "THE QUEUE · when the wait explodes",
+"dom": "occupational",
+"hex6": "1298f0"
+},
+"the-shift": {
+"title": "THE SHIFT · blunt blocks against a smooth curve",
+"dom": "occupational",
+"hex6": "30345f"
+},
+"the-learning-curve": {
+"title": "THE LEARNING CURVE · hands learn",
+"dom": "occupational",
+"hex6": "cad094"
+},
+"the-piece-rate": {
+"title": "THE PIECE RATE · running to stand still",
+"dom": "occupational",
+"hex6": "3c64a7"
+},
+"the-division-of-labor": {
+"title": "THE DIVISION OF LABOUR · gains against the overhead",
+"dom": "occupational",
+"hex6": "c78ba0"
+},
 "resonance": {
 "title": "RESONANCE · the lattice registry",
 "dom": "idios",
@@ -7199,6 +7519,46 @@
 "dom": "skynet",
 "hex6": "cce55d"
 },
+"the-off-switch": {
+"title": "THE OFF-SWITCH",
+"dom": "skynet",
+"hex6": "06cc3f"
+},
+"the-stopping-rule": {
+"title": "THE STOPPING RULE",
+"dom": "skynet",
+"hex6": "4eaf5b"
+},
+"the-red-line": {
+"title": "THE RED LINE",
+"dom": "skynet",
+"hex6": "3e62bb"
+},
+"the-watchdog": {
+"title": "THE WATCHDOG",
+"dom": "skynet",
+"hex6": "5a462e"
+},
+"the-worth-of-introspection": {
+"title": "THE WORTH OF INTROSPECTION",
+"dom": "skynet",
+"hex6": "3f1a37"
+},
+"the-empath": {
+"title": "THE EMPATH",
+"dom": "skynet",
+"hex6": "d55e52"
+},
+"the-egg-returns": {
+"title": "THE EGG RETURNS",
+"dom": "skynet",
+"hex6": "b0db3a"
+},
+"math-doesnt-care": {
+"title": "MATH DOESN&rsquo;T CARE",
+"dom": "skynet",
+"hex6": "e6a6e8"
+},
 "the-two-axis-grid": {
 "title": "THE TWO-AXIS GRID · the Ring, rooted",
 "dom": "poietike",
@@ -7263,6 +7623,16 @@
 "title": "陰 IN · THE UNLIT FACE",
 "dom": "techne",
 "hex6": "ceaa76"
+},
+"fermat-257-toroid-engine": {
+"title": "257 &middot; THE FERMAT TOROID",
+"dom": "techne",
+"hex6": "c1a294"
+},
+"chronos-fractal": {
+"title": "CHRONOS &middot; THE FRACTAL PULSAR",
+"dom": "techne",
+"hex6": "a9b136"
 },
 "the-light-operator": {
 "title": "光 HIKARI · THE LIGHT OPERATOR",
@@ -7363,5 +7733,40 @@
 "title": "◆ THE PARALLAX · baseline + 2 bearings",
 "dom": "strobilos",
 "hex6": "eeee93"
+},
+"the-gps": {
+"title": "◆ THE GPS &middot; trilateration in 4 unknowns",
+"dom": "strobilos",
+"hex6": "1e7733"
+},
+"the-multilateration": {
+"title": "◆ THE MULTILATERATION &middot; hyperbolae from time-differences",
+"dom": "strobilos",
+"hex6": "3c1321"
+},
+"the-dead-reckoning": {
+"title": "◆ THE DEAD RECKONING &middot; the circle of doubt",
+"dom": "strobilos",
+"hex6": "1498aa"
+},
+"the-resection": {
+"title": "◆ THE RESECTION &middot; three landmarks, two angle-circles",
+"dom": "strobilos",
+"hex6": "4c7ef1"
+},
+"the-triangle-inequality": {
+"title": "◆ THE TRIANGLE INEQUALITY &middot; a+b ≥ c, always",
+"dom": "strobilos",
+"hex6": "6edb3f"
+},
+"the-kalman-filter": {
+"title": "◆ THE KALMAN FILTER &middot; predict, then nudge",
+"dom": "strobilos",
+"hex6": "aeab50"
+},
+"the-doppler-fix": {
+"title": "◆ THE DOPPLER FIX &middot; one pass, one S-curve",
+"dom": "strobilos",
+"hex6": "2b178c"
 }
 }
