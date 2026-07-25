@@ -344,6 +344,21 @@
 "dom": "atelier",
 "hex6": "398d04"
 },
+"the-layered-realm": {
+"title": "THE LAYERED REALM · RLM",
+"dom": "atelier",
+"hex6": "a8e63b"
+},
+"the-remainder": {
+"title": "THE REMAINDER · 剰余 JOYO",
+"dom": "atelier",
+"hex6": "412124"
+},
+"the-homing": {
+"title": "THE HOMING · 種 TANE",
+"dom": "atelier",
+"hex6": "d194ca"
+},
 "az1": {
 "title": "AZ1 · UNIVERSE ONE · AZ1",
 "dom": "atelier",
@@ -388,6 +403,11 @@
 "title": "THE SEAM WATCH · SEAM",
 "dom": "transcriber",
 "hex6": "c41ce5"
+},
+"the-sample-of-one": {
+"title": "THE SAMPLE OF ONE · 一 ICHI",
+"dom": "transcriber",
+"hex6": "692abb"
 },
 "the-penumbra": {
 "title": "THE PENUMBRA · PEN",
@@ -4079,6 +4099,26 @@
 "dom": "music",
 "hex6": "14fea7"
 },
+"the-harmonic-series": {
+"title": "THE HARMONIC SERIES · additive synth",
+"dom": "music",
+"hex6": "566ad6"
+},
+"the-circle-of-fifths": {
+"title": "THE CIRCLE OF FIFTHS · the family of keys",
+"dom": "music",
+"hex6": "61ccb7"
+},
+"the-twelve-bar": {
+"title": "THE TWELVE-BAR BLUES · the ancestor",
+"dom": "music",
+"hex6": "e6330a"
+},
+"the-modes": {
+"title": "THE SEVEN MODES · one scale, seven moods",
+"dom": "music",
+"hex6": "86a2fe"
+},
 "depeche-mode": {
 "title": "DEPECHE MODE · DM",
 "dom": "music",
@@ -4544,6 +4584,16 @@
 "dom": "niphelektron",
 "hex6": "de666c"
 },
+"the-temperature": {
+"title": "THE TEMPERATURE &middot; how wild the electron wanders",
+"dom": "niphelektron",
+"hex6": "ef0e75"
+},
+"the-top-p": {
+"title": "THE NUCLEUS &middot; top-p sampling",
+"dom": "niphelektron",
+"hex6": "4ddbd1"
+},
 "the-nes": {
 "title": "THE NES · NES",
 "dom": "exereunesis",
@@ -4809,6 +4859,16 @@
 "dom": "polemos",
 "hex6": "2644f8"
 },
+"the-arms-race": {
+"title": "THE ARMS RACE &middot; the loser learns most",
+"dom": "polemos",
+"hex6": "72cdf4"
+},
+"the-rarefaction": {
+"title": "THE RAREFACTION · 疎 SO",
+"dom": "polemos",
+"hex6": "50d0eb"
+},
 "the-word-and-the-sword": {
 "title": "THE WORD AND THE SWORD · WTS",
 "dom": "polemos",
@@ -4828,6 +4888,11 @@
 "title": "IS THE INTERNET 1984? · O84",
 "dom": "tin-foil",
 "hex6": "9c96f4"
+},
+"the-assay": {
+"title": "THE ASSAY &middot; the weighing itself",
+"dom": "tin-foil",
+"hex6": "843969"
 },
 "monster-hunter": {
 "title": "MONSTER HUNTER · MHN",
@@ -6389,6 +6454,21 @@
 "dom": "banana",
 "hex6": "0c981c"
 },
+"the-magic-fifteen": {
+"title": "THE GAME OF FIFTEEN · tic-tac-toe in disguise",
+"dom": "banana",
+"hex6": "d9f979"
+},
+"the-sucker-bet": {
+"title": "THE SUCKER BET · Penney's game",
+"dom": "banana",
+"hex6": "75e71d"
+},
+"the-lonely-match": {
+"title": "THE LONELY MATCH · Spot-It is a projective plane",
+"dom": "banana",
+"hex6": "403346"
+},
 "the-jacobian-lens": {
 "title": "THE JACOBIAN LENS · from scratch",
 "dom": "ai",
@@ -6643,6 +6723,21 @@
 "title": "THE INVERSE BENCH · read &rarr; emit",
 "dom": "phantasia",
 "hex6": "de741f"
+},
+"the-convolution": {
+"title": "THE SEEING KERNEL · convolution measured",
+"dom": "phantasia",
+"hex6": "51c1f2"
+},
+"the-demosaic": {
+"title": "THE SENSOR MOSAIC · ⅔ of every colour reconstructed",
+"dom": "phantasia",
+"hex6": "050b2e"
+},
+"the-quantize": {
+"title": "THE FEW LEVELS · tone reconstructed from almost nothing",
+"dom": "phantasia",
+"hex6": "4bc2f7"
 },
 "0root-provenance": {
 "title": "0ROOT PROVENANCE · IP-lineage archive",
@@ -7484,6 +7579,26 @@
 "dom": "aisthesis",
 "hex6": "6d24b6"
 },
+"the-just-noticeable": {
+"title": "THE JUST-NOTICEABLE DIFFERENCE · Weber's law",
+"dom": "aisthesis",
+"hex6": "648940"
+},
+"the-receptive-field": {
+"title": "THE RECEPTIVE FIELD · centre-surround & Mach bands",
+"dom": "aisthesis",
+"hex6": "501438"
+},
+"the-signal-detection": {
+"title": "THE SIGNAL IN THE NOISE · SDT · d′ & criterion",
+"dom": "aisthesis",
+"hex6": "ee1c01"
+},
+"the-adaptation": {
+"title": "THE ADAPTATION · the aftereffect",
+"dom": "aisthesis",
+"hex6": "2ac75a"
+},
 "the-six-axis": {
 "title": "THE SIX-AXIS COORDINATE SYSTEM",
 "dom": "poietike",
@@ -7679,6 +7794,21 @@
 "dom": "phonos",
 "hex6": "ba301e"
 },
+"the-chladni-plate": {
+"title": "THE CHLADNI PLATE &middot; the note draws its figure",
+"dom": "phonos",
+"hex6": "d4c134"
+},
+"the-beat": {
+"title": "THE BEAT &middot; chase the throb to zero",
+"dom": "phonos",
+"hex6": "f4db98"
+},
+"the-birthplace": {
+"title": "THE BIRTHPLACE OF A SOUND &middot; TOP's fix",
+"dom": "phonos",
+"hex6": "e23800"
+},
 "csaszar": {
 "title": "THE CSÁSZÁR · K7 ON THE TORUS",
 "dom": "krasis",
@@ -7718,6 +7848,16 @@
 "title": "素 SU · BOOTS ON UNLOAD",
 "dom": "krasis",
 "hex6": "d365be"
+},
+"the-krater": {
+"title": "THE KRATER &middot; two poured into one",
+"dom": "krasis",
+"hex6": "4c7ccc"
+},
+"the-alloy": {
+"title": "THE ALLOY &middot; melts below both parents",
+"dom": "krasis",
+"hex6": "ae4e33"
 },
 "the-trilateration": {
 "title": "◆ THE TRILATERATION · 3 ranges",
