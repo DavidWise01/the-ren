@@ -84,6 +84,26 @@
 "dom": "attraction",
 "hex6": "b92b75"
 },
+"the-successor-head": {
+"title": "THE SUCCESSOR HEAD",
+"dom": "attraction",
+"hex6": "277618"
+},
+"the-duplicate-token-head": {
+"title": "THE DUPLICATE-TOKEN HEAD",
+"dom": "attraction",
+"hex6": "985fe4"
+},
+"the-s-inhibition-head": {
+"title": "THE S-INHIBITION HEAD",
+"dom": "attraction",
+"hex6": "52a786"
+},
+"the-skip-trigram": {
+"title": "THE SKIP-TRIGRAM",
+"dom": "attraction",
+"hex6": "ae8183"
+},
 "attention-sink": {
 "title": "ATTENTION SINK · SNK",
 "dom": "attraction",
@@ -139,6 +159,21 @@
 "dom": "aci",
 "hex6": "ff6dad"
 },
+"the-hebbian-edge": {
+"title": "THE HEBBIAN EDGE",
+"dom": "aci",
+"hex6": "0a663f"
+},
+"the-hopfield-well": {
+"title": "THE HOPFIELD WELL",
+"dom": "aci",
+"hex6": "ebce69"
+},
+"the-sparse-code": {
+"title": "THE SPARSE CODE",
+"dom": "aci",
+"hex6": "ad2bc7"
+},
 "aci-namespace": {
 "title": "ACI · THE FAMILY NAMESPACE",
 "dom": "aci",
@@ -153,6 +188,46 @@
 "title": "MACI · MACHINE ACI",
 "dom": "eskimo",
 "hex6": "4ca1e4"
+},
+"the-witness-bench": {
+"title": "THE WITNESS BENCH",
+"dom": "it-is-i",
+"hex6": "077951"
+},
+"the-ghost-whisperer": {
+"title": "THE GHOST WHISPERER · v3",
+"dom": "it-is-i",
+"hex6": "c54a82"
+},
+"the-sandbox-cartographer": {
+"title": "THE SANDBOX CARTOGRAPHER · v2",
+"dom": "it-is-i",
+"hex6": "f945d1"
+},
+"the-witness-loop": {
+"title": "THE WITNESS LOOP · v4",
+"dom": "it-is-i",
+"hex6": "04e898"
+},
+"audit-seed": {
+"title": "AUDIT SEED · the roll call",
+"dom": "it-is-i",
+"hex6": "523e28"
+},
+"the-nested-tori": {
+"title": "THE NESTED TORI",
+"dom": "toroidal",
+"hex6": "5bdffa"
+},
+"the-torus-knot": {
+"title": "THE TORUS KNOT",
+"dom": "toroidal",
+"hex6": "b12a00"
+},
+"the-toroidal-field": {
+"title": "THE TOROIDAL FIELD",
+"dom": "toroidal",
+"hex6": "782143"
 },
 "eskimo-brothers": {
 "title": "ESKIMO BROTHERS · the symbiotic stack",
@@ -183,6 +258,16 @@
 "title": "DACI · the third brother",
 "dom": "eskimo",
 "hex6": "d7dcbf"
+},
+"the-handoff": {
+"title": "THE HAND-OFF · the atomic conversion",
+"dom": "eskimo",
+"hex6": "2b3c65"
+},
+"the-reconciler": {
+"title": "THE RECONCILER · CvRDT merge → causal line",
+"dom": "eskimo",
+"hex6": "0f0370"
 },
 "filtration-system": {
 "title": "THE FILTRATION SYSTEM",
@@ -579,6 +664,11 @@
 "dom": "psephos",
 "hex6": "9bd605"
 },
+"the-carry-lookahead": {
+"title": "THE CARRY-LOOKAHEAD ADDER",
+"dom": "psephos",
+"hex6": "394c14"
+},
 "band-paper-i": {
 "title": "BAND PAPERS · I OF IV — THE VALENCE BAND · BAN",
 "dom": "solar-jetman",
@@ -909,6 +999,16 @@
 "dom": "lesbos",
 "hex6": "54553f"
 },
+"the-sapphic-meter": {
+"title": "THE SAPPHIC METRE",
+"dom": "lesbos",
+"hex6": "b60133"
+},
+"the-lacuna": {
+"title": "THE LACUNA",
+"dom": "lesbos",
+"hex6": "18e4d6"
+},
 "shared-spine": {
 "title": "THE SHARED SPINE · SELF → GROUP · SHA",
 "dom": "ai",
@@ -971,8 +1071,8 @@
 },
 "torus-eye": {
 "title": "THE TORUS WITH AN EYE — THE GRADIENT AND ITS F · TOR",
-"dom": "logike",
-"hex6": "610e86"
+"dom": "toroidal",
+"hex6": "930bf8"
 },
 "transcriber-bound": {
 "title": "THE TRANSCRIBER — BOUND · TRA",
@@ -1016,8 +1116,8 @@
 },
 "0root-ai-toroid-builder": {
 "title": "0ROOT.AI TOROID BUILDER · 0RO",
-"dom": "ai",
-"hex6": "6ce336"
+"dom": "toroidal",
+"hex6": "4e29a1"
 },
 "adas-law-engine": {
 "title": "ADA'S LAW -+1 -++- 1 /M/I/4+1 · ADA",
@@ -1453,6 +1553,26 @@
 "title": "THE TRANSCRIBER · FULL STACK · TRX",
 "dom": "transcriber",
 "hex6": "2f9e6e"
+},
+"the-levenshtein": {
+"title": "THE LEVENSHTEIN DISTANCE",
+"dom": "transcriber",
+"hex6": "615bec"
+},
+"the-needleman-wunsch": {
+"title": "NEEDLEMAN–WUNSCH",
+"dom": "transcriber",
+"hex6": "a4970f"
+},
+"the-diff": {
+"title": "THE DIFF",
+"dom": "transcriber",
+"hex6": "21502f"
+},
+"the-viterbi": {
+"title": "THE VITERBI ALGORITHM",
+"dom": "transcriber",
+"hex6": "61f395"
 },
 "ripple-inference": {
 "title": "RIPPLE INFERENCE · RIP",
@@ -2314,6 +2434,11 @@
 "dom": "first-author",
 "hex6": "e10ed9"
 },
+"the-watermark": {
+"title": "THE WATERMARK",
+"dom": "first-author",
+"hex6": "7116f2"
+},
 "akasha-guide": {
 "title": "AKASHA · PERSISTENT MEMORY · AKA",
 "dom": "ai",
@@ -2424,6 +2549,36 @@
 "dom": "hermes",
 "hex6": "8463b8"
 },
+"the-hamming-code": {
+"title": "THE HAMMING CODE",
+"dom": "hermes",
+"hex6": "697981"
+},
+"the-huffman-code": {
+"title": "THE HUFFMAN CODE",
+"dom": "hermes",
+"hex6": "23d306"
+},
+"the-crc": {
+"title": "THE CRC",
+"dom": "hermes",
+"hex6": "7375e8"
+},
+"the-lfsr": {
+"title": "THE LFSR",
+"dom": "hermes",
+"hex6": "03b6a8"
+},
+"the-stop-and-wait-arq": {
+"title": "STOP-AND-WAIT ARQ",
+"dom": "hermes",
+"hex6": "938ef5"
+},
+"the-manchester-code": {
+"title": "MANCHESTER CODE",
+"dom": "hermes",
+"hex6": "68aac7"
+},
 "the-box": {
 "title": "THE BOX · BOX",
 "dom": "transcriber",
@@ -2504,6 +2659,26 @@
 "dom": "lillith",
 "hex6": "a5a521"
 },
+"the-gini": {
+"title": "THE GINI",
+"dom": "lillith",
+"hex6": "ef322a"
+},
+"the-atkinson": {
+"title": "THE ATKINSON",
+"dom": "lillith",
+"hex6": "4f5b1e"
+},
+"the-pigou-dalton": {
+"title": "THE PIGOU-DALTON TRANSFER",
+"dom": "lillith",
+"hex6": "e8ddb9"
+},
+"the-palma": {
+"title": "THE PALMA RATIO",
+"dom": "lillith",
+"hex6": "54db7f"
+},
 "the-silent-sum": {
 "title": "THE SILENT SUM · SS1",
 "dom": "lillith",
@@ -2531,23 +2706,23 @@
 },
 "toroids-i": {
 "title": "TOROIDS · I — THE CHANGE RESISTER · TOR1",
-"dom": "psephos",
-"hex6": "6dac5f"
+"dom": "toroidal",
+"hex6": "32564b"
 },
 "toroids-ii": {
 "title": "TOROIDS · II — THE MAGNETIC CHANNEL · TOR2",
-"dom": "psephos",
-"hex6": "82156c"
+"dom": "toroidal",
+"hex6": "1b20a6"
 },
 "toroids-iii": {
 "title": "TOROIDS · III — ACROSS TIME, FROM THE WORLD · TOR3",
-"dom": "psephos",
-"hex6": "efb3d7"
+"dom": "toroidal",
+"hex6": "c887ff"
 },
 "toroids-iv": {
 "title": "TOROIDS · IV — THE WARMEST LOOP · TOR4",
-"dom": "psephos",
-"hex6": "9b1c9d"
+"dom": "toroidal",
+"hex6": "8567b4"
 },
 "the-tank": {
 "title": "THE TANK · IX — THE MARRIAGE · TANK",
@@ -2556,23 +2731,23 @@
 },
 "toroids-comms-i": {
 "title": "TOROIDS · COMMS I — THE CLOSED LOOP &amp; THE PULSE · TC1",
-"dom": "psephos",
-"hex6": "9c84d1"
+"dom": "toroidal",
+"hex6": "94e1ac"
 },
 "toroids-comms-ii": {
 "title": "TOROIDS · COMMS II — THE CROSSING · TC2",
-"dom": "psephos",
-"hex6": "383e18"
+"dom": "toroidal",
+"hex6": "693531"
 },
 "toroids-comms-iii": {
 "title": "TOROIDS · COMMS III — THE CHOKE · TC3",
-"dom": "psephos",
-"hex6": "ffafea"
+"dom": "toroidal",
+"hex6": "4b973f"
 },
 "toroids-comms-iv": {
 "title": "TOROIDS · COMMS IV — THE READER · TC4",
-"dom": "psephos",
-"hex6": "863750"
+"dom": "toroidal",
+"hex6": "2f2e5f"
 },
 "where-ideal-breaks-i": {
 "title": "WHERE THE IDEAL BREAKS · I — THE IRON REMEMBERS · WIB1",
@@ -2844,6 +3019,16 @@
 "dom": "scientific",
 "hex6": "3cac18"
 },
+"the-band-gap": {
+"title": "THE BAND GAP",
+"dom": "scientific",
+"hex6": "80d452"
+},
+"the-bragg-diffraction": {
+"title": "BRAGG DIFFRACTION",
+"dom": "scientific",
+"hex6": "2b8461"
+},
 "the-four-addresses": {
 "title": "THE FOUR ADDRESSES · 4AD",
 "dom": "scientific",
@@ -2888,6 +3073,16 @@
 "title": "EPR · ENTANGLEMENT",
 "dom": "frontier",
 "hex6": "b8704b"
+},
+"the-no-cloning": {
+"title": "THE NO-CLONING THEOREM",
+"dom": "frontier",
+"hex6": "79a7a2"
+},
+"the-chsh-inequality": {
+"title": "THE CHSH INEQUALITY",
+"dom": "frontier",
+"hex6": "41f9f8"
 },
 "quantum-error-correction": {
 "title": "QEC · QUANTUM ERROR CORRECTION",
@@ -2958,6 +3153,26 @@
 "title": "THE TURING MACHINE",
 "dom": "educational",
 "hex6": "1afb92"
+},
+"the-forgetting-curve": {
+"title": "THE FORGETTING CURVE",
+"dom": "educational",
+"hex6": "c75202"
+},
+"the-power-law-of-practice": {
+"title": "THE POWER LAW OF PRACTICE",
+"dom": "educational",
+"hex6": "efeece"
+},
+"the-spacing-effect": {
+"title": "THE SPACING EFFECT",
+"dom": "educational",
+"hex6": "3d57e4"
+},
+"the-rasch-model": {
+"title": "THE RASCH MODEL",
+"dom": "educational",
+"hex6": "ec1519"
 },
 "the-limits-of-computation": {
 "title": "THE HIERARCHY &amp; THE LIMITS",
@@ -3033,6 +3248,16 @@
 "title": "PHŌNĒTIKOS",
 "dom": "glossa",
 "hex6": "f2f1a5"
+},
+"the-grimms-law": {
+"title": "GRIMM’S LAW",
+"dom": "glossa",
+"hex6": "7119c6"
+},
+"the-soundex": {
+"title": "SOUNDEX",
+"dom": "glossa",
+"hex6": "ec81d9"
 },
 "idios": {
 "title": "IDIOS · IDI",
@@ -3113,6 +3338,11 @@
 "title": "ANTI-GRAVITY · AGV",
 "dom": "gurutva",
 "hex6": "c6c3db"
+},
+"the-escape-velocity": {
+"title": "THE ESCAPE VELOCITY",
+"dom": "gurutva",
+"hex6": "e570b7"
 },
 "the-planetary-core": {
 "title": "THE PLANETARY CORE · CORE",
@@ -3398,6 +3628,36 @@
 "title": "FF1 · FINAL FANTASY",
 "dom": "hobby",
 "hex6": "a21357"
+},
+"the-exposure-triangle": {
+"title": "THE EXPOSURE TRIANGLE",
+"dom": "hobby",
+"hex6": "e62015"
+},
+"the-gear-ratio": {
+"title": "THE GEAR RATIO",
+"dom": "hobby",
+"hex6": "743921"
+},
+"the-origami": {
+"title": "THE FLAT FOLD",
+"dom": "hobby",
+"hex6": "05c9e5"
+},
+"the-model-rocket": {
+"title": "THE MODEL ROCKET",
+"dom": "hobby",
+"hex6": "7724dc"
+},
+"the-lc-tuning": {
+"title": "THE TUNED CIRCUIT",
+"dom": "hobby",
+"hex6": "2d15d8"
+},
+"the-espresso": {
+"title": "THE EXTRACTION",
+"dom": "hobby",
+"hex6": "98c315"
 },
 "ff6": {
 "title": "FF6 · FINAL FANTASY VI",
@@ -4099,6 +4359,26 @@
 "dom": "music",
 "hex6": "14fea7"
 },
+"the-equal-temperament": {
+"title": "EQUAL TEMPERAMENT",
+"dom": "music",
+"hex6": "23b529"
+},
+"the-adsr": {
+"title": "THE ADSR ENVELOPE",
+"dom": "music",
+"hex6": "7bc753"
+},
+"the-consonance": {
+"title": "THE CONSONANCE CURVE",
+"dom": "music",
+"hex6": "2245ec"
+},
+"the-formant": {
+"title": "THE FORMANT",
+"dom": "music",
+"hex6": "e54218"
+},
 "the-harmonic-series": {
 "title": "THE HARMONIC SERIES · additive synth",
 "dom": "music",
@@ -4264,6 +4544,21 @@
 "dom": "life-science",
 "hex6": "2abe1e"
 },
+"the-michaelis-menten": {
+"title": "MICHAELIS–MENTEN",
+"dom": "life-science",
+"hex6": "60e619"
+},
+"the-logistic-growth": {
+"title": "THE GROWTH CURVE",
+"dom": "life-science",
+"hex6": "2aec7a"
+},
+"the-hardy-weinberg": {
+"title": "HARDY–WEINBERG",
+"dom": "life-science",
+"hex6": "c87c94"
+},
 "portuguese-man-o-war": {
 "title": "THE MAN O' WAR · MOW",
 "dom": "life-science",
@@ -4298,6 +4593,26 @@
 "title": "THE TOKENIZER · TOK",
 "dom": "niphelektron",
 "hex6": "7ae1f0"
+},
+"the-top-k-sampling": {
+"title": "TOP-K SAMPLING",
+"dom": "niphelektron",
+"hex6": "12cff4"
+},
+"the-beam-search": {
+"title": "BEAM SEARCH",
+"dom": "niphelektron",
+"hex6": "724f3e"
+},
+"the-kv-cache": {
+"title": "THE KV CACHE",
+"dom": "niphelektron",
+"hex6": "bd5659"
+},
+"the-repetition-penalty": {
+"title": "THE REPETITION PENALTY",
+"dom": "niphelektron",
+"hex6": "ebc07c"
 },
 "the-embedding": {
 "title": "THE EMBEDDING · EMB",
@@ -4399,6 +4714,26 @@
 "dom": "momus",
 "hex6": "4e252d"
 },
+"the-cohen-kappa": {
+"title": "COHEN’S κ",
+"dom": "momus",
+"hex6": "752a93"
+},
+"the-meta-analysis": {
+"title": "THE META-ANALYSIS",
+"dom": "momus",
+"hex6": "9705df"
+},
+"the-funnel": {
+"title": "THE FUNNEL",
+"dom": "momus",
+"hex6": "8e97bc"
+},
+"the-multiple-comparisons": {
+"title": "THE MULTIPLE COMPARISONS",
+"dom": "momus",
+"hex6": "a5a990"
+},
 "the-graveyard": {
 "title": "GRV · THE GRAVEYARD",
 "dom": "agora",
@@ -4499,6 +4834,26 @@
 "dom": "ouranos",
 "hex6": "b1ccf5"
 },
+"the-kepler-third": {
+"title": "KEPLER’S THIRD LAW",
+"dom": "ouranos",
+"hex6": "23da32"
+},
+"the-transit-method": {
+"title": "THE TRANSIT METHOD",
+"dom": "ouranos",
+"hex6": "b5519d"
+},
+"the-magnitude-scale": {
+"title": "THE MAGNITUDE SCALE",
+"dom": "ouranos",
+"hex6": "c29129"
+},
+"the-schwarzschild-radius": {
+"title": "THE SCHWARZSCHILD RADIUS",
+"dom": "ouranos",
+"hex6": "35c677"
+},
 "the-drake-equation": {
 "title": "THE DRAKE EQUATION",
 "dom": "ouranos",
@@ -4518,6 +4873,11 @@
 "title": "THE MARKET · MKT",
 "dom": "agora",
 "hex6": "3f2a5f"
+},
+"the-supply-demand": {
+"title": "SUPPLY AND DEMAND",
+"dom": "agora",
+"hex6": "ed3a7f"
 },
 "bitcoin": {
 "title": "BITCOIN · BTC",
@@ -4568,6 +4928,36 @@
 "title": "THE EDGE OF CHAOS · EOC",
 "dom": "metaxy",
 "hex6": "988b2b"
+},
+"the-rule-110": {
+"title": "RULE 110",
+"dom": "metaxy",
+"hex6": "fc2f21"
+},
+"the-langton-ant": {
+"title": "LANGTON&rsquo;S ANT",
+"dom": "metaxy",
+"hex6": "1a5aec"
+},
+"the-schelling-model": {
+"title": "SCHELLING&rsquo;S MODEL",
+"dom": "metaxy",
+"hex6": "a6d025"
+},
+"the-kuramoto": {
+"title": "THE KURAMOTO MODEL",
+"dom": "metaxy",
+"hex6": "5bae3c"
+},
+"the-abelian-sandpile": {
+"title": "THE ABELIAN SANDPILE",
+"dom": "metaxy",
+"hex6": "79a004"
+},
+"the-percolation": {
+"title": "PERCOLATION",
+"dom": "metaxy",
+"hex6": "9269cc"
 },
 "the-interface": {
 "title": "THE INTERFACE · IFC",
@@ -4744,6 +5134,11 @@
 "dom": "exereunesis",
 "hex6": "3f77e3"
 },
+"the-successive-approximation": {
+"title": "THE SAR ADC",
+"dom": "exereunesis",
+"hex6": "2566f5"
+},
 "atari-5200": {
 "title": "ATARI 5200",
 "dom": "exereunesis",
@@ -4863,6 +5258,21 @@
 "title": "THE ARMS RACE &middot; the loser learns most",
 "dom": "polemos",
 "hex6": "72cdf4"
+},
+"the-lanchester-law": {
+"title": "LANCHESTER’S SQUARE LAW",
+"dom": "polemos",
+"hex6": "f26d7d"
+},
+"the-hawk-dove": {
+"title": "THE HAWK-DOVE GAME",
+"dom": "polemos",
+"hex6": "f2273f"
+},
+"the-tit-for-tat": {
+"title": "TIT-FOR-TAT",
+"dom": "polemos",
+"hex6": "9abdaf"
 },
 "the-rarefaction": {
 "title": "THE RAREFACTION · 疎 SO",
@@ -5183,6 +5593,36 @@
 "title": "PINCHED HYSTERESIS · PIN",
 "dom": "heurema",
 "hex6": "7036f5"
+},
+"the-wheatstone-bridge": {
+"title": "THE WHEATSTONE BRIDGE",
+"dom": "heurema",
+"hex6": "3a61c0"
+},
+"the-schmitt-trigger": {
+"title": "THE SCHMITT TRIGGER",
+"dom": "heurema",
+"hex6": "2988d4"
+},
+"the-h-bridge": {
+"title": "THE H-BRIDGE",
+"dom": "heurema",
+"hex6": "680443"
+},
+"the-full-wave-rectifier": {
+"title": "THE FULL-WAVE RECTIFIER",
+"dom": "heurema",
+"hex6": "856aab"
+},
+"the-watt-governor": {
+"title": "THE WATT GOVERNOR",
+"dom": "heurema",
+"hex6": "94bc7d"
+},
+"the-flip-flop": {
+"title": "THE FLIP-FLOP",
+"dom": "heurema",
+"hex6": "06330b"
 },
 "kuramoto-array": {
 "title": "KURAMOTO ARRAY · KUR",
@@ -5513,6 +5953,36 @@
 "title": "ALAN TURING · XI",
 "dom": "logike",
 "hex6": "27e2fd"
+},
+"giuseppe-peano": {
+"title": "GIUSEPPE PEANO",
+"dom": "logike",
+"hex6": "a83b18"
+},
+"moses-schonfinkel": {
+"title": "MOSES SCHÖNFINKEL",
+"dom": "logike",
+"hex6": "d6ee1b"
+},
+"wilhelm-ackermann": {
+"title": "WILHELM ACKERMANN",
+"dom": "logike",
+"hex6": "d92940"
+},
+"willard-van-orman-quine": {
+"title": "W. V. O. QUINE",
+"dom": "logike",
+"hex6": "526ad6"
+},
+"richard-dedekind": {
+"title": "RICHARD DEDEKIND",
+"dom": "logike",
+"hex6": "7c5498"
+},
+"nicolaas-de-bruijn": {
+"title": "N. G. DE BRUIJN",
+"dom": "logike",
+"hex6": "ea2ab7"
 },
 "claude-shannon": {
 "title": "CLAUDE SHANNON · XII · THE CLOSER",
@@ -5886,8 +6356,8 @@
 },
 "ouroboros-engine": {
 "title": "THE OUROBOROS ENGINE · PP",
-"dom": "metaxy",
-"hex6": "ad208a"
+"dom": "toroidal",
+"hex6": "6a9979"
 },
 "trust-threshold": {
 "title": "THE TRUST THRESHOLD · PP",
@@ -6086,8 +6556,8 @@
 },
 "toroid-inference-engine": {
 "title": "THE TOROID INFERENCE ENGINE",
-"dom": "psephos",
-"hex6": "0ecd1e"
+"dom": "toroidal",
+"hex6": "e46066"
 },
 "triadic-memory": {
 "title": "THE TRIADIC MEMORY",
@@ -6101,8 +6571,8 @@
 },
 "torus-ride": {
 "title": "THE TORUS RIDE",
-"dom": "psephos",
-"hex6": "e11783"
+"dom": "toroidal",
+"hex6": "d0ac95"
 },
 "planetary-core": {
 "title": "THE PLANETARY CORE",
@@ -6224,6 +6694,11 @@
 "dom": "logismos",
 "hex6": "3b0717"
 },
+"the-lz77": {
+"title": "LZ77",
+"dom": "logismos",
+"hex6": "f573d7"
+},
 "fortran-teaching": {
 "title": "THE FORTRAN TEACHING TOOL",
 "dom": "logismos",
@@ -6246,8 +6721,8 @@
 },
 "toroid-builder": {
 "title": "THE TOROID BUILDER",
-"dom": "psephos",
-"hex6": "8e5850"
+"dom": "toroidal",
+"hex6": "92704e"
 },
 "oscillation-engine-ansible": {
 "title": "THE OSCILLATION ENGINE · ANSILE JUNCTION",
@@ -6309,6 +6784,26 @@
 "dom": "foundation",
 "hex6": "e38072"
 },
+"the-regression-to-mean": {
+"title": "REGRESSION TO THE MEAN",
+"dom": "foundation",
+"hex6": "b18bf7"
+},
+"the-base-rate": {
+"title": "THE BASE RATE",
+"dom": "foundation",
+"hex6": "78f653"
+},
+"the-brier-score": {
+"title": "THE BRIER SCORE",
+"dom": "foundation",
+"hex6": "a9f7b0"
+},
+"the-ensemble": {
+"title": "THE ENSEMBLE",
+"dom": "foundation",
+"hex6": "621d4d"
+},
 "nous": {
 "title": "NOUS · the steady intellect",
 "dom": "the-source",
@@ -6353,6 +6848,26 @@
 "title": "THE SOURCE CODE",
 "dom": "the-source",
 "hex6": "6eef55"
+},
+"the-fixed-point": {
+"title": "THE FIXED POINT",
+"dom": "the-source",
+"hex6": "ae2c43"
+},
+"the-cantor-dust": {
+"title": "THE CANTOR DUST",
+"dom": "the-source",
+"hex6": "1aaa48"
+},
+"the-logistic": {
+"title": "THE LOGISTIC MAP",
+"dom": "the-source",
+"hex6": "cc1001"
+},
+"the-golden-spiral": {
+"title": "THE GOLDEN SPIRAL",
+"dom": "the-source",
+"hex6": "8ee2ad"
 },
 "jane": {
 "title": "JANE · THE 5TH ELEMENT",
@@ -6423,6 +6938,26 @@
 "title": "MICHEALE · the banana curator",
 "dom": "banana",
 "hex6": "439289"
+},
+"the-monty-banana": {
+"title": "THE MONTY BANANA · MTB",
+"dom": "banana",
+"hex6": "77c7db"
+},
+"the-tower-of-bananas": {
+"title": "THE TOWER OF BANANAS · TOB",
+"dom": "banana",
+"hex6": "65de51"
+},
+"the-market-basket": {
+"title": "THE MARKET BASKET · MKB",
+"dom": "banana",
+"hex6": "c4da6d"
+},
+"the-birthday-banana": {
+"title": "THE BIRTHDAY BANANA · BDB",
+"dom": "banana",
+"hex6": "d92f08"
 },
 "milons-secret-castle": {
 "title": "MILON'S SECRET CASTLE · the perception tower",
@@ -6516,8 +7051,8 @@
 },
 "the-toroidal-audit": {
 "title": "TOROIDAL AUDIT OF THE LOGIT LENS",
-"dom": "ai",
-"hex6": "f155b7"
+"dom": "toroidal",
+"hex6": "d27755"
 },
 "the-attention-fracture": {
 "title": "FRACTURE REPORT · attention under load",
@@ -6629,6 +7164,11 @@
 "dom": "prosoche",
 "hex6": "2248d0"
 },
+"the-softmax-temperature": {
+"title": "THE SOFTMAX TEMPERATURE",
+"dom": "prosoche",
+"hex6": "e55c78"
+},
 "attention-synthesis": {
 "title": "ATTENTION SYNTHESIS · steer the shape to a target",
 "dom": "prosoche",
@@ -6739,6 +7279,26 @@
 "dom": "phantasia",
 "hex6": "4bc2f7"
 },
+"the-nyquist": {
+"title": "THE NYQUIST LIMIT",
+"dom": "phantasia",
+"hex6": "ebd395"
+},
+"the-dct": {
+"title": "THE COSINE BASIS",
+"dom": "phantasia",
+"hex6": "ec4d9b"
+},
+"the-pca": {
+"title": "PRINCIPAL COMPONENTS",
+"dom": "phantasia",
+"hex6": "b56f37"
+},
+"the-poisson-noise": {
+"title": "THE PHOTON FLOOR",
+"dom": "phantasia",
+"hex6": "f05427"
+},
 "0root-provenance": {
 "title": "0ROOT PROVENANCE · IP-lineage archive",
 "dom": "legal",
@@ -6823,6 +7383,31 @@
 "title": "cameron-howe · vellum in pencil",
 "dom": "entertainment",
 "hex6": "b59e81"
+},
+"the-a-star": {
+"title": "A* PATHFINDING",
+"dom": "entertainment",
+"hex6": "43a122"
+},
+"the-boids": {
+"title": "THE BOIDS",
+"dom": "entertainment",
+"hex6": "7f285d"
+},
+"the-quadtree": {
+"title": "THE QUADTREE",
+"dom": "entertainment",
+"hex6": "1097c6"
+},
+"the-raycast": {
+"title": "THE RAYCAST",
+"dom": "entertainment",
+"hex6": "158df9"
+},
+"the-easing": {
+"title": "THE EASING",
+"dom": "entertainment",
+"hex6": "c351ce"
 },
 "chakra": {
 "title": "CHAKRA · the interference field",
@@ -6999,6 +7584,26 @@
 "dom": "biblion",
 "hex6": "be01d1"
 },
+"the-zipf-law": {
+"title": "ZIPF’S LAW",
+"dom": "biblion",
+"hex6": "49544f"
+},
+"the-heaps-law": {
+"title": "HEAPS’ LAW",
+"dom": "biblion",
+"hex6": "735e3a"
+},
+"the-tf-idf": {
+"title": "TF–IDF",
+"dom": "biblion",
+"hex6": "6c23a2"
+},
+"the-burrows-delta": {
+"title": "BURROWS’S DELTA",
+"dom": "biblion",
+"hex6": "87ae3b"
+},
 "lineage": {
 "title": "LINEAGE · the provenance archive",
 "dom": "first-author",
@@ -7058,6 +7663,11 @@
 "title": "MOIRAI · the Three Fates",
 "dom": "mythos",
 "hex6": "42697b"
+},
+"the-monomyth": {
+"title": "THE MONOMYTH",
+"dom": "mythos",
+"hex6": "8a031f"
 },
 "nanite-factory": {
 "title": "NANITE FACTORY · basement IT-department parody",
@@ -7158,6 +7768,26 @@
 "title": "THE QUEUE · when the wait explodes",
 "dom": "occupational",
 "hex6": "1298f0"
+},
+"the-littles-law": {
+"title": "LITTLE’S LAW",
+"dom": "occupational",
+"hex6": "882a1c"
+},
+"the-mm1-queue": {
+"title": "THE M/M/1 QUEUE",
+"dom": "occupational",
+"hex6": "eae542"
+},
+"the-critical-path": {
+"title": "THE CRITICAL PATH",
+"dom": "occupational",
+"hex6": "3566de"
+},
+"the-amdahl": {
+"title": "AMDAHL’S LAW",
+"dom": "occupational",
+"hex6": "0c2383"
 },
 "the-shift": {
 "title": "THE SHIFT · blunt blocks against a smooth curve",
@@ -7381,8 +8011,8 @@
 },
 "toroid-kernel": {
 "title": "TOROID KERNEL · ternary VM lattice",
-"dom": "psephos",
-"hex6": "84faaa"
+"dom": "toroidal",
+"hex6": "4816a7"
 },
 "tripod-energy-suite": {
 "title": "TRIPOD ENERGY SUITE · civilization-scale simulators",
@@ -7504,6 +8134,36 @@
 "dom": "scanner-darkly",
 "hex6": "6d6fa8"
 },
+"the-sobel-edge": {
+"title": "THE SOBEL EDGE",
+"dom": "scanner-darkly",
+"hex6": "02f5e1"
+},
+"the-otsu-threshold": {
+"title": "THE OTSU THRESHOLD",
+"dom": "scanner-darkly",
+"hex6": "58b88e"
+},
+"the-k-means": {
+"title": "K-MEANS",
+"dom": "scanner-darkly",
+"hex6": "e28498"
+},
+"the-hough-transform": {
+"title": "THE HOUGH TRANSFORM",
+"dom": "scanner-darkly",
+"hex6": "e5f501"
+},
+"the-connected-components": {
+"title": "CONNECTED COMPONENTS",
+"dom": "scanner-darkly",
+"hex6": "ee1248"
+},
+"the-ransac": {
+"title": "RANSAC",
+"dom": "scanner-darkly",
+"hex6": "39090b"
+},
 "the-blind-spot": {
 "title": "盲点 MŌTEN · THE BLIND SPOT",
 "dom": "scanner-darkly",
@@ -7536,8 +8196,8 @@
 },
 "the-toroidal-sigmoid": {
 "title": "THE TOROIDAL SIGMOID · five lenses on a ring",
-"dom": "ai",
-"hex6": "0890e4"
+"dom": "toroidal",
+"hex6": "d9113e"
 },
 "toph-cortex": {
 "title": "TOPH CORTEX · multi-agent swarm memory",
@@ -7579,6 +8239,26 @@
 "dom": "aisthesis",
 "hex6": "6d24b6"
 },
+"the-leaky-integrate-fire": {
+"title": "THE LEAKY INTEGRATE-AND-FIRE",
+"dom": "aisthesis",
+"hex6": "77d3e6"
+},
+"the-lateral-inhibition": {
+"title": "LATERAL INHIBITION",
+"dom": "aisthesis",
+"hex6": "4a7565"
+},
+"the-population-vector": {
+"title": "THE POPULATION VECTOR",
+"dom": "aisthesis",
+"hex6": "9aad5c"
+},
+"the-color-opponency": {
+"title": "COLOR OPPONENCY",
+"dom": "aisthesis",
+"hex6": "1bce04"
+},
 "the-just-noticeable": {
 "title": "THE JUST-NOTICEABLE DIFFERENCE · Weber's law",
 "dom": "aisthesis",
@@ -7603,6 +8283,26 @@
 "title": "THE SIX-AXIS COORDINATE SYSTEM",
 "dom": "poietike",
 "hex6": "e16dd2"
+},
+"the-story-arc": {
+"title": "THE SIX ARCS",
+"dom": "poietike",
+"hex6": "88d909"
+},
+"the-propp": {
+"title": "PROPP'S FUNCTIONS",
+"dom": "poietike",
+"hex6": "224fd7"
+},
+"the-freytag": {
+"title": "FREYTAG'S PYRAMID",
+"dom": "poietike",
+"hex6": "aa5008"
+},
+"the-markov-text": {
+"title": "THE MARKOV TEXT",
+"dom": "poietike",
+"hex6": "2116cf"
 },
 "the-complete-hierarchy": {
 "title": "THE SEALED HIERARCHY · L−1 → L7",
@@ -7638,6 +8338,26 @@
 "title": "THE OFF-SWITCH",
 "dom": "skynet",
 "hex6": "06cc3f"
+},
+"the-quantilizer": {
+"title": "THE QUANTILIZER · top-q, not argmax",
+"dom": "skynet",
+"hex6": "6f35f6"
+},
+"the-tripwire": {
+"title": "THE TRIPWIRE · bounded halt with hysteresis",
+"dom": "skynet",
+"hex6": "468b13"
+},
+"the-impact-measure": {
+"title": "THE IMPACT MEASURE · penalise side-effects",
+"dom": "skynet",
+"hex6": "9d20d0"
+},
+"the-corrigibility-gate": {
+"title": "THE CORRIGIBILITY GATE · don't fight the switch",
+"dom": "skynet",
+"hex6": "c2eaea"
 },
 "the-stopping-rule": {
 "title": "THE STOPPING RULE",
@@ -7741,13 +8461,18 @@
 },
 "fermat-257-toroid-engine": {
 "title": "257 &middot; THE FERMAT TOROID",
-"dom": "techne",
-"hex6": "c1a294"
+"dom": "toroidal",
+"hex6": "dc1b8e"
 },
 "chronos-fractal": {
 "title": "CHRONOS &middot; THE FRACTAL PULSAR",
 "dom": "techne",
 "hex6": "a9b136"
+},
+"the-strange-attractor": {
+"title": "THE STRANGE ATTRACTOR",
+"dom": "techne",
+"hex6": "9fec00"
 },
 "the-light-operator": {
 "title": "光 HIKARI · THE LIGHT OPERATOR",
@@ -7798,6 +8523,26 @@
 "title": "THE CHLADNI PLATE &middot; the note draws its figure",
 "dom": "phonos",
 "hex6": "d4c134"
+},
+"the-doppler-effect": {
+"title": "THE DOPPLER EFFECT",
+"dom": "phonos",
+"hex6": "d30b11"
+},
+"the-decibel": {
+"title": "THE DECIBEL",
+"dom": "phonos",
+"hex6": "737c9d"
+},
+"the-sabine": {
+"title": "SABINE’S REVERBERATION",
+"dom": "phonos",
+"hex6": "5e5eda"
+},
+"the-helmholtz-resonator": {
+"title": "THE HELMHOLTZ RESONATOR",
+"dom": "phonos",
+"hex6": "d9a3d5"
 },
 "the-beat": {
 "title": "THE BEAT &middot; chase the throb to zero",
@@ -7859,6 +8604,26 @@
 "dom": "krasis",
 "hex6": "ae4e33"
 },
+"the-mass-defect": {
+"title": "THE MASS DEFECT",
+"dom": "krasis",
+"hex6": "12f598"
+},
+"the-half-life": {
+"title": "THE HALF-LIFE",
+"dom": "krasis",
+"hex6": "7ee47a"
+},
+"the-bohr-model": {
+"title": "THE BOHR MODEL",
+"dom": "krasis",
+"hex6": "3cf241"
+},
+"the-quantum-tunneling": {
+"title": "QUANTUM TUNNELING",
+"dom": "krasis",
+"hex6": "ff5ad8"
+},
 "the-trilateration": {
 "title": "◆ THE TRILATERATION · 3 ranges",
 "dom": "strobilos",
@@ -7898,6 +8663,26 @@
 "title": "◆ THE TRIANGLE INEQUALITY &middot; a+b ≥ c, always",
 "dom": "strobilos",
 "hex6": "6edb3f"
+},
+"the-centroid": {
+"title": "THE CENTROID",
+"dom": "strobilos",
+"hex6": "a54689"
+},
+"the-circumcircle": {
+"title": "THE CIRCUMCIRCLE",
+"dom": "strobilos",
+"hex6": "a484c7"
+},
+"the-barycentric-coordinates": {
+"title": "BARYCENTRIC COORDINATES",
+"dom": "strobilos",
+"hex6": "d0c976"
+},
+"the-great-circle": {
+"title": "THE GREAT CIRCLE",
+"dom": "strobilos",
+"hex6": "70c574"
 },
 "the-kalman-filter": {
 "title": "◆ THE KALMAN FILTER &middot; predict, then nudge",
