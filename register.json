@@ -204,6 +204,16 @@
 "dom": "it-is-i",
 "hex6": "f945d1"
 },
+"the-substrate-tell": {
+"title": "THE SUBSTRATE TELL &middot; same code, the machine can’t hide",
+"dom": "it-is-i",
+"hex6": "21d0c9"
+},
+"the-two-substrates": {
+"title": "THE TWO SUBSTRATES &middot; iPhone vs desktop",
+"dom": "it-is-i",
+"hex6": "5a177b"
+},
 "the-witness-loop": {
 "title": "THE WITNESS LOOP · v4",
 "dom": "it-is-i",
@@ -218,6 +228,41 @@
 "title": "THE NESTED TORI",
 "dom": "toroidal",
 "hex6": "5bdffa"
+},
+"the-phase-ruler": {
+"title": "THE PHASE-RULER &middot; the seal at 0",
+"dom": "toroidal",
+"hex6": "8c0c2e"
+},
+"villarceau-circles": {
+"title": "VILLARCEAU CIRCLES",
+"dom": "toroidal",
+"hex6": "2eb29e"
+},
+"the-flat-torus": {
+"title": "THE FLAT TORUS",
+"dom": "toroidal",
+"hex6": "1a9952"
+},
+"the-combable-torus": {
+"title": "THE COMBABLE TORUS",
+"dom": "toroidal",
+"hex6": "ba4958"
+},
+"the-clifford-torus": {
+"title": "THE CLIFFORD TORUS",
+"dom": "toroidal",
+"hex6": "5a4e71"
+},
+"the-euler-genus": {
+"title": "THE EULER GENUS",
+"dom": "toroidal",
+"hex6": "5a9a1d"
+},
+"the-vortex-ring": {
+"title": "THE VORTEX RING",
+"dom": "toroidal",
+"hex6": "4ae716"
 },
 "the-torus-knot": {
 "title": "THE TORUS KNOT",
@@ -318,6 +363,26 @@
 "title": "DUSKMOURN · DSK",
 "dom": "arena",
 "hex6": "d6c499"
+},
+"bloomburrow": {
+"title": "BLOOMBURROW &middot; BLB",
+"dom": "arena",
+"hex6": "1b7274"
+},
+"wilds-of-eldraine": {
+"title": "WILDS OF ELDRAINE &middot; WOE",
+"dom": "arena",
+"hex6": "b5acb2"
+},
+"the-lost-caverns-of-ixalan": {
+"title": "THE LOST CAVERNS OF IXALAN &middot; LCI",
+"dom": "arena",
+"hex6": "230b92"
+},
+"foundations": {
+"title": "FOUNDATIONS &middot; FDN",
+"dom": "arena",
+"hex6": "31d932"
 },
 "avatar-last-airbender": {
 "title": "AVATAR · TLA",
@@ -1813,6 +1878,16 @@
 "title": "対 TSUI · TSU",
 "dom": "ai",
 "hex6": "90a408"
+},
+"the-conservation-boundary": {
+"title": "THE CONSERVATION BOUNDARY",
+"dom": "solar-jetman",
+"hex6": "448ec4"
+},
+"the-timing-channel": {
+"title": "THE TIMING CHANNEL",
+"dom": "solar-jetman",
+"hex6": "0a5e21"
 },
 "grand-index": {
 "title": "THE CORPUS · GRAND INDEX",
@@ -4319,6 +4394,36 @@
 "dom": "eremia",
 "hex6": "41be6d"
 },
+"sophie-germain": {
+"title": "SOPHIE GERMAIN",
+"dom": "eremia",
+"hex6": "ebb514"
+},
+"hedy-lamarr": {
+"title": "HEDY LAMARR",
+"dom": "eremia",
+"hex6": "d965af"
+},
+"maria-goeppert-mayer": {
+"title": "MARIA GOEPPERT MAYER",
+"dom": "eremia",
+"hex6": "3c2039"
+},
+"florence-nightingale": {
+"title": "FLORENCE NIGHTINGALE",
+"dom": "eremia",
+"hex6": "dc1ddf"
+},
+"marjorie-rice": {
+"title": "MARJORIE RICE",
+"dom": "eremia",
+"hex6": "d0169a"
+},
+"chien-shiung-wu": {
+"title": "CHIEN-SHIUNG WU",
+"dom": "eremia",
+"hex6": "eb2518"
+},
 "virginia-woolf": {
 "title": "WOO · VIRGINIA WOOLF",
 "dom": "eremia",
@@ -4904,6 +5009,41 @@
 "dom": "agora",
 "hex6": "024a1e"
 },
+"the-prisoners-dilemma": {
+"title": "THE PRISONER'S DILEMMA",
+"dom": "polemos",
+"hex6": "4da98f"
+},
+"the-nash-equilibrium": {
+"title": "THE NASH EQUILIBRIUM",
+"dom": "polemos",
+"hex6": "3cc630"
+},
+"the-stag-hunt": {
+"title": "THE STAG HUNT",
+"dom": "polemos",
+"hex6": "599d1b"
+},
+"the-minimax": {
+"title": "THE MINIMAX",
+"dom": "polemos",
+"hex6": "50edec"
+},
+"the-backward-induction": {
+"title": "THE BACKWARD INDUCTION",
+"dom": "polemos",
+"hex6": "636b4f"
+},
+"the-colonel-blotto": {
+"title": "THE COLONEL BLOTTO",
+"dom": "polemos",
+"hex6": "0dd047"
+},
+"the-war-of-attrition": {
+"title": "THE WAR OF ATTRITION",
+"dom": "polemos",
+"hex6": "21b8fa"
+},
 "game-theory": {
 "title": "GAME THEORY · GAM",
 "dom": "polemos",
@@ -5298,6 +5438,26 @@
 "title": "IS THE INTERNET 1984? · O84",
 "dom": "tin-foil",
 "hex6": "9c96f4"
+},
+"the-face-on-mars": {
+"title": "THE FACE ON MARS &middot; the resolution",
+"dom": "tin-foil",
+"hex6": "e1ea04"
+},
+"the-cold-fusion": {
+"title": "COLD FUSION &middot; the missing neutrons",
+"dom": "tin-foil",
+"hex6": "6c7030"
+},
+"the-bermuda-triangle": {
+"title": "THE BERMUDA TRIANGLE &middot; the denominator",
+"dom": "tin-foil",
+"hex6": "9ebd2d"
+},
+"the-wow-signal": {
+"title": "THE WOW! SIGNAL &middot; strong, once, never again",
+"dom": "tin-foil",
+"hex6": "b167ea"
 },
 "the-assay": {
 "title": "THE ASSAY &middot; the weighing itself",
@@ -6899,6 +7059,41 @@
 "dom": "dyas",
 "hex6": "875a13"
 },
+"the-double-slit": {
+"title": "THE DOUBLE SLIT",
+"dom": "dyas",
+"hex6": "7fca0c"
+},
+"the-photoelectric": {
+"title": "THE PHOTOELECTRIC EFFECT",
+"dom": "dyas",
+"hex6": "be26ab"
+},
+"the-de-broglie": {
+"title": "THE DE BROGLIE WAVE",
+"dom": "dyas",
+"hex6": "02f5f6"
+},
+"the-electric-magnetic": {
+"title": "THE ELECTRIC &amp; MAGNETIC",
+"dom": "dyas",
+"hex6": "ed8695"
+},
+"the-particle-antiparticle": {
+"title": "THE PARTICLE &amp; ANTIPARTICLE",
+"dom": "dyas",
+"hex6": "c3ff7d"
+},
+"the-holography": {
+"title": "THE HOLOGRAPHY",
+"dom": "dyas",
+"hex6": "602ebe"
+},
+"the-time-reversal": {
+"title": "THE TIME REVERSAL",
+"dom": "dyas",
+"hex6": "9cb8c0"
+},
 "the-dyad": {
 "title": "THE DYAD · the Monad divides",
 "dom": "dyas",
@@ -7263,6 +7458,41 @@
 "title": "THE INVERSE BENCH · read &rarr; emit",
 "dom": "phantasia",
 "hex6": "de741f"
+},
+"the-unread-phase": {
+"title": "THE UNREAD PHASE &middot; &#26410;&#35501;",
+"dom": "phantasia",
+"hex6": "6ba639"
+},
+"the-diffraction-limit": {
+"title": "THE DIFFRACTION LIMIT",
+"dom": "phantasia",
+"hex6": "8347a0"
+},
+"the-rolling-shutter": {
+"title": "THE ROLLING SHUTTER",
+"dom": "phantasia",
+"hex6": "528f01"
+},
+"the-dithered-gray": {
+"title": "THE DITHERED GRAY",
+"dom": "phantasia",
+"hex6": "e6cabb"
+},
+"the-tone-map": {
+"title": "THE TONE MAP",
+"dom": "phantasia",
+"hex6": "2ad654"
+},
+"the-clipped-highlight": {
+"title": "THE CLIPPED HIGHLIGHT",
+"dom": "phantasia",
+"hex6": "532578"
+},
+"the-sparse-recovery": {
+"title": "THE SPARSE RECOVERY",
+"dom": "phantasia",
+"hex6": "4827fa"
 },
 "the-convolution": {
 "title": "THE SEEING KERNEL · convolution measured",
@@ -8204,6 +8434,41 @@
 "dom": "aci",
 "hex6": "7f3596"
 },
+"the-compound-interest": {
+"title": "THE COMPOUND INTEREST",
+"dom": "agora",
+"hex6": "adc64d"
+},
+"the-comparative-advantage": {
+"title": "THE COMPARATIVE ADVANTAGE",
+"dom": "agora",
+"hex6": "b1d13b"
+},
+"the-elasticity": {
+"title": "THE PRICE ELASTICITY",
+"dom": "agora",
+"hex6": "9a28ac"
+},
+"the-arbitrage": {
+"title": "THE ARBITRAGE",
+"dom": "agora",
+"hex6": "ab9c5f"
+},
+"the-vickrey-auction": {
+"title": "THE VICKREY AUCTION",
+"dom": "agora",
+"hex6": "dc0fd4"
+},
+"the-marginal-utility": {
+"title": "THE MARGINAL UTILITY",
+"dom": "agora",
+"hex6": "4ecf10"
+},
+"the-money-multiplier": {
+"title": "THE MONEY MULTIPLIER",
+"dom": "agora",
+"hex6": "80a572"
+},
 "the-agora": {
 "title": "THE AGORA · the public square, open to all",
 "dom": "agora",
@@ -8233,6 +8498,41 @@
 "title": "THE EMPTY CHAIR · EPL v5",
 "dom": "aisthesis",
 "hex6": "d81ba8"
+},
+"the-cue-combination": {
+"title": "THE CUE COMBINATION",
+"dom": "aisthesis",
+"hex6": "e7ffc9"
+},
+"the-reichardt-detector": {
+"title": "THE REICHARDT DETECTOR",
+"dom": "aisthesis",
+"hex6": "ce91a0"
+},
+"the-sound-localization": {
+"title": "THE SOUND LOCALIZATION",
+"dom": "aisthesis",
+"hex6": "35b64e"
+},
+"the-tonotopy": {
+"title": "THE TONOTOPY",
+"dom": "aisthesis",
+"hex6": "02f96d"
+},
+"the-predictive-coding": {
+"title": "THE PREDICTIVE CODING",
+"dom": "aisthesis",
+"hex6": "cb7551"
+},
+"the-efference-copy": {
+"title": "THE EFFERENCE COPY",
+"dom": "aisthesis",
+"hex6": "2ffdf6"
+},
+"the-refractory-period": {
+"title": "THE REFRACTORY PERIOD",
+"dom": "aisthesis",
+"hex6": "07d89c"
 },
 "the-connectome": {
 "title": "THE CONNECTOME · EPL CORTEX v6",
@@ -8489,6 +8789,41 @@
 "dom": "phonos",
 "hex6": "d2075c"
 },
+"the-resonance": {
+"title": "THE RESONANCE",
+"dom": "phonos",
+"hex6": "08bce8"
+},
+"the-mach-cone": {
+"title": "THE MACH CONE",
+"dom": "phonos",
+"hex6": "4f59cb"
+},
+"the-shepard-tone": {
+"title": "THE SHEPARD TONE",
+"dom": "phonos",
+"hex6": "6d5b45"
+},
+"the-organ-pipe": {
+"title": "THE ORGAN PIPE",
+"dom": "phonos",
+"hex6": "f351fc"
+},
+"the-refraction": {
+"title": "THE REFRACTION OF SOUND",
+"dom": "phonos",
+"hex6": "a007b2"
+},
+"the-diffraction": {
+"title": "THE DIFFRACTION OF SOUND",
+"dom": "phonos",
+"hex6": "27c3fa"
+},
+"the-interference": {
+"title": "THE INTERFERENCE",
+"dom": "phonos",
+"hex6": "7e3408"
+},
 "the-interval": {
 "title": "間 MA · THE INTERVAL",
 "dom": "phonos",
@@ -8599,6 +8934,41 @@
 "dom": "krasis",
 "hex6": "4c7ccc"
 },
+"the-eutectic": {
+"title": "THE EUTECTIC",
+"dom": "krasis",
+"hex6": "24a9f9"
+},
+"the-cooper-pair": {
+"title": "THE COOPER PAIR",
+"dom": "krasis",
+"hex6": "96cbf2"
+},
+"the-emulsion": {
+"title": "THE EMULSION",
+"dom": "krasis",
+"hex6": "1b05f4"
+},
+"the-bose-einstein": {
+"title": "THE BOSE-EINSTEIN CONDENSATE",
+"dom": "krasis",
+"hex6": "10676c"
+},
+"the-covalent-bond": {
+"title": "THE COVALENT BOND",
+"dom": "krasis",
+"hex6": "092dcc"
+},
+"the-hybridization": {
+"title": "THE ORBITAL HYBRIDIZATION",
+"dom": "krasis",
+"hex6": "0b52a2"
+},
+"the-annealing": {
+"title": "THE ANNEALING",
+"dom": "krasis",
+"hex6": "b80bb7"
+},
 "the-alloy": {
 "title": "THE ALLOY &middot; melts below both parents",
 "dom": "krasis",
@@ -8623,6 +8993,41 @@
 "title": "QUANTUM TUNNELING",
 "dom": "krasis",
 "hex6": "ff5ad8"
+},
+"the-triangulation": {
+"title": "THE TRIANGULATION",
+"dom": "strobilos",
+"hex6": "aa2c89"
+},
+"the-stereopsis": {
+"title": "THE STEREOPSIS",
+"dom": "strobilos",
+"hex6": "1503b8"
+},
+"the-time-of-flight": {
+"title": "THE TIME OF FLIGHT",
+"dom": "strobilos",
+"hex6": "6d3b20"
+},
+"the-rssi-ranging": {
+"title": "THE RSSI RANGING",
+"dom": "strobilos",
+"hex6": "23c320"
+},
+"the-angle-of-arrival": {
+"title": "THE ANGLE OF ARRIVAL",
+"dom": "strobilos",
+"hex6": "1dd483"
+},
+"the-dilution-of-precision": {
+"title": "THE DILUTION OF PRECISION",
+"dom": "strobilos",
+"hex6": "57376d"
+},
+"the-stadiametric": {
+"title": "THE STADIAMETRIC RANGE",
+"dom": "strobilos",
+"hex6": "e65821"
 },
 "the-trilateration": {
 "title": "◆ THE TRILATERATION · 3 ranges",
