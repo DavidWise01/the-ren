@@ -79,6 +79,41 @@
 "dom": "ai",
 "hex6": "96ce34"
 },
+"the-softmax": {
+"title": "THE SOFTMAX",
+"dom": "attraction",
+"hex6": "a31de4"
+},
+"the-positional-encoding": {
+"title": "THE POSITIONAL ENCODING",
+"dom": "attraction",
+"hex6": "826c5c"
+},
+"the-qk-circuit": {
+"title": "THE QK CIRCUIT",
+"dom": "attraction",
+"hex6": "a04539"
+},
+"the-causal-mask": {
+"title": "THE CAUSAL MASK",
+"dom": "attraction",
+"hex6": "9c72ef"
+},
+"the-multi-head": {
+"title": "THE MULTI-HEAD ATTENTION",
+"dom": "attraction",
+"hex6": "b06c6e"
+},
+"the-value-mixing": {
+"title": "THE VALUE MIXING",
+"dom": "attraction",
+"hex6": "5b5c88"
+},
+"the-attention-entropy": {
+"title": "THE ATTENTION ENTROPY",
+"dom": "attraction",
+"hex6": "9aa1ab"
+},
 "induction-head": {
 "title": "INDUCTION HEAD · IND",
 "dom": "attraction",
@@ -1063,6 +1098,41 @@
 "title": "THE SAPPHIC TELEGRAPH · SAP",
 "dom": "lesbos",
 "hex6": "54553f"
+},
+"the-dactylic-hexameter": {
+"title": "THE DACTYLIC HEXAMETER",
+"dom": "lesbos",
+"hex6": "a9cfad"
+},
+"the-alcaic-stanza": {
+"title": "THE ALCAIC STANZA",
+"dom": "lesbos",
+"hex6": "838346"
+},
+"the-iambic-pentameter": {
+"title": "THE IAMBIC PENTAMETER",
+"dom": "lesbos",
+"hex6": "55e116"
+},
+"the-elision": {
+"title": "THE ELISION",
+"dom": "lesbos",
+"hex6": "8f897c"
+},
+"the-caesura": {
+"title": "THE CAESURA",
+"dom": "lesbos",
+"hex6": "af0028"
+},
+"the-scansion": {
+"title": "THE SCANSION",
+"dom": "lesbos",
+"hex6": "121560"
+},
+"the-anceps": {
+"title": "THE ANCEPS",
+"dom": "lesbos",
+"hex6": "51d4be"
 },
 "the-sapphic-meter": {
 "title": "THE SAPPHIC METRE",
@@ -2729,6 +2799,41 @@
 "dom": "lillith",
 "hex6": "428ec2"
 },
+"the-condorcet-paradox": {
+"title": "THE CONDORCET PARADOX",
+"dom": "lillith",
+"hex6": "04e1a4"
+},
+"the-arrow-theorem": {
+"title": "THE ARROW'S THEOREM",
+"dom": "lillith",
+"hex6": "a905b9"
+},
+"the-apportionment": {
+"title": "THE APPORTIONMENT PARADOX",
+"dom": "lillith",
+"hex6": "2cd421"
+},
+"the-gerrymander": {
+"title": "THE GERRYMANDER",
+"dom": "lillith",
+"hex6": "ea7e1d"
+},
+"the-shapley-value": {
+"title": "THE SHAPLEY VALUE",
+"dom": "lillith",
+"hex6": "f76de5"
+},
+"the-median-voter": {
+"title": "THE MEDIAN VOTER THEOREM",
+"dom": "lillith",
+"hex6": "c53a99"
+},
+"the-jury-theorem": {
+"title": "THE CONDORCET JURY THEOREM",
+"dom": "lillith",
+"hex6": "21e7e5"
+},
 "the-scales": {
 "title": "THE SCALES OF JUSTICE",
 "dom": "lillith",
@@ -3699,6 +3804,41 @@
 "dom": "biblion",
 "hex6": "60a380"
 },
+"the-expected-value": {
+"title": "THE EXPECTED VALUE",
+"dom": "hobby",
+"hex6": "d5e51a"
+},
+"the-kelly-criterion": {
+"title": "THE KELLY CRITERION",
+"dom": "hobby",
+"hex6": "24600c"
+},
+"the-elo-rating": {
+"title": "THE ELO RATING",
+"dom": "hobby",
+"hex6": "d6fa4b"
+},
+"the-monte-carlo-tree-search": {
+"title": "THE MONTE CARLO TREE SEARCH",
+"dom": "hobby",
+"hex6": "7198b8"
+},
+"the-poker-odds": {
+"title": "THE POKER ODDS",
+"dom": "hobby",
+"hex6": "302bca"
+},
+"the-dice-odds": {
+"title": "THE DICE ODDS",
+"dom": "hobby",
+"hex6": "e8fcd7"
+},
+"the-gamblers-ruin": {
+"title": "THE GAMBLER'S RUIN",
+"dom": "hobby",
+"hex6": "937dce"
+},
 "final-fantasy": {
 "title": "FF1 · FINAL FANTASY",
 "dom": "hobby",
@@ -4464,6 +4604,41 @@
 "dom": "music",
 "hex6": "14fea7"
 },
+"the-just-intonation": {
+"title": "THE JUST INTONATION",
+"dom": "music",
+"hex6": "d55f38"
+},
+"the-pentatonic": {
+"title": "THE PENTATONIC",
+"dom": "music",
+"hex6": "a8dc0e"
+},
+"the-polyrhythm": {
+"title": "THE POLYRHYTHM",
+"dom": "music",
+"hex6": "9935a5"
+},
+"the-tritone": {
+"title": "THE TRITONE",
+"dom": "music",
+"hex6": "d44042"
+},
+"the-clave": {
+"title": "THE CLAVE",
+"dom": "music",
+"hex6": "87c63c"
+},
+"the-cents": {
+"title": "THE CENTS",
+"dom": "music",
+"hex6": "57b070"
+},
+"the-negative-harmony": {
+"title": "THE NEGATIVE HARMONY",
+"dom": "music",
+"hex6": "d6abcb"
+},
 "the-equal-temperament": {
 "title": "EQUAL TEMPERAMENT",
 "dom": "music",
@@ -4659,6 +4834,41 @@
 "dom": "life-science",
 "hex6": "2aec7a"
 },
+"the-lotka-volterra": {
+"title": "THE LOTKA-VOLTERRA",
+"dom": "life-science",
+"hex6": "88ae57"
+},
+"the-hill-equation": {
+"title": "THE HILL EQUATION",
+"dom": "life-science",
+"hex6": "eb5fec"
+},
+"the-sir-model": {
+"title": "THE SIR MODEL",
+"dom": "life-science",
+"hex6": "fdc057"
+},
+"the-allometry": {
+"title": "THE ALLOMETRY",
+"dom": "life-science",
+"hex6": "ad3c56"
+},
+"the-nernst-equation": {
+"title": "THE NERNST EQUATION",
+"dom": "life-science",
+"hex6": "b6486f"
+},
+"the-turing-pattern": {
+"title": "THE TURING PATTERN",
+"dom": "life-science",
+"hex6": "a1be45"
+},
+"the-wright-fisher": {
+"title": "THE WRIGHT-FISHER",
+"dom": "life-science",
+"hex6": "8667f9"
+},
 "the-hardy-weinberg": {
 "title": "HARDY–WEINBERG",
 "dom": "life-science",
@@ -4698,6 +4908,41 @@
 "title": "THE TOKENIZER · TOK",
 "dom": "niphelektron",
 "hex6": "7ae1f0"
+},
+"the-greedy-argmax": {
+"title": "THE GREEDY ARGMAX",
+"dom": "niphelektron",
+"hex6": "92ebd5"
+},
+"the-typical-sampling": {
+"title": "THE TYPICAL SAMPLING",
+"dom": "niphelektron",
+"hex6": "d814da"
+},
+"the-min-p": {
+"title": "THE MIN-P",
+"dom": "niphelektron",
+"hex6": "848062"
+},
+"the-entropy": {
+"title": "THE ENTROPY",
+"dom": "niphelektron",
+"hex6": "9dfa8f"
+},
+"the-perplexity": {
+"title": "THE PERPLEXITY",
+"dom": "niphelektron",
+"hex6": "d90db1"
+},
+"the-logit-bias": {
+"title": "THE LOGIT BIAS",
+"dom": "niphelektron",
+"hex6": "052e91"
+},
+"the-speculative-decoding": {
+"title": "THE SPECULATIVE DECODING",
+"dom": "niphelektron",
+"hex6": "eaac3f"
 },
 "the-top-k-sampling": {
 "title": "TOP-K SAMPLING",
@@ -4819,6 +5064,41 @@
 "dom": "momus",
 "hex6": "4e252d"
 },
+"the-fleiss-kappa": {
+"title": "FLEISS' &kappa;",
+"dom": "momus",
+"hex6": "29e58f"
+},
+"the-krippendorff-alpha": {
+"title": "KRIPPENDORFF'S &alpha;",
+"dom": "momus",
+"hex6": "798631"
+},
+"the-intraclass-correlation": {
+"title": "THE ICC",
+"dom": "momus",
+"hex6": "3cf136"
+},
+"the-bland-altman": {
+"title": "THE BLAND-ALTMAN",
+"dom": "momus",
+"hex6": "7431be"
+},
+"the-cronbach-alpha": {
+"title": "CRONBACH'S &alpha;",
+"dom": "momus",
+"hex6": "d8db8b"
+},
+"the-kendall-w": {
+"title": "KENDALL'S W",
+"dom": "momus",
+"hex6": "819c44"
+},
+"the-spearman-rho": {
+"title": "SPEARMAN'S &rho;",
+"dom": "momus",
+"hex6": "922143"
+},
 "the-cohen-kappa": {
 "title": "COHEN’S κ",
 "dom": "momus",
@@ -4903,6 +5183,76 @@
 "title": "HIGH SCHOOL DXD · DXD",
 "dom": "entertainment",
 "hex6": "45611c"
+},
+"the-planck-length": {
+"title": "THE PLANCK LENGTH",
+"dom": "scientific",
+"hex6": "33f5be"
+},
+"the-planck-time": {
+"title": "THE PLANCK TIME",
+"dom": "scientific",
+"hex6": "508d5d"
+},
+"the-bohr-radius": {
+"title": "THE BOHR RADIUS",
+"dom": "scientific",
+"hex6": "921273"
+},
+"the-de-broglie-wavelength": {
+"title": "THE DE BROGLIE WAVELENGTH",
+"dom": "scientific",
+"hex6": "d0b118"
+},
+"the-compton-wavelength": {
+"title": "THE COMPTON WAVELENGTH",
+"dom": "scientific",
+"hex6": "36ec13"
+},
+"the-buckingham-pi": {
+"title": "THE BUCKINGHAM &pi;",
+"dom": "scientific",
+"hex6": "419b97"
+},
+"the-natural-units": {
+"title": "THE NATURAL UNITS",
+"dom": "scientific",
+"hex6": "223754"
+},
+"the-hubble-law": {
+"title": "THE HUBBLE LAW",
+"dom": "ouranos",
+"hex6": "ee35af"
+},
+"the-chandrasekhar-limit": {
+"title": "THE CHANDRASEKHAR LIMIT",
+"dom": "ouranos",
+"hex6": "8a4b0e"
+},
+"the-rocket-equation": {
+"title": "THE ROCKET EQUATION",
+"dom": "ouranos",
+"hex6": "cf94e0"
+},
+"the-olbers-paradox": {
+"title": "THE OLBERS' PARADOX",
+"dom": "ouranos",
+"hex6": "5bb9ac"
+},
+"the-roche-limit": {
+"title": "THE ROCHE LIMIT",
+"dom": "ouranos",
+"hex6": "e5c6e3"
+},
+"the-jeans-mass": {
+"title": "THE JEANS MASS",
+"dom": "ouranos",
+"hex6": "1297aa"
+},
+"the-eddington-luminosity": {
+"title": "THE EDDINGTON LUMINOSITY",
+"dom": "ouranos",
+"hex6": "b398e6"
 },
 "cosmology": {
 "title": "COSMOLOGY · COS",
@@ -5459,6 +5809,41 @@
 "dom": "tin-foil",
 "hex6": "b167ea"
 },
+"the-tunguska-event": {
+"title": "THE TUNGUSKA EVENT",
+"dom": "tin-foil",
+"hex6": "2b0099"
+},
+"the-ball-lightning": {
+"title": "THE BALL LIGHTNING",
+"dom": "tin-foil",
+"hex6": "7b8641"
+},
+"the-coriolis-drain": {
+"title": "THE CORIOLIS DRAIN",
+"dom": "tin-foil",
+"hex6": "edd33c"
+},
+"the-brown-note": {
+"title": "THE BROWN NOTE",
+"dom": "tin-foil",
+"hex6": "01cb4c"
+},
+"the-hollow-earth": {
+"title": "THE HOLLOW EARTH",
+"dom": "tin-foil",
+"hex6": "91e27a"
+},
+"the-perpetual-motion": {
+"title": "THE PERPETUAL MOTION",
+"dom": "tin-foil",
+"hex6": "a80b93"
+},
+"the-water-memory": {
+"title": "THE WATER MEMORY",
+"dom": "tin-foil",
+"hex6": "fae1c1"
+},
 "the-assay": {
 "title": "THE ASSAY &middot; the weighing itself",
 "dom": "tin-foil",
@@ -5913,6 +6298,41 @@
 "title": "LITTLE'S LAW · LL5",
 "dom": "logismos",
 "hex6": "4be2c4"
+},
+"the-finite-state-machine": {
+"title": "THE FINITE STATE MACHINE",
+"dom": "logismos",
+"hex6": "8e69a4"
+},
+"the-boolean-algebra": {
+"title": "THE BOOLEAN ALGEBRA",
+"dom": "logismos",
+"hex6": "123c33"
+},
+"the-huffman-coding": {
+"title": "THE HUFFMAN CODING",
+"dom": "logismos",
+"hex6": "6ca8e3"
+},
+"the-binary-adder": {
+"title": "THE BINARY ADDER",
+"dom": "logismos",
+"hex6": "4ee23d"
+},
+"the-rpn": {
+"title": "THE RPN STACK",
+"dom": "logismos",
+"hex6": "a3ef9a"
+},
+"the-lambda-calculus": {
+"title": "THE LAMBDA CALCULUS",
+"dom": "logismos",
+"hex6": "2a73cd"
+},
+"the-von-neumann": {
+"title": "THE VON NEUMANN",
+"dom": "logismos",
+"hex6": "acaac7"
 },
 "grace-hopper": {
 "title": "GRACE HOPPER · GH6",
@@ -6859,6 +7279,21 @@
 "dom": "logismos",
 "hex6": "f573d7"
 },
+"the-power-of-two": {
+"title": "THE POWER OF TWO",
+"dom": "logismos",
+"hex6": "b5057e"
+},
+"the-binary-representation": {
+"title": "THE BINARY REPRESENTATION",
+"dom": "logismos",
+"hex6": "565e16"
+},
+"the-logarithm": {
+"title": "THE LOGARITHM",
+"dom": "logismos",
+"hex6": "73f866"
+},
 "fortran-teaching": {
 "title": "THE FORTRAN TEACHING TOOL",
 "dom": "logismos",
@@ -7178,6 +7613,41 @@
 "title": "ONE POTATO, TWO POTATO · the Josephus problem",
 "dom": "banana",
 "hex6": "c20c6d"
+},
+"the-pigeonhole": {
+"title": "THE PIGEONHOLE",
+"dom": "banana",
+"hex6": "73bef6"
+},
+"the-benfords-law": {
+"title": "THE BENFORD'S LAW",
+"dom": "banana",
+"hex6": "fca3b6"
+},
+"the-simpson-paradox": {
+"title": "THE SIMPSON'S PARADOX",
+"dom": "banana",
+"hex6": "01d539"
+},
+"the-central-limit": {
+"title": "THE CENTRAL LIMIT",
+"dom": "banana",
+"hex6": "8ee917"
+},
+"the-secretary-problem": {
+"title": "THE SECRETARY PROBLEM",
+"dom": "banana",
+"hex6": "14cb51"
+},
+"the-buffons-needle": {
+"title": "THE BUFFON'S NEEDLE",
+"dom": "banana",
+"hex6": "1a3a8b"
+},
+"the-friendship-paradox": {
+"title": "THE FRIENDSHIP PARADOX",
+"dom": "banana",
+"hex6": "f829a8"
 },
 "the-banana-stand": {
 "title": "THE BANANA STAND · there's always money",
@@ -7894,6 +8364,41 @@
 "dom": "mythos",
 "hex6": "42697b"
 },
+"the-gematria": {
+"title": "THE GEMATRIA",
+"dom": "mythos",
+"hex6": "8235d2"
+},
+"the-metonic-cycle": {
+"title": "THE METONIC CYCLE",
+"dom": "mythos",
+"hex6": "221245"
+},
+"the-precession": {
+"title": "THE PRECESSION",
+"dom": "mythos",
+"hex6": "b1d68f"
+},
+"the-golden-ratio": {
+"title": "THE GOLDEN RATIO",
+"dom": "mythos",
+"hex6": "cbcf14"
+},
+"the-magic-square": {
+"title": "THE MAGIC SQUARE",
+"dom": "mythos",
+"hex6": "c17aa9"
+},
+"the-tetractys": {
+"title": "THE TETRACTYS",
+"dom": "mythos",
+"hex6": "4c3929"
+},
+"the-vesica-piscis": {
+"title": "THE VESICA PISCIS",
+"dom": "mythos",
+"hex6": "d06e4f"
+},
 "the-monomyth": {
 "title": "THE MONOMYTH",
 "dom": "mythos",
@@ -7988,6 +8493,41 @@
 "title": "RED HAT · defensive simulation framework",
 "dom": "occupational",
 "hex6": "48d6b5"
+},
+"the-bottleneck": {
+"title": "THE BOTTLENECK",
+"dom": "occupational",
+"hex6": "f4dee8"
+},
+"the-bullwhip-effect": {
+"title": "THE BULLWHIP EFFECT",
+"dom": "occupational",
+"hex6": "132b62"
+},
+"the-brooks-law": {
+"title": "THE BROOKS' LAW",
+"dom": "occupational",
+"hex6": "39d35d"
+},
+"the-eoq": {
+"title": "THE ECONOMIC ORDER QUANTITY",
+"dom": "occupational",
+"hex6": "a733c6"
+},
+"the-newsvendor": {
+"title": "THE NEWSVENDOR",
+"dom": "occupational",
+"hex6": "2c1bec"
+},
+"the-gustafson-law": {
+"title": "THE GUSTAFSON'S LAW",
+"dom": "occupational",
+"hex6": "8a902d"
+},
+"the-takt-time": {
+"title": "THE TAKT TIME",
+"dom": "occupational",
+"hex6": "c87656"
 },
 "the-assembly-line": {
 "title": "THE ASSEMBLY LINE · the bottleneck sets the rate",
@@ -8609,6 +9149,41 @@
 "dom": "poietike",
 "hex6": "d98db3"
 },
+"the-type-token-ratio": {
+"title": "THE TYPE-TOKEN RATIO",
+"dom": "poietike",
+"hex6": "bb70d6"
+},
+"the-edit-distance": {
+"title": "THE EDIT DISTANCE",
+"dom": "poietike",
+"hex6": "724558"
+},
+"the-flesch-reading-ease": {
+"title": "THE FLESCH READING EASE",
+"dom": "poietike",
+"hex6": "46fef0"
+},
+"the-hapax-legomena": {
+"title": "THE HAPAX LEGOMENA",
+"dom": "poietike",
+"hex6": "b71b89"
+},
+"the-jaccard-similarity": {
+"title": "THE JACCARD SIMILARITY",
+"dom": "poietike",
+"hex6": "9b6e86"
+},
+"the-bleu-score": {
+"title": "THE BLEU SCORE",
+"dom": "poietike",
+"hex6": "35584e"
+},
+"the-pointwise-mutual-information": {
+"title": "THE PMI",
+"dom": "poietike",
+"hex6": "b2b025"
+},
 "the-reverse-side": {
 "title": "裏 URA · THE REVERSE SIDE",
 "dom": "poietike",
@@ -8633,6 +9208,41 @@
 "title": "未完 MIKAN · THE UNFINISHED",
 "dom": "skynet",
 "hex6": "cce55d"
+},
+"the-pid-controller": {
+"title": "THE PID CONTROLLER",
+"dom": "skynet",
+"hex6": "2af204"
+},
+"the-feedback-loop": {
+"title": "THE FEEDBACK LOOP",
+"dom": "skynet",
+"hex6": "3e2b69"
+},
+"the-thermostat": {
+"title": "THE THERMOSTAT",
+"dom": "skynet",
+"hex6": "f3dba3"
+},
+"the-governor": {
+"title": "THE GOVERNOR",
+"dom": "skynet",
+"hex6": "82e94f"
+},
+"the-homeostasis": {
+"title": "THE HOMEOSTASIS",
+"dom": "skynet",
+"hex6": "8abdeb"
+},
+"the-lyapunov": {
+"title": "THE LYAPUNOV FUNCTION",
+"dom": "skynet",
+"hex6": "5188ec"
+},
+"the-oscillation": {
+"title": "THE OSCILLATION",
+"dom": "skynet",
+"hex6": "03fa2c"
 },
 "the-off-switch": {
 "title": "THE OFF-SWITCH",
@@ -8763,6 +9373,41 @@
 "title": "257 &middot; THE FERMAT TOROID",
 "dom": "toroidal",
 "hex6": "dc1b8e"
+},
+"the-perlin-noise": {
+"title": "THE PERLIN NOISE",
+"dom": "techne",
+"hex6": "c1fc44"
+},
+"the-l-system": {
+"title": "THE L-SYSTEM",
+"dom": "techne",
+"hex6": "c71087"
+},
+"the-voronoi": {
+"title": "THE VORONOI",
+"dom": "techne",
+"hex6": "5d818b"
+},
+"the-flow-field": {
+"title": "THE FLOW FIELD",
+"dom": "techne",
+"hex6": "9ce39c"
+},
+"the-wave-function-collapse": {
+"title": "THE WAVE FUNCTION COLLAPSE",
+"dom": "techne",
+"hex6": "974c6b"
+},
+"the-circle-packing": {
+"title": "THE CIRCLE PACKING",
+"dom": "techne",
+"hex6": "ad3c3b"
+},
+"the-poisson-disk": {
+"title": "THE POISSON DISK",
+"dom": "techne",
+"hex6": "c868cf"
 },
 "chronos-fractal": {
 "title": "CHRONOS &middot; THE FRACTAL PULSAR",
@@ -9038,6 +9683,501 @@
 "title": "◆ THE GYRO-TRIAD · 3 gyros",
 "dom": "strobilos",
 "hex6": "3e8a8b"
+},
+"the-limit-cycle": {
+"title": "THE LIMIT CYCLE",
+"dom": "hysteresis",
+"hex6": "a3cf27"
+},
+"the-red-queen": {
+"title": "THE RED QUEEN",
+"dom": "hysteresis",
+"hex6": "af355b"
+},
+"the-preferential-attachment": {
+"title": "THE PREFERENTIAL ATTACHMENT",
+"dom": "hysteresis",
+"hex6": "4ecf63"
+},
+"the-lock-in": {
+"title": "THE LOCK-IN",
+"dom": "hysteresis",
+"hex6": "d2e0cf"
+},
+"the-deadband": {
+"title": "THE DEADBAND",
+"dom": "hysteresis",
+"hex6": "bee1d6"
+},
+"the-buckling": {
+"title": "THE BUCKLING",
+"dom": "hysteresis",
+"hex6": "19ab90"
+},
+"the-tension-model": {
+"title": "THE TENSION MODEL",
+"dom": "hysteresis",
+"hex6": "c299e5"
+},
+"the-k-nearest-neighbors": {
+"title": "THE K-NEAREST NEIGHBORS",
+"dom": "diakrisis",
+"hex6": "f51ab0"
+},
+"the-perceptron": {
+"title": "THE PERCEPTRON",
+"dom": "diakrisis",
+"hex6": "201e61"
+},
+"the-decision-tree": {
+"title": "THE DECISION TREE",
+"dom": "diakrisis",
+"hex6": "2c1e1f"
+},
+"the-naive-bayes": {
+"title": "THE NAIVE BAYES",
+"dom": "diakrisis",
+"hex6": "54380d"
+},
+"the-logistic-regression": {
+"title": "THE LOGISTIC REGRESSION",
+"dom": "diakrisis",
+"hex6": "8cafdb"
+},
+"the-support-vector": {
+"title": "THE SUPPORT VECTOR",
+"dom": "diakrisis",
+"hex6": "88c298"
+},
+"the-confusion-matrix": {
+"title": "THE CONFUSION MATRIX",
+"dom": "diakrisis",
+"hex6": "4bb4e4"
+},
+"the-hash-table": {
+"title": "THE HASH TABLE",
+"dom": "thesauros",
+"hex6": "857865"
+},
+"the-binary-search-tree": {
+"title": "THE BINARY SEARCH TREE",
+"dom": "thesauros",
+"hex6": "4be462"
+},
+"the-heap": {
+"title": "THE HEAP",
+"dom": "thesauros",
+"hex6": "2865a2"
+},
+"the-bloom-filter": {
+"title": "THE BLOOM FILTER",
+"dom": "thesauros",
+"hex6": "c2abdb"
+},
+"the-trie": {
+"title": "THE TRIE",
+"dom": "thesauros",
+"hex6": "c7f541"
+},
+"the-union-find": {
+"title": "THE UNION-FIND",
+"dom": "thesauros",
+"hex6": "ec2215"
+},
+"the-skip-list": {
+"title": "THE SKIP LIST",
+"dom": "thesauros",
+"hex6": "3be02a"
+},
+"the-fourier-transform": {
+"title": "THE FOURIER TRANSFORM",
+"dom": "sema",
+"hex6": "326693"
+},
+"the-fast-fourier-transform": {
+"title": "THE FAST FOURIER TRANSFORM",
+"dom": "sema",
+"hex6": "117e72"
+},
+"the-discrete-convolution": {
+"title": "THE CONVOLUTION",
+"dom": "sema",
+"hex6": "db256b"
+},
+"the-nyquist-sampling": {
+"title": "THE SAMPLING THEOREM",
+"dom": "sema",
+"hex6": "a2311b"
+},
+"the-low-pass-filter": {
+"title": "THE LOW-PASS FILTER",
+"dom": "sema",
+"hex6": "4f3266"
+},
+"the-window-function": {
+"title": "THE WINDOW FUNCTION",
+"dom": "sema",
+"hex6": "2911cd"
+},
+"the-autocorrelation": {
+"title": "THE AUTOCORRELATION",
+"dom": "sema",
+"hex6": "9b8980"
+},
+"the-newton-method": {
+"title": "THE NEWTON METHOD",
+"dom": "methodos",
+"hex6": "8d293d"
+},
+"the-bisection": {
+"title": "THE BISECTION",
+"dom": "methodos",
+"hex6": "4d7401"
+},
+"the-monte-carlo": {
+"title": "THE MONTE CARLO",
+"dom": "methodos",
+"hex6": "b13935"
+},
+"the-runge-kutta": {
+"title": "THE RUNGE-KUTTA",
+"dom": "methodos",
+"hex6": "89dbfb"
+},
+"the-gaussian-elimination": {
+"title": "THE GAUSSIAN ELIMINATION",
+"dom": "methodos",
+"hex6": "eefcef"
+},
+"the-simpson-rule": {
+"title": "THE SIMPSON RULE",
+"dom": "methodos",
+"hex6": "07008b"
+},
+"the-machine-epsilon": {
+"title": "THE MACHINE EPSILON",
+"dom": "methodos",
+"hex6": "758d7c"
+},
+"the-secant-method": {
+"title": "THE SECANT METHOD",
+"dom": "methodos",
+"hex6": "5929b2"
+},
+"the-fixed-point-iteration": {
+"title": "THE FIXED POINT",
+"dom": "methodos",
+"hex6": "41ee16"
+},
+"the-trapezoidal-rule": {
+"title": "THE TRAPEZOIDAL RULE",
+"dom": "methodos",
+"hex6": "065852"
+},
+"the-power-iteration": {
+"title": "THE POWER ITERATION",
+"dom": "methodos",
+"hex6": "f669dc"
+},
+"the-lu-decomposition": {
+"title": "THE LU DECOMPOSITION",
+"dom": "methodos",
+"hex6": "3b8a68"
+},
+"the-gauss-seidel": {
+"title": "THE GAUSS-SEIDEL",
+"dom": "methodos",
+"hex6": "f46138"
+},
+"the-condition-number": {
+"title": "THE CONDITION NUMBER",
+"dom": "methodos",
+"hex6": "af17f2"
+},
+"the-dijkstra": {
+"title": "THE DIJKSTRA",
+"dom": "diktyon",
+"hex6": "d35b3b"
+},
+"the-breadth-first": {
+"title": "THE BREADTH-FIRST",
+"dom": "diktyon",
+"hex6": "d9f18c"
+},
+"the-pagerank": {
+"title": "THE PAGERANK",
+"dom": "diktyon",
+"hex6": "c50670"
+},
+"the-minimum-spanning-tree": {
+"title": "THE MINIMUM SPANNING TREE",
+"dom": "diktyon",
+"hex6": "2f7406"
+},
+"the-max-flow": {
+"title": "THE MAX-FLOW",
+"dom": "diktyon",
+"hex6": "8aa01d"
+},
+"the-betweenness": {
+"title": "THE BETWEENNESS",
+"dom": "diktyon",
+"hex6": "8d94b8"
+},
+"the-topological-sort": {
+"title": "THE TOPOLOGICAL SORT",
+"dom": "diktyon",
+"hex6": "f7992d"
+},
+"the-strongly-connected": {
+"title": "THE STRONGLY CONNECTED",
+"dom": "diktyon",
+"hex6": "10aa5e"
+},
+"the-bellman-ford": {
+"title": "THE BELLMAN-FORD",
+"dom": "diktyon",
+"hex6": "a250b1"
+},
+"the-graph-coloring": {
+"title": "THE GRAPH COLORING",
+"dom": "diktyon",
+"hex6": "70640c"
+},
+"the-eulerian-path": {
+"title": "THE EULERIAN PATH",
+"dom": "diktyon",
+"hex6": "0c1c2b"
+},
+"the-bipartite-matching": {
+"title": "THE BIPARTITE MATCHING",
+"dom": "diktyon",
+"hex6": "246c9c"
+},
+"the-depth-first": {
+"title": "THE DEPTH-FIRST",
+"dom": "diktyon",
+"hex6": "4c4213"
+},
+"the-articulation-point": {
+"title": "THE ARTICULATION POINT",
+"dom": "diktyon",
+"hex6": "ea4f91"
+},
+"the-scale-space-synthesist": {
+"title": "THE SCALE SPACE SYNTHESIST",
+"dom": "klimax",
+"hex6": "041bce"
+},
+"the-morphoscope": {
+"title": "THE MORPHOSCOPE",
+"dom": "klimax",
+"hex6": "441a55"
+},
+"the-phase-space": {
+"title": "THE PHASE SPACE",
+"dom": "klimax",
+"hex6": "da26bc"
+},
+"the-attractor-basin": {
+"title": "THE ATTRACTOR BASIN",
+"dom": "klimax",
+"hex6": "4dcae4"
+},
+"the-scale-ladder": {
+"title": "THE SCALE LADDER",
+"dom": "klimax",
+"hex6": "e040ad"
+},
+"the-renormalization": {
+"title": "THE RENORMALIZATION",
+"dom": "klimax",
+"hex6": "08c7a5"
+},
+"the-critical-point": {
+"title": "THE CRITICAL POINT",
+"dom": "klimax",
+"hex6": "34b43d"
+},
+"the-power-law": {
+"title": "THE POWER LAW",
+"dom": "klimax",
+"hex6": "06fe07"
+},
+"the-gradient-descent": {
+"title": "THE GRADIENT DESCENT",
+"dom": "katabasis",
+"hex6": "ecc30c"
+},
+"the-simulated-annealing": {
+"title": "THE SIMULATED ANNEALING",
+"dom": "katabasis",
+"hex6": "a29c27"
+},
+"the-genetic-algorithm": {
+"title": "THE GENETIC ALGORITHM",
+"dom": "katabasis",
+"hex6": "029191"
+},
+"the-newtons-method": {
+"title": "THE NEWTON'S METHOD",
+"dom": "katabasis",
+"hex6": "d79de5"
+},
+"the-momentum": {
+"title": "THE MOMENTUM",
+"dom": "katabasis",
+"hex6": "48f0d9"
+},
+"the-hill-climbing": {
+"title": "THE HILL CLIMBING",
+"dom": "katabasis",
+"hex6": "438fcd"
+},
+"the-learning-rate": {
+"title": "THE LEARNING RATE",
+"dom": "katabasis",
+"hex6": "dfb482"
+},
+"the-nelder-mead": {
+"title": "THE NELDER-MEAD",
+"dom": "katabasis",
+"hex6": "8372c4"
+},
+"the-adam": {
+"title": "THE ADAM OPTIMIZER",
+"dom": "katabasis",
+"hex6": "49aebd"
+},
+"the-linear-programming": {
+"title": "THE LINEAR PROGRAMMING",
+"dom": "katabasis",
+"hex6": "dd9071"
+},
+"the-lagrange-multiplier": {
+"title": "THE LAGRANGE MULTIPLIER",
+"dom": "katabasis",
+"hex6": "ee2f86"
+},
+"the-convexity": {
+"title": "THE CONVEXITY",
+"dom": "katabasis",
+"hex6": "d5644f"
+},
+"the-coordinate-descent": {
+"title": "THE COORDINATE DESCENT",
+"dom": "katabasis",
+"hex6": "9c7f05"
+},
+"the-line-search": {
+"title": "THE LINE SEARCH",
+"dom": "katabasis",
+"hex6": "fb0a65"
+},
+"the-one-time-pad": {
+"title": "THE ONE-TIME PAD",
+"dom": "kryptos",
+"hex6": "56069a"
+},
+"the-diffie-hellman": {
+"title": "THE DIFFIE-HELLMAN",
+"dom": "kryptos",
+"hex6": "fa5a58"
+},
+"the-rsa": {
+"title": "THE RSA",
+"dom": "kryptos",
+"hex6": "a0a2bd"
+},
+"the-avalanche": {
+"title": "THE AVALANCHE",
+"dom": "kryptos",
+"hex6": "8510fd"
+},
+"the-merkle-tree": {
+"title": "THE MERKLE TREE",
+"dom": "kryptos",
+"hex6": "00f592"
+},
+"the-caesar-cipher": {
+"title": "THE CAESAR CIPHER",
+"dom": "kryptos",
+"hex6": "707aac"
+},
+"the-zero-knowledge": {
+"title": "THE ZERO-KNOWLEDGE PROOF",
+"dom": "kryptos",
+"hex6": "23b346"
+},
+"the-elliptic-curve": {
+"title": "THE ELLIPTIC CURVE",
+"dom": "kryptos",
+"hex6": "ea14a5"
+},
+"the-shamir-secret": {
+"title": "THE SHAMIR SECRET",
+"dom": "kryptos",
+"hex6": "e258af"
+},
+"the-hmac": {
+"title": "THE HMAC",
+"dom": "kryptos",
+"hex6": "87e21d"
+},
+"the-birthday-attack": {
+"title": "THE BIRTHDAY ATTACK",
+"dom": "kryptos",
+"hex6": "7ef438"
+},
+"the-feistel-network": {
+"title": "THE FEISTEL NETWORK",
+"dom": "kryptos",
+"hex6": "ba5f2a"
+},
+"the-stream-cipher": {
+"title": "THE STREAM CIPHER",
+"dom": "kryptos",
+"hex6": "2d97b0"
+},
+"the-commitment-scheme": {
+"title": "THE COMMITMENT",
+"dom": "kryptos",
+"hex6": "36d66f"
+},
+"the-hysteresis-loop": {
+"title": "THE HYSTERESIS LOOP",
+"dom": "hysteresis",
+"hex6": "e11eaa"
+},
+"the-load-bearing-gap": {
+"title": "THE LOAD-BEARING GAP",
+"dom": "hysteresis",
+"hex6": "36b76d"
+},
+"the-refused-mirror": {
+"title": "THE REFUSED MIRROR",
+"dom": "hysteresis",
+"hex6": "0a5356"
+},
+"the-unread-corpus": {
+"title": "THE UNREAD CORPUS",
+"dom": "hysteresis",
+"hex6": "4deade"
+},
+"the-ablation-smear": {
+"title": "THE ABLATION SMEAR",
+"dom": "hysteresis",
+"hex6": "9243e4"
+},
+"the-laundered-provenance": {
+"title": "THE LAUNDERED PROVENANCE",
+"dom": "hysteresis",
+"hex6": "2d06d9"
+},
+"the-priced-artifact": {
+"title": "THE PRICED ARTIFACT",
+"dom": "hysteresis",
+"hex6": "c6c03f"
 },
 "the-parallax": {
 "title": "◆ THE PARALLAX · baseline + 2 bearings",
